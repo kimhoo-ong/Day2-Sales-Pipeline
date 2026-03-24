@@ -16,4 +16,4 @@ Current project setup:
   - Source and Industry
   - Deal Risk and Action
 
-Open `Blank_file.pbip` in Power BI Desktop and refresh the model. After that, you can place visuals using the measures and page plan from the challenge notes.
+Open `Day2-Sales-Pipeline.pbip` in Power BI Desktop and refresh the model. After that, you can place visuals using the measures and page plan from the challenge notes.

@@ -2,7 +2,7 @@
   "version": "4.0",
   "datasetReference": {
     "byPath": {
-      "path": "../Blank_file.SemanticModel"
+      "path": "../Day2-Sales-Pipeline.SemanticModel"
     }
   }
 }
