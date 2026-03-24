@@ -12,3 +12,221 @@ annotation PBI_ProTooling = ["DevMode"]
 
 ref cultureInfo en-MY
 
+table FactPipeline
+	column deal_id
+		dataType: string
+		summarizeBy: none
+		sourceColumn: deal_id
+
+	column company
+		dataType: string
+		summarizeBy: none
+		sourceColumn: company
+
+	column contact_name
+		dataType: string
+		summarizeBy: none
+		sourceColumn: contact_name
+
+	column stage
+		dataType: string
+		summarizeBy: none
+		sortByColumn: 'Stage Sort Order'
+		sourceColumn: stage
+
+	column deal_value
+		dataType: double
+		formatString: "$#,0.00"
+		summarizeBy: sum
+		sourceColumn: deal_value
+
+	column probability_pct
+		dataType: int64
+		formatString: "0\\%"
+		summarizeBy: average
+		sourceColumn: probability_pct
+
+	column sales_rep
+		dataType: string
+		summarizeBy: none
+		sourceColumn: sales_rep
+
+	column created_date
+		dataType: dateTime
+		formatString: "yyyy-mm-dd"
+		sourceColumn: created_date
+
+	column expected_close_date
+		dataType: dateTime
+		formatString: "yyyy-mm-dd"
+		sourceColumn: expected_close_date
+
+	column lead_source
+		dataType: string
+		summarizeBy: none
+		sourceColumn: lead_source
+
+	column industry
+		dataType: string
+		summarizeBy: none
+		sourceColumn: industry
+
+	column days_in_stage
+		dataType: int64
+		formatString: "#,0"
+		summarizeBy: average
+		sourceColumn: days_in_stage
+
+	column weighted_value
+		dataType: double
+		formatString: "$#,0.00"
+		summarizeBy: sum
+		sourceColumn: weighted_value
+
+	column 'Expected Close Lag Days'
+		dataType: int64
+		formatString: "#,0"
+		summarizeBy: average
+		sourceColumn: 'Expected Close Lag Days'
+
+	column 'Is Bad Close Date'
+		dataType: boolean
+		summarizeBy: none
+		sourceColumn: 'Is Bad Close Date'
+
+	column 'Is Closed Won'
+		dataType: boolean
+		summarizeBy: none
+		sourceColumn: 'Is Closed Won'
+
+	column 'Is Closed Lost'
+		dataType: boolean
+		summarizeBy: none
+		sourceColumn: 'Is Closed Lost'
+
+	column 'Is Open Deal'
+		dataType: boolean
+		summarizeBy: none
+		sourceColumn: 'Is Open Deal'
+
+	column 'Stage Sort Order'
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: 'Stage Sort Order'
+
+	column 'Created Month'
+		dataType: dateTime
+		formatString: "yyyy-mm"
+		summarizeBy: none
+		sourceColumn: 'Created Month'
+
+	column 'Expected Close Month'
+		dataType: dateTime
+		formatString: "yyyy-mm"
+		summarizeBy: none
+		sourceColumn: 'Expected Close Month'
+
+	column 'Is Stalled Deal'
+		dataType: boolean
+		summarizeBy: none
+		sourceColumn: 'Is Stalled Deal'
+
+	measure 'Deal Count' =
+		COUNTROWS(FactPipeline)
+		formatString: "#,0"
+
+	measure 'Total Pipeline Value' =
+		SUM(FactPipeline[deal_value])
+		formatString: "$#,0.00"
+
+	measure 'Weighted Pipeline Value' =
+		SUM(FactPipeline[weighted_value])
+		formatString: "$#,0.00"
+
+	measure 'Average Deal Size' =
+		DIVIDE([Total Pipeline Value], [Deal Count])
+		formatString: "$#,0.00"
+
+	measure 'Average Win Probability' =
+		AVERAGE(FactPipeline[probability_pct])
+		formatString: "0.00\\%"
+
+	measure 'Average Days In Stage' =
+		AVERAGE(FactPipeline[days_in_stage])
+		formatString: "0.00"
+
+	measure 'Closed Won Count' =
+		CALCULATE([Deal Count], FactPipeline[stage] = "Closed Won")
+		formatString: "#,0"
+
+	measure 'Closed Lost Count' =
+		CALCULATE([Deal Count], FactPipeline[stage] = "Closed Lost")
+		formatString: "#,0"
+
+	measure 'Open Deal Count' =
+		CALCULATE([Deal Count], FactPipeline[Is Open Deal] = TRUE())
+		formatString: "#,0"
+
+	measure 'Open Pipeline Value' =
+		CALCULATE([Total Pipeline Value], FactPipeline[Is Open Deal] = TRUE())
+		formatString: "$#,0.00"
+
+	measure 'Open Weighted Pipeline' =
+		CALCULATE([Weighted Pipeline Value], FactPipeline[Is Open Deal] = TRUE())
+		formatString: "$#,0.00"
+
+	measure 'Win Rate' =
+		DIVIDE([Closed Won Count], [Closed Won Count] + [Closed Lost Count])
+		formatString: "0.00\\%"
+
+	measure 'Weighted Coverage Ratio' =
+		DIVIDE([Weighted Pipeline Value], [Total Pipeline Value])
+		formatString: "0.00\\%"
+
+	measure 'Stalled Deals Count' =
+		CALCULATE([Deal Count], FactPipeline[Is Stalled Deal] = TRUE())
+		formatString: "#,0"
+
+	measure 'Bad Expected Close Date Count' =
+		CALCULATE([Deal Count], FactPipeline[Is Bad Close Date] = TRUE())
+		formatString: "#,0"
+
+	measure 'Bad Expected Close Date Value' =
+		CALCULATE([Total Pipeline Value], FactPipeline[Is Bad Close Date] = TRUE())
+		formatString: "$#,0.00"
+
+	measure 'Clean Forecast Value' =
+		CALCULATE(
+			[Weighted Pipeline Value],
+			FactPipeline[Is Bad Close Date] = FALSE(),
+			FactPipeline[Is Open Deal] = TRUE()
+		)
+		formatString: "$#,0.00"
+
+	measure 'High Value Stalled Deals' =
+		CALCULATE(
+			[Deal Count],
+			FactPipeline[Is Stalled Deal] = TRUE(),
+			FactPipeline[deal_value] >= 250000
+		)
+		formatString: "#,0"
+
+	partition FactPipeline = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("/Users/kimhooveeyuan/Documents/blank_project/data/day02_sales_pipeline.csv"), [Delimiter = ",", Columns = 13, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"deal_id", type text}, {"company", type text}, {"contact_name", type text}, {"stage", type text}, {"deal_value", type number}, {"probability_pct", Int64.Type}, {"sales_rep", type text}, {"created_date", type date}, {"expected_close_date", type date}, {"lead_source", type text}, {"industry", type text}, {"days_in_stage", Int64.Type}, {"weighted_value", type number}}),
+				    #"Added Expected Close Lag Days" = Table.AddColumn(#"Changed Type", "Expected Close Lag Days", each Duration.Days([expected_close_date] - [created_date]), Int64.Type),
+				    #"Added Is Bad Close Date" = Table.AddColumn(#"Added Expected Close Lag Days", "Is Bad Close Date", each [Expected Close Lag Days] < 0, type logical),
+				    #"Added Is Closed Won" = Table.AddColumn(#"Added Is Bad Close Date", "Is Closed Won", each [stage] = "Closed Won", type logical),
+				    #"Added Is Closed Lost" = Table.AddColumn(#"Added Is Closed Won", "Is Closed Lost", each [stage] = "Closed Lost", type logical),
+				    #"Added Is Open Deal" = Table.AddColumn(#"Added Is Closed Lost", "Is Open Deal", each [stage] <> "Closed Won" and [stage] <> "Closed Lost", type logical),
+				    #"Added Stage Sort Order" = Table.AddColumn(#"Added Is Open Deal", "Stage Sort Order", each if [stage] = "Lead" then 1 else if [stage] = "MQL" then 2 else if [stage] = "SQL" then 3 else if [stage] = "Opportunity" then 4 else if [stage] = "Proposal" then 5 else if [stage] = "Negotiation" then 6 else if [stage] = "Closed Won" then 7 else if [stage] = "Closed Lost" then 8 else null, Int64.Type),
+				    #"Added Created Month" = Table.AddColumn(#"Added Stage Sort Order", "Created Month", each Date.StartOfMonth([created_date]), type date),
+				    #"Added Expected Close Month" = Table.AddColumn(#"Added Created Month", "Expected Close Month", each Date.StartOfMonth([expected_close_date]), type date),
+				    #"Added Is Stalled Deal" = Table.AddColumn(#"Added Expected Close Month", "Is Stalled Deal", each [days_in_stage] >= 60, type logical)
+				in
+				    #"Added Is Stalled Deal"

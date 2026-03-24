@@ -1,0 +1,1501 @@
+deal_id,company,contact_name,stage,deal_value,probability_pct,sales_rep,created_date,expected_close_date,lead_source,industry,days_in_stage,weighted_value
+DEAL-5000,Company_47,Contact_266,MQL,378312.53,56,Rep_13,2024-09-09,2024-03-01,Cold Call,Manufacturing,71,211855.02
+DEAL-5001,Company_77,Contact_186,Lead,81051.63,23,Rep_7,2024-04-05,2024-03-06,Website,Logistics,20,18641.87
+DEAL-5002,Company_6,Contact_158,Proposal,434077.85,58,Rep_11,2024-09-17,2024-12-19,Partner,Technology,68,251765.15
+DEAL-5003,Company_141,Contact_157,Closed Lost,124075.69,53,Rep_15,2024-03-08,2025-06-22,Event,Technology,46,65760.12
+DEAL-5004,Company_183,Contact_166,Lead,84403.89,34,Rep_1,2024-02-29,2025-01-06,Website,Finance,50,28697.32
+DEAL-5005,Company_157,Contact_267,Opportunity,40097.66,37,Rep_2,2024-07-18,2025-06-03,Referral,Technology,76,14836.13
+DEAL-5006,Company_62,Contact_235,Closed Lost,357125.74,77,Rep_14,2024-09-09,2025-04-17,Referral,Technology,15,274986.82
+DEAL-5007,Company_97,Contact_28,Closed Lost,97170.87,69,Rep_9,2024-03-16,2024-07-15,Partner,Logistics,36,67047.9
+DEAL-5008,Company_191,Contact_160,MQL,102845.57,49,Rep_10,2024-11-15,2024-04-19,Partner,Retail,26,50394.33
+DEAL-5009,Company_85,Contact_86,Proposal,88999.82,62,Rep_6,2024-11-14,2024-11-28,Cold Call,Manufacturing,50,55179.89
+DEAL-5010,Company_167,Contact_50,Closed Won,156368.59,27,Rep_13,2024-01-30,2024-12-28,Referral,Retail,15,42219.52
+DEAL-5011,Company_115,Contact_259,Negotiation,470899.66,52,Rep_10,2024-04-21,2025-03-11,Email Campaign,Manufacturing,11,244867.82
+DEAL-5012,Company_100,Contact_257,Negotiation,245877.73,58,Rep_4,2024-07-22,2024-11-09,Referral,Manufacturing,62,142609.08
+DEAL-5013,Company_117,Contact_281,Closed Won,134134.58,29,Rep_10,2024-06-28,2025-05-23,Website,Technology,5,38899.03
+DEAL-5014,Company_45,Contact_118,Opportunity,89343.43,21,Rep_1,2024-04-03,2025-04-16,Referral,Technology,38,18762.12
+DEAL-5015,Company_85,Contact_128,Lead,14356.2,54,Rep_4,2024-07-12,2024-12-11,Referral,Healthcare,88,7752.35
+DEAL-5016,Company_61,Contact_233,Negotiation,185671.36,94,Rep_4,2024-12-18,2024-11-24,Website,Healthcare,89,174531.08
+DEAL-5017,Company_151,Contact_58,Negotiation,59480.43,48,Rep_12,2024-04-22,2024-03-10,Event,Logistics,16,28550.61
+DEAL-5018,Company_122,Contact_17,Closed Won,18370.94,90,Rep_12,2024-03-21,2025-03-16,Cold Call,Finance,83,16533.85
+DEAL-5019,Company_80,Contact_126,Closed Lost,55974.95,85,Rep_2,2024-09-27,2025-01-26,Email Campaign,Finance,30,47578.71
+DEAL-5020,Company_164,Contact_189,SQL,162668.15,75,Rep_14,2024-07-27,2025-05-11,Email Campaign,Retail,18,122001.11
+DEAL-5021,Company_91,Contact_137,Closed Lost,376677.53,89,Rep_13,2024-09-10,2024-04-15,Event,Finance,45,335243.0
+DEAL-5022,Company_190,Contact_64,Lead,38158.19,44,Rep_7,2024-08-24,2024-05-11,Event,Logistics,44,16789.6
+DEAL-5023,Company_121,Contact_156,Closed Lost,340943.59,77,Rep_4,2024-10-05,2025-01-21,Email Campaign,Technology,34,262526.56
+DEAL-5024,Company_177,Contact_282,MQL,312168.55,18,Rep_7,2024-09-23,2024-10-25,Partner,Logistics,39,56190.34
+DEAL-5025,Company_197,Contact_83,Negotiation,441585.15,35,Rep_9,2024-08-09,2024-12-12,Email Campaign,Retail,9,154554.8
+DEAL-5026,Company_66,Contact_120,Negotiation,96073.57,58,Rep_10,2024-06-15,2024-09-28,Website,Logistics,24,55722.67
+DEAL-5027,Company_52,Contact_94,Negotiation,398162.51,8,Rep_6,2024-06-17,2025-01-07,Partner,Finance,18,31853.0
+DEAL-5028,Company_167,Contact_88,Closed Lost,433108.28,77,Rep_2,2024-04-07,2025-01-15,Event,Logistics,83,333493.38
+DEAL-5029,Company_47,Contact_197,Proposal,488359.65,92,Rep_10,2024-06-13,2024-06-01,Cold Call,Logistics,44,449290.88
+DEAL-5030,Company_150,Contact_113,MQL,405231.93,15,Rep_11,2024-08-09,2025-03-06,Cold Call,Healthcare,49,60784.79
+DEAL-5031,Company_36,Contact_186,Proposal,66265.26,99,Rep_5,2024-09-19,2024-10-27,Partner,Finance,40,65602.61
+DEAL-5032,Company_174,Contact_6,SQL,473828.86,13,Rep_10,2024-10-09,2024-12-06,Cold Call,Finance,79,61597.75
+DEAL-5033,Company_138,Contact_198,Proposal,408421.07,17,Rep_9,2024-05-17,2024-12-26,Cold Call,Technology,72,69431.58
+DEAL-5034,Company_104,Contact_32,Opportunity,110100.97,77,Rep_8,2024-09-25,2025-02-26,Event,Retail,62,84777.75
+DEAL-5035,Company_90,Contact_113,Lead,86772.71,70,Rep_1,2024-06-09,2024-07-25,Referral,Logistics,28,60740.9
+DEAL-5036,Company_127,Contact_261,Negotiation,468525.0,93,Rep_5,2024-05-11,2024-03-04,Cold Call,Retail,28,435728.25
+DEAL-5037,Company_78,Contact_101,Lead,82070.82,45,Rep_6,2024-02-29,2024-05-28,Event,Logistics,84,36931.87
+DEAL-5038,Company_80,Contact_209,SQL,389666.18,59,Rep_13,2024-04-07,2025-06-14,Referral,Manufacturing,83,229903.05
+DEAL-5039,Company_41,Contact_106,Proposal,205603.33,19,Rep_13,2024-09-05,2024-06-17,Website,Manufacturing,26,39064.63
+DEAL-5040,Company_32,Contact_270,Closed Lost,363283.61,70,Rep_14,2024-03-20,2024-06-30,Cold Call,Manufacturing,30,254298.53
+DEAL-5041,Company_178,Contact_285,SQL,50466.43,99,Rep_7,2024-01-29,2025-04-22,Referral,Logistics,30,49961.77
+DEAL-5042,Company_150,Contact_272,SQL,363903.85,61,Rep_5,2024-04-09,2024-06-23,Cold Call,Logistics,70,221981.35
+DEAL-5043,Company_89,Contact_119,SQL,258396.13,93,Rep_8,2024-12-28,2024-10-13,Website,Technology,85,240308.4
+DEAL-5044,Company_166,Contact_95,Proposal,450687.3,42,Rep_12,2024-02-24,2024-08-28,Email Campaign,Retail,79,189288.67
+DEAL-5045,Company_121,Contact_182,MQL,98257.22,98,Rep_10,2024-02-22,2025-01-16,Email Campaign,Healthcare,75,96292.08
+DEAL-5046,Company_120,Contact_245,Proposal,59131.26,55,Rep_10,2024-05-27,2024-12-15,Referral,Logistics,32,32522.19
+DEAL-5047,Company_23,Contact_157,Closed Won,102129.05,18,Rep_7,2024-05-20,2024-11-06,Email Campaign,Finance,29,18383.23
+DEAL-5048,Company_108,Contact_221,Lead,43894.81,39,Rep_11,2024-12-02,2024-10-31,Website,Manufacturing,80,17118.98
+DEAL-5049,Company_22,Contact_262,Closed Lost,490174.52,51,Rep_14,2024-03-28,2025-04-11,Website,Healthcare,36,249989.01
+DEAL-5050,Company_137,Contact_225,Proposal,65814.03,11,Rep_11,2024-06-01,2024-12-09,Cold Call,Logistics,20,7239.54
+DEAL-5051,Company_14,Contact_111,Negotiation,104421.22,90,Rep_7,2024-04-16,2024-11-03,Website,Manufacturing,75,93979.1
+DEAL-5052,Company_103,Contact_75,Proposal,405794.44,27,Rep_13,2024-04-01,2025-05-07,Partner,Healthcare,43,109564.5
+DEAL-5053,Company_74,Contact_130,Closed Lost,127143.43,69,Rep_15,2024-04-28,2024-04-15,Referral,Logistics,8,87728.97
+DEAL-5054,Company_27,Contact_172,Negotiation,115035.2,92,Rep_12,2024-04-04,2025-04-10,Cold Call,Finance,80,105832.38
+DEAL-5055,Company_95,Contact_252,Closed Lost,337793.34,46,Rep_14,2024-09-19,2024-06-05,Referral,Technology,27,155384.94
+DEAL-5056,Company_40,Contact_90,SQL,202388.79,62,Rep_4,2024-10-16,2024-08-09,Cold Call,Retail,28,125481.05
+DEAL-5057,Company_49,Contact_49,MQL,418562.18,54,Rep_7,2024-03-05,2024-03-07,Website,Healthcare,48,226023.58
+DEAL-5058,Company_178,Contact_95,Negotiation,320943.33,77,Rep_4,2024-06-30,2024-12-04,Partner,Technology,25,247126.36
+DEAL-5059,Company_70,Contact_178,MQL,147666.28,8,Rep_6,2024-04-06,2025-04-09,Referral,Logistics,74,11813.3
+DEAL-5060,Company_81,Contact_70,Lead,300972.02,39,Rep_12,2024-11-13,2024-09-02,Cold Call,Technology,62,117379.09
+DEAL-5061,Company_2,Contact_120,MQL,433898.5,63,Rep_11,2024-02-07,2025-01-18,Partner,Retail,51,273356.06
+DEAL-5062,Company_60,Contact_77,SQL,185419.07,13,Rep_1,2024-05-29,2024-09-08,Cold Call,Finance,18,24104.48
+DEAL-5063,Company_70,Contact_295,Lead,369553.01,86,Rep_12,2024-05-01,2025-03-05,Event,Finance,44,317815.59
+DEAL-5064,Company_144,Contact_154,Negotiation,210837.33,65,Rep_3,2024-05-13,2025-06-30,Website,Finance,25,137044.26
+DEAL-5065,Company_24,Contact_216,Proposal,273821.33,5,Rep_3,2024-12-10,2025-02-12,Referral,Healthcare,86,13691.07
+DEAL-5066,Company_186,Contact_156,MQL,368181.51,6,Rep_9,2024-07-16,2024-08-13,Event,Manufacturing,71,22090.89
+DEAL-5067,Company_26,Contact_4,SQL,34961.05,20,Rep_4,2024-05-19,2025-04-06,Referral,Finance,11,6992.21
+DEAL-5068,Company_130,Contact_79,Closed Lost,230200.01,68,Rep_15,2024-10-22,2024-03-19,Cold Call,Manufacturing,47,156536.01
+DEAL-5069,Company_1,Contact_252,Closed Lost,52130.69,54,Rep_3,2024-10-11,2025-06-24,Website,Healthcare,70,28150.57
+DEAL-5070,Company_164,Contact_153,Lead,363877.74,50,Rep_3,2024-02-23,2025-04-13,Email Campaign,Manufacturing,47,181938.87
+DEAL-5071,Company_139,Contact_211,Proposal,305864.1,58,Rep_12,2024-06-17,2025-01-13,Cold Call,Healthcare,12,177401.18
+DEAL-5072,Company_167,Contact_228,SQL,166830.18,51,Rep_5,2024-05-30,2024-12-28,Partner,Healthcare,13,85083.39
+DEAL-5073,Company_186,Contact_168,SQL,42759.35,37,Rep_11,2024-06-13,2024-07-01,Cold Call,Retail,66,15820.96
+DEAL-5074,Company_166,Contact_173,Proposal,463272.22,5,Rep_11,2024-05-07,2024-09-27,Event,Manufacturing,47,23163.61
+DEAL-5075,Company_124,Contact_71,Closed Lost,160926.84,7,Rep_3,2024-10-28,2024-04-19,Partner,Healthcare,49,11264.88
+DEAL-5076,Company_167,Contact_75,Proposal,141311.5,70,Rep_9,2024-12-30,2024-08-12,Partner,Logistics,25,98918.05
+DEAL-5077,Company_20,Contact_45,Closed Lost,54997.46,75,Rep_9,2024-01-10,2024-12-13,Event,Retail,24,41248.1
+DEAL-5078,Company_129,Contact_89,Closed Won,290789.84,27,Rep_2,2024-11-09,2024-08-24,Email Campaign,Finance,37,78513.26
+DEAL-5079,Company_197,Contact_188,Closed Won,136498.46,28,Rep_12,2024-11-12,2025-03-11,Cold Call,Technology,49,38219.57
+DEAL-5080,Company_76,Contact_278,Closed Won,422212.28,43,Rep_13,2024-05-13,2025-04-20,Website,Healthcare,42,181551.28
+DEAL-5081,Company_195,Contact_132,Closed Won,342969.56,66,Rep_15,2024-06-26,2024-11-29,Website,Technology,79,226359.91
+DEAL-5082,Company_101,Contact_181,SQL,6937.88,61,Rep_2,2024-02-07,2024-08-14,Cold Call,Technology,17,4232.11
+DEAL-5083,Company_94,Contact_258,Closed Lost,285008.93,58,Rep_3,2024-05-08,2024-07-26,Email Campaign,Healthcare,43,165305.18
+DEAL-5084,Company_60,Contact_203,Closed Lost,119758.17,8,Rep_13,2024-03-28,2024-11-22,Website,Finance,21,9580.65
+DEAL-5085,Company_22,Contact_79,Proposal,12606.72,45,Rep_5,2024-11-27,2025-02-14,Partner,Logistics,1,5673.02
+DEAL-5086,Company_175,Contact_85,Negotiation,311586.75,76,Rep_10,2024-02-09,2024-05-01,Partner,Manufacturing,37,236805.93
+DEAL-5087,Company_144,Contact_191,Closed Lost,106432.61,61,Rep_6,2024-05-04,2024-10-05,Website,Manufacturing,6,64923.89
+DEAL-5088,Company_80,Contact_87,MQL,450319.73,81,Rep_4,2024-06-25,2024-10-01,Website,Retail,34,364758.98
+DEAL-5089,Company_192,Contact_75,Lead,288823.47,71,Rep_10,2024-12-23,2024-07-18,Partner,Technology,57,205064.66
+DEAL-5090,Company_37,Contact_177,Closed Lost,108546.63,90,Rep_4,2024-10-26,2024-06-24,Referral,Logistics,34,97691.97
+DEAL-5091,Company_155,Contact_191,Proposal,489668.08,59,Rep_3,2024-12-08,2025-04-14,Referral,Healthcare,61,288904.17
+DEAL-5092,Company_90,Contact_76,Negotiation,275488.58,59,Rep_8,2024-04-23,2024-09-27,Referral,Healthcare,27,162538.26
+DEAL-5093,Company_125,Contact_15,Proposal,86908.73,57,Rep_3,2024-04-08,2024-12-06,Event,Retail,36,49537.98
+DEAL-5094,Company_8,Contact_230,Proposal,261034.87,30,Rep_3,2024-07-28,2024-03-19,Website,Technology,78,78310.46
+DEAL-5095,Company_122,Contact_118,Lead,479877.78,46,Rep_12,2024-05-04,2024-07-17,Referral,Healthcare,22,220743.78
+DEAL-5096,Company_136,Contact_190,SQL,214984.06,21,Rep_8,2024-01-06,2024-06-17,Cold Call,Retail,45,45146.65
+DEAL-5097,Company_195,Contact_52,Lead,215546.03,45,Rep_9,2024-10-24,2024-08-08,Email Campaign,Manufacturing,64,96995.71
+DEAL-5098,Company_69,Contact_95,Opportunity,233257.73,19,Rep_3,2024-02-04,2025-04-14,Partner,Retail,33,44318.97
+DEAL-5099,Company_15,Contact_182,Lead,143651.26,51,Rep_3,2024-03-12,2024-12-04,Referral,Logistics,28,73262.14
+DEAL-5100,Company_13,Contact_38,Closed Won,85082.89,95,Rep_6,2024-12-11,2025-05-14,Referral,Logistics,63,80828.75
+DEAL-5101,Company_30,Contact_95,SQL,291569.21,47,Rep_6,2024-09-24,2024-09-22,Email Campaign,Technology,7,137037.53
+DEAL-5102,Company_60,Contact_215,Negotiation,447629.1,75,Rep_7,2024-08-23,2025-03-10,Cold Call,Technology,24,335721.82
+DEAL-5103,Company_166,Contact_231,Lead,369186.22,46,Rep_3,2024-02-17,2024-05-18,Email Campaign,Retail,37,169825.66
+DEAL-5104,Company_39,Contact_106,Lead,52612.77,91,Rep_14,2024-04-01,2025-04-02,Referral,Manufacturing,20,47877.62
+DEAL-5105,Company_29,Contact_35,Opportunity,203420.24,24,Rep_6,2024-03-16,2024-12-23,Email Campaign,Retail,48,48820.86
+DEAL-5106,Company_7,Contact_8,Closed Won,7621.46,84,Rep_13,2024-08-22,2024-03-19,Partner,Finance,56,6402.03
+DEAL-5107,Company_77,Contact_167,Closed Won,157430.49,73,Rep_7,2024-07-02,2025-01-30,Event,Retail,86,114924.26
+DEAL-5108,Company_121,Contact_208,Proposal,336341.41,89,Rep_8,2024-05-11,2024-10-20,Event,Logistics,54,299343.85
+DEAL-5109,Company_57,Contact_178,Proposal,148665.97,17,Rep_2,2024-09-29,2024-03-01,Website,Finance,53,25273.21
+DEAL-5110,Company_99,Contact_122,Negotiation,421076.37,90,Rep_11,2024-10-11,2025-04-17,Partner,Healthcare,65,378968.73
+DEAL-5111,Company_49,Contact_7,Negotiation,241305.19,91,Rep_1,2024-09-27,2024-11-17,Event,Retail,19,219587.72
+DEAL-5112,Company_160,Contact_68,Negotiation,336238.24,33,Rep_12,2024-02-08,2024-12-21,Email Campaign,Healthcare,42,110958.62
+DEAL-5113,Company_6,Contact_11,Lead,442513.29,64,Rep_14,2024-08-10,2024-12-07,Website,Technology,75,283208.51
+DEAL-5114,Company_40,Contact_139,Opportunity,342991.1,60,Rep_6,2024-03-17,2024-04-14,Email Campaign,Manufacturing,16,205794.66
+DEAL-5115,Company_113,Contact_93,Closed Won,449176.47,9,Rep_14,2024-04-09,2024-08-09,Event,Manufacturing,26,40425.88
+DEAL-5116,Company_168,Contact_22,Opportunity,404992.35,54,Rep_11,2024-12-24,2025-02-05,Email Campaign,Retail,20,218695.87
+DEAL-5117,Company_80,Contact_183,MQL,285696.8,67,Rep_1,2024-06-01,2024-08-12,Website,Retail,86,191416.86
+DEAL-5118,Company_14,Contact_111,Negotiation,152130.38,24,Rep_4,2024-10-15,2025-05-07,Website,Retail,32,36511.29
+DEAL-5119,Company_110,Contact_288,SQL,152580.49,39,Rep_10,2024-03-31,2024-08-02,Cold Call,Finance,29,59506.39
+DEAL-5120,Company_54,Contact_125,Proposal,438288.89,60,Rep_11,2024-12-21,2024-10-10,Event,Technology,73,262973.33
+DEAL-5121,Company_61,Contact_28,Proposal,31672.69,93,Rep_2,2024-04-11,2024-10-03,Cold Call,Logistics,81,29455.6
+DEAL-5122,Company_184,Contact_211,Negotiation,471011.24,10,Rep_11,2024-03-07,2024-03-10,Event,Finance,1,47101.12
+DEAL-5123,Company_188,Contact_211,Closed Lost,166894.6,93,Rep_13,2024-04-28,2025-03-31,Partner,Manufacturing,79,155211.98
+DEAL-5124,Company_52,Contact_278,Negotiation,370741.17,82,Rep_2,2024-03-04,2024-05-06,Partner,Retail,63,304007.76
+DEAL-5125,Company_118,Contact_208,Closed Lost,168364.73,85,Rep_14,2024-08-07,2024-10-15,Email Campaign,Retail,77,143110.02
+DEAL-5126,Company_108,Contact_109,Lead,476884.19,9,Rep_8,2024-02-22,2025-05-17,Event,Technology,8,42919.58
+DEAL-5127,Company_192,Contact_201,Closed Won,23054.64,58,Rep_10,2024-03-16,2025-06-27,Website,Logistics,4,13371.69
+DEAL-5128,Company_189,Contact_239,Opportunity,179892.84,40,Rep_1,2024-09-13,2024-06-21,Website,Retail,30,71957.14
+DEAL-5129,Company_70,Contact_155,Negotiation,434393.22,92,Rep_10,2024-01-16,2024-08-31,Event,Manufacturing,76,399641.76
+DEAL-5130,Company_6,Contact_238,Lead,140657.99,75,Rep_7,2024-06-10,2024-12-01,Event,Manufacturing,45,105493.49
+DEAL-5131,Company_1,Contact_290,Proposal,141431.64,66,Rep_6,2024-09-10,2025-02-04,Referral,Technology,65,93344.88
+DEAL-5132,Company_1,Contact_226,Lead,449882.15,7,Rep_12,2024-06-12,2024-06-30,Email Campaign,Logistics,22,31491.75
+DEAL-5133,Company_156,Contact_151,Negotiation,416138.22,88,Rep_4,2024-01-08,2024-11-23,Referral,Retail,30,366201.63
+DEAL-5134,Company_148,Contact_148,MQL,57356.74,51,Rep_1,2024-02-27,2025-04-11,Website,Finance,79,29251.94
+DEAL-5135,Company_165,Contact_251,MQL,292189.06,20,Rep_8,2024-12-21,2025-03-07,Cold Call,Retail,44,58437.81
+DEAL-5136,Company_28,Contact_261,Lead,115580.62,88,Rep_12,2024-10-09,2025-04-05,Cold Call,Retail,70,101710.95
+DEAL-5137,Company_12,Contact_79,SQL,111493.44,90,Rep_3,2024-05-08,2025-05-07,Event,Retail,57,100344.1
+DEAL-5138,Company_34,Contact_3,Closed Lost,309624.97,52,Rep_15,2024-11-15,2025-04-24,Partner,Finance,16,161004.98
+DEAL-5139,Company_125,Contact_242,Closed Lost,66313.75,67,Rep_11,2024-01-03,2024-11-05,Partner,Logistics,84,44430.21
+DEAL-5140,Company_2,Contact_71,Lead,237540.61,62,Rep_15,2024-01-18,2025-06-18,Website,Finance,85,147275.18
+DEAL-5141,Company_132,Contact_298,Closed Lost,131631.76,33,Rep_8,2024-11-19,2024-10-27,Partner,Healthcare,70,43438.48
+DEAL-5142,Company_177,Contact_11,Proposal,427691.62,76,Rep_2,2024-09-03,2025-02-09,Email Campaign,Logistics,42,325045.63
+DEAL-5143,Company_30,Contact_273,SQL,279474.65,99,Rep_3,2024-08-07,2025-06-03,Referral,Technology,39,276679.9
+DEAL-5144,Company_148,Contact_203,Closed Lost,111478.87,93,Rep_8,2024-05-06,2024-03-22,Email Campaign,Healthcare,27,103675.35
+DEAL-5145,Company_110,Contact_91,MQL,463600.5,70,Rep_9,2024-10-26,2025-05-29,Website,Healthcare,58,324520.35
+DEAL-5146,Company_188,Contact_11,MQL,412333.78,39,Rep_12,2024-08-10,2025-04-05,Cold Call,Manufacturing,28,160810.17
+DEAL-5147,Company_49,Contact_254,MQL,136319.65,91,Rep_12,2024-06-08,2025-06-29,Event,Manufacturing,17,124050.88
+DEAL-5148,Company_46,Contact_36,MQL,480720.2,93,Rep_12,2024-05-19,2025-03-12,Partner,Manufacturing,6,447069.79
+DEAL-5149,Company_4,Contact_29,Opportunity,137530.76,5,Rep_9,2024-05-09,2024-05-16,Referral,Healthcare,38,6876.54
+DEAL-5150,Company_141,Contact_237,MQL,149858.35,37,Rep_1,2024-07-29,2024-07-26,Referral,Healthcare,73,55447.59
+DEAL-5151,Company_173,Contact_203,MQL,196051.86,57,Rep_8,2024-08-27,2024-03-02,Email Campaign,Technology,71,111749.56
+DEAL-5152,Company_4,Contact_39,SQL,86578.58,59,Rep_13,2024-10-21,2024-12-22,Website,Manufacturing,76,51081.36
+DEAL-5153,Company_98,Contact_103,Negotiation,345072.99,72,Rep_13,2024-05-28,2024-09-29,Partner,Finance,54,248452.55
+DEAL-5154,Company_145,Contact_200,Closed Won,280881.98,53,Rep_13,2024-04-02,2024-10-18,Referral,Healthcare,78,148867.45
+DEAL-5155,Company_156,Contact_197,Lead,447758.93,6,Rep_1,2024-07-22,2025-02-21,Referral,Manufacturing,70,26865.54
+DEAL-5156,Company_186,Contact_109,Negotiation,124233.24,20,Rep_7,2024-08-01,2025-04-04,Referral,Manufacturing,72,24846.65
+DEAL-5157,Company_144,Contact_124,Lead,89264.29,77,Rep_10,2024-04-11,2024-04-05,Cold Call,Technology,46,68733.5
+DEAL-5158,Company_184,Contact_24,Closed Lost,182518.58,70,Rep_4,2024-01-27,2025-05-21,Event,Manufacturing,8,127763.01
+DEAL-5159,Company_198,Contact_3,SQL,77323.8,66,Rep_7,2024-05-01,2024-08-29,Partner,Healthcare,34,51033.71
+DEAL-5160,Company_185,Contact_290,Closed Won,473344.76,46,Rep_2,2024-01-26,2025-03-02,Event,Healthcare,76,217738.59
+DEAL-5161,Company_88,Contact_70,Closed Won,360136.11,31,Rep_3,2024-01-31,2024-12-09,Email Campaign,Technology,67,111642.19
+DEAL-5162,Company_81,Contact_278,SQL,399114.87,34,Rep_1,2024-12-19,2024-10-03,Referral,Manufacturing,2,135699.06
+DEAL-5163,Company_86,Contact_13,SQL,375281.59,70,Rep_15,2024-10-12,2024-06-12,Partner,Healthcare,9,262697.11
+DEAL-5164,Company_190,Contact_296,SQL,125195.49,52,Rep_13,2024-01-13,2024-06-01,Partner,Technology,59,65101.65
+DEAL-5165,Company_57,Contact_128,Opportunity,74625.04,17,Rep_7,2024-05-07,2025-02-20,Email Campaign,Technology,88,12686.26
+DEAL-5166,Company_150,Contact_242,Opportunity,217569.62,42,Rep_1,2024-04-03,2024-08-04,Event,Manufacturing,66,91379.24
+DEAL-5167,Company_125,Contact_252,Negotiation,415364.47,83,Rep_6,2024-12-22,2024-06-20,Referral,Technology,85,344752.51
+DEAL-5168,Company_13,Contact_106,Opportunity,168605.09,61,Rep_7,2024-06-09,2024-03-03,Cold Call,Retail,6,102849.1
+DEAL-5169,Company_97,Contact_221,Closed Won,9733.66,87,Rep_3,2024-04-05,2025-04-14,Event,Manufacturing,79,8468.28
+DEAL-5170,Company_39,Contact_100,Opportunity,331730.05,53,Rep_10,2024-08-20,2024-09-09,Cold Call,Logistics,12,175816.93
+DEAL-5171,Company_146,Contact_236,SQL,104031.22,51,Rep_15,2024-06-22,2024-08-17,Event,Technology,79,53055.92
+DEAL-5172,Company_90,Contact_287,SQL,273703.41,95,Rep_13,2024-03-09,2024-08-29,Partner,Finance,87,260018.24
+DEAL-5173,Company_71,Contact_242,Negotiation,12365.62,53,Rep_13,2024-04-21,2024-12-17,Partner,Technology,46,6553.78
+DEAL-5174,Company_14,Contact_218,MQL,256880.68,17,Rep_13,2024-02-16,2024-10-21,Referral,Logistics,48,43669.72
+DEAL-5175,Company_27,Contact_112,SQL,199836.2,43,Rep_2,2024-09-10,2024-11-21,Cold Call,Retail,45,85929.57
+DEAL-5176,Company_153,Contact_33,SQL,440803.93,66,Rep_9,2024-12-21,2024-07-14,Cold Call,Logistics,50,290930.59
+DEAL-5177,Company_172,Contact_152,Negotiation,362297.83,37,Rep_9,2024-10-22,2024-07-23,Email Campaign,Technology,73,134050.2
+DEAL-5178,Company_58,Contact_39,MQL,22833.94,43,Rep_2,2024-05-17,2025-04-25,Event,Manufacturing,26,9818.59
+DEAL-5179,Company_165,Contact_153,Opportunity,395813.59,87,Rep_3,2024-06-27,2024-09-30,Referral,Technology,26,344357.82
+DEAL-5180,Company_110,Contact_260,Negotiation,396657.59,46,Rep_9,2024-01-23,2025-06-17,Referral,Technology,87,182462.49
+DEAL-5181,Company_70,Contact_34,Closed Lost,333387.73,33,Rep_11,2024-05-14,2025-04-16,Referral,Healthcare,76,110017.95
+DEAL-5182,Company_90,Contact_270,Opportunity,465001.88,15,Rep_4,2024-01-12,2025-02-10,Event,Healthcare,49,69750.28
+DEAL-5183,Company_138,Contact_179,Closed Lost,402610.5,43,Rep_8,2024-09-29,2024-11-23,Partner,Healthcare,18,173122.52
+DEAL-5184,Company_181,Contact_15,Proposal,113354.84,77,Rep_2,2024-11-28,2025-04-12,Website,Technology,86,87283.23
+DEAL-5185,Company_98,Contact_216,Closed Won,193865.21,33,Rep_2,2024-03-11,2024-03-28,Partner,Retail,79,63975.52
+DEAL-5186,Company_69,Contact_1,MQL,178212.0,49,Rep_9,2024-09-03,2024-10-30,Website,Healthcare,30,87323.88
+DEAL-5187,Company_152,Contact_183,Closed Lost,254929.37,67,Rep_9,2024-08-07,2025-02-11,Email Campaign,Logistics,49,170802.68
+DEAL-5188,Company_105,Contact_152,SQL,477088.24,93,Rep_12,2024-06-01,2024-04-22,Website,Manufacturing,38,443692.06
+DEAL-5189,Company_78,Contact_224,MQL,309721.19,82,Rep_14,2024-09-25,2024-05-28,Partner,Healthcare,76,253971.38
+DEAL-5190,Company_92,Contact_113,Lead,159904.83,32,Rep_3,2024-09-05,2024-04-01,Event,Manufacturing,62,51169.55
+DEAL-5191,Company_107,Contact_36,Negotiation,471051.28,20,Rep_6,2024-04-08,2024-10-23,Cold Call,Retail,44,94210.26
+DEAL-5192,Company_28,Contact_116,Negotiation,351634.38,68,Rep_13,2024-10-19,2024-11-19,Event,Healthcare,87,239111.38
+DEAL-5193,Company_12,Contact_228,MQL,136709.86,29,Rep_1,2024-08-27,2024-10-15,Partner,Logistics,55,39645.86
+DEAL-5194,Company_133,Contact_286,Closed Lost,453723.82,42,Rep_13,2024-04-24,2024-03-27,Referral,Retail,44,190564.0
+DEAL-5195,Company_35,Contact_63,SQL,175385.38,14,Rep_15,2024-09-26,2024-10-23,Email Campaign,Healthcare,83,24553.95
+DEAL-5196,Company_106,Contact_106,Proposal,260524.58,78,Rep_2,2024-08-22,2025-05-07,Referral,Retail,41,203209.17
+DEAL-5197,Company_156,Contact_263,Proposal,242215.31,20,Rep_3,2024-02-12,2024-03-16,Event,Manufacturing,38,48443.06
+DEAL-5198,Company_43,Contact_94,Proposal,462197.28,41,Rep_11,2024-03-01,2025-03-13,Email Campaign,Manufacturing,35,189500.88
+DEAL-5199,Company_76,Contact_74,Negotiation,136503.36,43,Rep_8,2024-04-28,2024-07-11,Event,Retail,20,58696.44
+DEAL-5200,Company_195,Contact_249,Closed Lost,169986.84,9,Rep_15,2024-01-17,2024-04-06,Email Campaign,Finance,25,15298.82
+DEAL-5201,Company_7,Contact_148,Negotiation,331779.29,78,Rep_9,2024-05-28,2024-03-25,Email Campaign,Retail,9,258787.85
+DEAL-5202,Company_151,Contact_175,Closed Lost,443874.77,63,Rep_10,2024-06-17,2024-03-07,Website,Healthcare,65,279641.11
+DEAL-5203,Company_34,Contact_146,Closed Won,61867.62,56,Rep_4,2024-10-11,2024-09-19,Partner,Logistics,53,34645.87
+DEAL-5204,Company_181,Contact_181,SQL,108892.34,21,Rep_5,2024-03-03,2024-10-29,Referral,Logistics,83,22867.39
+DEAL-5205,Company_82,Contact_81,Proposal,474277.07,10,Rep_3,2024-07-26,2024-12-28,Cold Call,Technology,55,47427.71
+DEAL-5206,Company_2,Contact_219,MQL,389762.07,10,Rep_3,2024-08-31,2024-04-09,Email Campaign,Logistics,8,38976.21
+DEAL-5207,Company_143,Contact_109,Closed Lost,176304.53,64,Rep_2,2024-06-13,2025-01-13,Partner,Logistics,56,112834.9
+DEAL-5208,Company_30,Contact_157,Closed Lost,182029.23,76,Rep_14,2024-11-28,2025-02-24,Email Campaign,Logistics,16,138342.21
+DEAL-5209,Company_73,Contact_56,Closed Lost,237419.27,80,Rep_2,2024-04-26,2024-04-01,Referral,Healthcare,4,189935.42
+DEAL-5210,Company_100,Contact_4,Negotiation,338530.75,81,Rep_8,2024-05-29,2025-01-23,Referral,Finance,59,274209.91
+DEAL-5211,Company_149,Contact_171,Closed Won,282715.35,42,Rep_8,2024-01-02,2024-04-27,Referral,Retail,3,118740.45
+DEAL-5212,Company_84,Contact_42,Closed Won,389179.38,5,Rep_1,2024-05-30,2024-09-30,Email Campaign,Logistics,37,19458.97
+DEAL-5213,Company_171,Contact_273,MQL,31812.56,28,Rep_13,2024-01-08,2025-01-17,Event,Healthcare,80,8907.52
+DEAL-5214,Company_96,Contact_287,SQL,410425.17,79,Rep_8,2024-12-26,2025-04-29,Event,Logistics,23,324235.88
+DEAL-5215,Company_68,Contact_95,Proposal,33735.42,77,Rep_2,2024-03-29,2024-11-14,Event,Finance,62,25976.27
+DEAL-5216,Company_68,Contact_87,Opportunity,441082.09,53,Rep_2,2024-10-24,2024-09-29,Event,Logistics,34,233773.51
+DEAL-5217,Company_160,Contact_152,Negotiation,26410.95,7,Rep_11,2024-02-12,2025-04-10,Partner,Technology,11,1848.77
+DEAL-5218,Company_133,Contact_62,Negotiation,68277.05,78,Rep_10,2024-04-10,2024-06-14,Partner,Logistics,18,53256.1
+DEAL-5219,Company_26,Contact_258,Closed Lost,94191.26,82,Rep_7,2024-02-13,2024-06-08,Referral,Logistics,7,77236.83
+DEAL-5220,Company_150,Contact_31,Closed Won,115410.14,26,Rep_7,2024-05-14,2024-10-14,Referral,Manufacturing,14,30006.64
+DEAL-5221,Company_83,Contact_136,Lead,203872.23,81,Rep_1,2024-08-08,2024-04-28,Website,Retail,15,165136.51
+DEAL-5222,Company_70,Contact_57,SQL,329463.59,65,Rep_1,2024-06-02,2024-03-11,Referral,Healthcare,79,214151.33
+DEAL-5223,Company_20,Contact_249,SQL,446838.67,89,Rep_9,2024-08-09,2024-08-24,Email Campaign,Logistics,72,397686.42
+DEAL-5224,Company_199,Contact_44,Negotiation,264628.89,64,Rep_6,2024-10-22,2024-05-14,Email Campaign,Technology,32,169362.49
+DEAL-5225,Company_11,Contact_134,SQL,268582.42,13,Rep_4,2024-01-17,2025-01-05,Partner,Finance,65,34915.71
+DEAL-5226,Company_199,Contact_250,Closed Lost,163056.02,66,Rep_6,2024-06-04,2024-11-23,Email Campaign,Technology,19,107616.97
+DEAL-5227,Company_13,Contact_132,SQL,401336.81,15,Rep_10,2024-08-05,2024-10-23,Partner,Finance,57,60200.52
+DEAL-5228,Company_101,Contact_56,Opportunity,59690.68,29,Rep_5,2024-07-10,2024-10-28,Email Campaign,Retail,19,17310.3
+DEAL-5229,Company_21,Contact_48,Closed Won,154046.07,87,Rep_6,2024-02-23,2024-04-18,Partner,Healthcare,58,134020.08
+DEAL-5230,Company_99,Contact_181,SQL,53005.8,96,Rep_5,2024-03-16,2024-09-13,Event,Healthcare,32,50885.57
+DEAL-5231,Company_167,Contact_38,Lead,111019.51,50,Rep_10,2024-05-18,2024-04-04,Cold Call,Finance,77,55509.76
+DEAL-5232,Company_118,Contact_107,SQL,295365.97,32,Rep_1,2024-08-26,2024-08-20,Partner,Healthcare,75,94517.11
+DEAL-5233,Company_109,Contact_183,SQL,67350.39,42,Rep_14,2024-12-28,2025-01-25,Partner,Healthcare,30,28287.16
+DEAL-5234,Company_24,Contact_114,Proposal,54805.81,28,Rep_9,2024-05-14,2025-06-24,Referral,Finance,4,15345.63
+DEAL-5235,Company_189,Contact_248,Negotiation,413825.85,59,Rep_4,2024-07-10,2024-07-23,Referral,Logistics,29,244157.25
+DEAL-5236,Company_75,Contact_206,Proposal,63558.07,45,Rep_12,2024-04-22,2024-07-07,Website,Logistics,26,28601.13
+DEAL-5237,Company_108,Contact_41,Opportunity,305986.41,10,Rep_15,2024-01-13,2025-01-21,Partner,Logistics,38,30598.64
+DEAL-5238,Company_179,Contact_245,Proposal,179245.54,62,Rep_1,2024-05-25,2025-05-22,Cold Call,Technology,52,111132.23
+DEAL-5239,Company_126,Contact_273,MQL,448701.73,66,Rep_4,2024-05-07,2024-07-22,Email Campaign,Healthcare,89,296143.14
+DEAL-5240,Company_147,Contact_61,MQL,355237.27,68,Rep_3,2024-02-25,2025-04-13,Referral,Manufacturing,6,241561.34
+DEAL-5241,Company_37,Contact_108,Proposal,34417.96,94,Rep_2,2024-09-02,2024-08-01,Cold Call,Healthcare,50,32352.88
+DEAL-5242,Company_92,Contact_119,Closed Won,448256.71,71,Rep_12,2024-04-04,2025-01-06,Cold Call,Finance,16,318262.26
+DEAL-5243,Company_108,Contact_128,Proposal,209879.95,69,Rep_3,2024-03-23,2024-06-11,Email Campaign,Retail,49,144817.17
+DEAL-5244,Company_35,Contact_139,Lead,152622.59,25,Rep_6,2024-05-22,2024-07-06,Referral,Technology,57,38155.65
+DEAL-5245,Company_77,Contact_268,Closed Lost,338027.1,49,Rep_13,2024-12-18,2025-06-23,Event,Retail,73,165633.28
+DEAL-5246,Company_166,Contact_195,SQL,360397.09,46,Rep_10,2024-08-20,2024-09-06,Cold Call,Healthcare,50,165782.66
+DEAL-5247,Company_186,Contact_268,Negotiation,155109.13,96,Rep_11,2024-06-04,2024-03-08,Referral,Manufacturing,16,148904.76
+DEAL-5248,Company_164,Contact_105,Closed Lost,179069.99,50,Rep_2,2024-10-27,2025-03-12,Website,Manufacturing,82,89535.0
+DEAL-5249,Company_186,Contact_157,Closed Lost,82383.6,70,Rep_15,2024-01-08,2024-05-01,Website,Retail,37,57668.52
+DEAL-5250,Company_199,Contact_32,Lead,298754.56,56,Rep_2,2024-05-03,2024-04-23,Referral,Retail,43,167302.55
+DEAL-5251,Company_40,Contact_83,MQL,478669.98,10,Rep_11,2024-07-16,2025-04-12,Event,Technology,58,47867.0
+DEAL-5252,Company_171,Contact_175,Negotiation,211229.11,93,Rep_10,2024-06-27,2024-08-17,Partner,Logistics,24,196443.07
+DEAL-5253,Company_124,Contact_52,Closed Won,498122.06,68,Rep_7,2024-09-04,2024-05-07,Partner,Technology,88,338723.0
+DEAL-5254,Company_171,Contact_288,Closed Won,92325.23,26,Rep_13,2024-09-13,2025-06-19,Referral,Logistics,4,24004.56
+DEAL-5255,Company_127,Contact_82,Proposal,399069.23,10,Rep_14,2024-06-15,2024-07-15,Email Campaign,Logistics,14,39906.92
+DEAL-5256,Company_25,Contact_49,MQL,464413.59,93,Rep_2,2024-12-06,2025-01-03,Referral,Manufacturing,89,431904.64
+DEAL-5257,Company_112,Contact_234,Negotiation,345586.9,34,Rep_15,2024-12-05,2024-07-06,Website,Manufacturing,41,117499.55
+DEAL-5258,Company_152,Contact_27,Negotiation,59116.51,6,Rep_4,2024-06-22,2024-12-09,Email Campaign,Technology,80,3546.99
+DEAL-5259,Company_25,Contact_98,Opportunity,166637.97,63,Rep_12,2024-11-26,2025-02-03,Email Campaign,Logistics,81,104981.92
+DEAL-5260,Company_101,Contact_60,Negotiation,47404.58,6,Rep_13,2024-08-22,2025-03-05,Event,Retail,89,2844.27
+DEAL-5261,Company_131,Contact_208,MQL,302865.32,25,Rep_9,2024-02-20,2024-09-17,Website,Healthcare,65,75716.33
+DEAL-5262,Company_93,Contact_253,Closed Won,499083.66,89,Rep_13,2024-02-13,2024-12-25,Event,Manufacturing,61,444184.46
+DEAL-5263,Company_160,Contact_59,Lead,190503.53,8,Rep_13,2024-01-30,2025-04-14,Referral,Retail,55,15240.28
+DEAL-5264,Company_26,Contact_125,Closed Won,85657.8,76,Rep_8,2024-03-18,2025-04-14,Referral,Healthcare,61,65099.93
+DEAL-5265,Company_69,Contact_144,Closed Won,137976.9,63,Rep_3,2024-04-24,2025-02-27,Website,Finance,23,86925.45
+DEAL-5266,Company_190,Contact_207,Negotiation,287546.97,34,Rep_7,2024-01-26,2024-09-11,Referral,Technology,73,97765.97
+DEAL-5267,Company_103,Contact_106,Closed Won,286636.08,32,Rep_14,2024-08-10,2024-11-14,Cold Call,Logistics,17,91723.55
+DEAL-5268,Company_37,Contact_157,Closed Lost,118761.31,50,Rep_4,2024-05-30,2025-06-15,Referral,Retail,43,59380.66
+DEAL-5269,Company_24,Contact_151,MQL,376598.85,55,Rep_15,2024-08-08,2024-06-30,Referral,Finance,34,207129.37
+DEAL-5270,Company_119,Contact_4,Proposal,48566.08,89,Rep_3,2024-07-03,2025-02-01,Email Campaign,Manufacturing,68,43223.81
+DEAL-5271,Company_186,Contact_171,Negotiation,313404.94,29,Rep_10,2024-04-09,2025-03-21,Website,Manufacturing,23,90887.43
+DEAL-5272,Company_10,Contact_170,Closed Lost,215720.98,61,Rep_10,2024-08-13,2024-10-21,Partner,Technology,19,131589.8
+DEAL-5273,Company_22,Contact_297,Negotiation,67951.63,70,Rep_3,2024-12-14,2025-04-26,Referral,Finance,72,47566.14
+DEAL-5274,Company_75,Contact_153,Proposal,319020.45,6,Rep_8,2024-04-25,2024-09-25,Event,Finance,44,19141.23
+DEAL-5275,Company_42,Contact_270,Proposal,338159.46,90,Rep_3,2024-04-22,2025-04-12,Email Campaign,Technology,65,304343.51
+DEAL-5276,Company_25,Contact_105,MQL,222810.05,99,Rep_6,2024-07-07,2025-01-08,Event,Manufacturing,79,220581.95
+DEAL-5277,Company_60,Contact_209,SQL,400006.45,13,Rep_15,2024-10-21,2024-03-26,Referral,Technology,75,52000.84
+DEAL-5278,Company_128,Contact_270,Opportunity,257111.71,29,Rep_1,2024-07-13,2025-04-05,Referral,Manufacturing,36,74562.4
+DEAL-5279,Company_165,Contact_46,Closed Lost,146448.45,79,Rep_14,2024-10-31,2025-02-03,Website,Retail,16,115694.28
+DEAL-5280,Company_61,Contact_170,Closed Won,477032.63,81,Rep_11,2024-01-28,2024-06-17,Referral,Technology,86,386396.43
+DEAL-5281,Company_140,Contact_275,Negotiation,472301.8,19,Rep_12,2024-02-06,2025-02-06,Email Campaign,Logistics,28,89737.34
+DEAL-5282,Company_164,Contact_167,Lead,52332.59,92,Rep_5,2024-05-28,2024-11-05,Email Campaign,Finance,69,48145.98
+DEAL-5283,Company_2,Contact_267,Negotiation,473310.23,36,Rep_15,2024-03-26,2025-06-03,Event,Logistics,69,170391.68
+DEAL-5284,Company_170,Contact_126,Opportunity,388863.78,32,Rep_4,2024-01-09,2024-07-27,Partner,Technology,40,124436.41
+DEAL-5285,Company_37,Contact_266,Negotiation,57788.86,38,Rep_8,2024-03-19,2024-07-07,Event,Retail,15,21959.77
+DEAL-5286,Company_137,Contact_189,Opportunity,262066.01,68,Rep_1,2024-04-09,2024-03-29,Cold Call,Finance,43,178204.89
+DEAL-5287,Company_150,Contact_144,Negotiation,22300.9,24,Rep_14,2024-12-02,2025-03-18,Cold Call,Retail,13,5352.22
+DEAL-5288,Company_169,Contact_65,MQL,296484.25,56,Rep_11,2024-10-13,2025-06-23,Partner,Logistics,32,166031.18
+DEAL-5289,Company_81,Contact_52,MQL,466927.88,12,Rep_3,2024-05-08,2025-01-30,Event,Manufacturing,35,56031.35
+DEAL-5290,Company_132,Contact_87,MQL,187263.82,18,Rep_10,2024-12-16,2024-08-27,Cold Call,Finance,47,33707.49
+DEAL-5291,Company_6,Contact_226,Closed Lost,256769.46,78,Rep_3,2024-11-02,2025-05-02,Event,Technology,17,200280.18
+DEAL-5292,Company_89,Contact_140,Lead,117642.36,41,Rep_7,2024-04-01,2024-07-02,Website,Finance,76,48233.37
+DEAL-5293,Company_192,Contact_117,SQL,272768.39,80,Rep_8,2024-06-23,2025-02-01,Event,Manufacturing,8,218214.71
+DEAL-5294,Company_32,Contact_140,SQL,402274.46,75,Rep_14,2024-12-03,2024-12-16,Partner,Retail,88,301705.84
+DEAL-5295,Company_31,Contact_104,Closed Won,111552.85,99,Rep_5,2024-06-16,2025-04-20,Email Campaign,Manufacturing,28,110437.32
+DEAL-5296,Company_140,Contact_242,SQL,278975.95,18,Rep_1,2024-05-15,2025-06-17,Email Campaign,Healthcare,44,50215.67
+DEAL-5297,Company_102,Contact_117,Closed Lost,180548.42,93,Rep_7,2024-11-26,2024-08-23,Website,Retail,78,167910.03
+DEAL-5298,Company_91,Contact_142,Closed Lost,375196.68,89,Rep_14,2024-08-29,2024-04-16,Email Campaign,Technology,59,333925.05
+DEAL-5299,Company_50,Contact_168,Negotiation,352509.14,46,Rep_12,2024-06-10,2024-05-16,Referral,Technology,6,162154.2
+DEAL-5300,Company_35,Contact_194,SQL,350900.88,17,Rep_1,2024-11-14,2025-02-24,Partner,Manufacturing,54,59653.15
+DEAL-5301,Company_147,Contact_100,Proposal,192012.55,17,Rep_1,2024-09-29,2024-08-24,Referral,Finance,51,32642.13
+DEAL-5302,Company_72,Contact_22,Negotiation,301643.25,53,Rep_12,2024-05-07,2024-05-08,Referral,Healthcare,84,159870.92
+DEAL-5303,Company_155,Contact_207,Lead,327287.17,6,Rep_11,2024-06-04,2025-04-01,Cold Call,Healthcare,51,19637.23
+DEAL-5304,Company_89,Contact_168,Closed Won,342002.92,14,Rep_9,2024-01-18,2025-01-10,Event,Retail,89,47880.41
+DEAL-5305,Company_80,Contact_194,Opportunity,289751.9,55,Rep_2,2024-02-07,2024-05-04,Partner,Logistics,48,159363.55
+DEAL-5306,Company_46,Contact_163,Closed Won,434068.35,58,Rep_5,2024-12-15,2025-02-11,Cold Call,Manufacturing,18,251759.64
+DEAL-5307,Company_132,Contact_153,Proposal,128155.3,86,Rep_13,2024-01-20,2025-01-05,Referral,Retail,45,110213.56
+DEAL-5308,Company_57,Contact_284,Closed Won,32624.36,97,Rep_3,2024-11-02,2025-06-23,Event,Logistics,82,31645.63
+DEAL-5309,Company_181,Contact_17,Lead,481439.21,30,Rep_4,2024-03-17,2025-06-24,Email Campaign,Retail,2,144431.76
+DEAL-5310,Company_82,Contact_28,Lead,35063.19,36,Rep_7,2024-07-17,2025-06-19,Cold Call,Technology,36,12622.75
+DEAL-5311,Company_163,Contact_281,Lead,451963.05,23,Rep_12,2024-09-21,2025-05-10,Partner,Healthcare,5,103951.5
+DEAL-5312,Company_94,Contact_266,Closed Won,308081.04,26,Rep_13,2024-12-28,2025-03-22,Cold Call,Logistics,75,80101.07
+DEAL-5313,Company_83,Contact_124,Closed Lost,459776.49,46,Rep_9,2024-05-16,2025-01-21,Email Campaign,Manufacturing,46,211497.19
+DEAL-5314,Company_91,Contact_162,Closed Lost,284652.2,99,Rep_8,2024-12-04,2024-11-21,Partner,Healthcare,64,281805.68
+DEAL-5315,Company_88,Contact_135,SQL,411399.32,89,Rep_6,2024-06-15,2025-03-22,Referral,Finance,87,366145.39
+DEAL-5316,Company_96,Contact_299,SQL,362038.68,91,Rep_1,2024-11-13,2025-06-14,Partner,Logistics,75,329455.2
+DEAL-5317,Company_177,Contact_137,SQL,264930.51,47,Rep_5,2024-02-07,2024-04-26,Partner,Technology,37,124517.34
+DEAL-5318,Company_140,Contact_228,Closed Won,184845.18,67,Rep_4,2024-04-08,2024-05-06,Cold Call,Logistics,84,123846.27
+DEAL-5319,Company_7,Contact_110,SQL,6415.22,73,Rep_1,2024-08-16,2024-10-29,Cold Call,Manufacturing,43,4683.11
+DEAL-5320,Company_12,Contact_115,Proposal,129198.11,28,Rep_12,2024-09-15,2024-07-21,Website,Manufacturing,88,36175.47
+DEAL-5321,Company_5,Contact_202,Negotiation,476124.57,48,Rep_6,2024-10-21,2024-11-15,Website,Finance,88,228539.79
+DEAL-5322,Company_138,Contact_120,SQL,141353.61,57,Rep_8,2024-05-10,2024-07-30,Partner,Retail,20,80571.56
+DEAL-5323,Company_41,Contact_5,Opportunity,377166.96,40,Rep_4,2024-08-16,2025-03-17,Cold Call,Finance,70,150866.78
+DEAL-5324,Company_77,Contact_52,Negotiation,256706.32,49,Rep_9,2024-08-15,2025-05-12,Event,Technology,63,125786.1
+DEAL-5325,Company_165,Contact_262,Closed Won,157714.62,46,Rep_3,2024-12-26,2024-07-16,Referral,Healthcare,69,72548.73
+DEAL-5326,Company_27,Contact_110,MQL,495591.26,10,Rep_11,2024-02-12,2025-03-12,Referral,Logistics,15,49559.13
+DEAL-5327,Company_31,Contact_31,Proposal,28252.32,77,Rep_12,2024-01-06,2024-04-21,Event,Finance,45,21754.29
+DEAL-5328,Company_16,Contact_281,MQL,293128.17,90,Rep_5,2024-07-29,2025-03-24,Email Campaign,Technology,14,263815.35
+DEAL-5329,Company_57,Contact_299,Lead,233451.52,76,Rep_4,2024-01-06,2025-02-03,Referral,Logistics,80,177423.16
+DEAL-5330,Company_18,Contact_150,Negotiation,42880.57,93,Rep_12,2024-03-12,2025-02-09,Website,Logistics,78,39878.93
+DEAL-5331,Company_126,Contact_188,Opportunity,110977.62,46,Rep_4,2024-07-02,2024-10-26,Event,Logistics,52,51049.71
+DEAL-5332,Company_147,Contact_226,SQL,348649.78,10,Rep_3,2024-04-08,2024-04-22,Website,Logistics,12,34864.98
+DEAL-5333,Company_37,Contact_20,Lead,58622.67,30,Rep_6,2024-04-07,2025-04-15,Website,Logistics,59,17586.8
+DEAL-5334,Company_105,Contact_89,Closed Lost,401507.43,86,Rep_15,2024-05-06,2024-04-23,Referral,Logistics,40,345296.39
+DEAL-5335,Company_61,Contact_169,Closed Won,314405.19,18,Rep_7,2024-09-08,2024-10-21,Partner,Logistics,71,56592.93
+DEAL-5336,Company_16,Contact_165,Closed Lost,54924.51,56,Rep_4,2024-05-13,2024-05-24,Email Campaign,Manufacturing,9,30757.73
+DEAL-5337,Company_93,Contact_100,Lead,146973.24,5,Rep_8,2024-10-17,2025-04-17,Website,Finance,37,7348.66
+DEAL-5338,Company_139,Contact_1,Lead,72903.04,35,Rep_6,2024-02-28,2024-12-05,Partner,Healthcare,33,25516.06
+DEAL-5339,Company_46,Contact_285,MQL,399812.64,15,Rep_10,2024-02-07,2024-11-03,Partner,Healthcare,85,59971.9
+DEAL-5340,Company_157,Contact_184,Lead,268815.01,15,Rep_7,2024-03-01,2024-08-02,Event,Retail,27,40322.25
+DEAL-5341,Company_198,Contact_226,Opportunity,6400.82,20,Rep_9,2024-12-01,2025-03-17,Website,Manufacturing,88,1280.16
+DEAL-5342,Company_12,Contact_131,Negotiation,273737.31,56,Rep_7,2024-04-11,2024-06-11,Website,Finance,83,153292.89
+DEAL-5343,Company_33,Contact_152,MQL,243987.82,70,Rep_8,2024-01-11,2025-02-15,Partner,Technology,53,170791.47
+DEAL-5344,Company_58,Contact_133,Opportunity,323322.82,32,Rep_7,2024-04-25,2025-06-16,Event,Retail,16,103463.3
+DEAL-5345,Company_170,Contact_129,Proposal,22247.81,82,Rep_6,2024-09-08,2024-07-08,Event,Logistics,20,18243.2
+DEAL-5346,Company_29,Contact_201,SQL,22535.77,42,Rep_15,2024-05-12,2025-01-29,Cold Call,Logistics,2,9465.02
+DEAL-5347,Company_94,Contact_298,Opportunity,177937.21,75,Rep_4,2024-05-20,2024-07-29,Email Campaign,Technology,69,133452.91
+DEAL-5348,Company_107,Contact_233,Proposal,345826.36,55,Rep_13,2024-02-01,2025-05-27,Referral,Retail,65,190204.5
+DEAL-5349,Company_26,Contact_200,Closed Lost,334946.26,73,Rep_11,2024-09-01,2025-05-12,Website,Retail,29,244510.77
+DEAL-5350,Company_9,Contact_4,SQL,142740.47,97,Rep_8,2024-03-21,2024-07-31,Referral,Healthcare,66,138458.26
+DEAL-5351,Company_24,Contact_154,Lead,111953.43,99,Rep_5,2024-02-05,2024-06-21,Email Campaign,Manufacturing,52,110833.9
+DEAL-5352,Company_12,Contact_286,Closed Won,343147.17,60,Rep_8,2024-09-18,2024-04-10,Cold Call,Healthcare,73,205888.3
+DEAL-5353,Company_100,Contact_119,Proposal,18420.8,96,Rep_13,2024-12-08,2025-02-03,Email Campaign,Logistics,8,17683.97
+DEAL-5354,Company_187,Contact_165,Opportunity,280607.75,71,Rep_3,2024-08-11,2025-05-22,Cold Call,Logistics,18,199231.5
+DEAL-5355,Company_71,Contact_98,Negotiation,214928.83,30,Rep_9,2024-12-09,2024-05-10,Email Campaign,Retail,72,64478.65
+DEAL-5356,Company_52,Contact_58,Closed Lost,123347.97,93,Rep_12,2024-05-27,2025-04-02,Partner,Healthcare,33,114713.61
+DEAL-5357,Company_47,Contact_211,MQL,262547.55,18,Rep_10,2024-07-09,2025-03-03,Email Campaign,Retail,86,47258.56
+DEAL-5358,Company_196,Contact_94,Closed Won,112497.99,49,Rep_3,2024-05-10,2024-10-16,Partner,Logistics,79,55124.02
+DEAL-5359,Company_191,Contact_176,Negotiation,284339.19,19,Rep_8,2024-07-05,2024-06-17,Partner,Finance,9,54024.45
+DEAL-5360,Company_130,Contact_178,Proposal,78742.05,79,Rep_3,2024-11-22,2025-01-12,Email Campaign,Logistics,36,62206.22
+DEAL-5361,Company_93,Contact_254,Closed Won,205817.99,90,Rep_14,2024-08-20,2024-12-15,Partner,Retail,66,185236.19
+DEAL-5362,Company_32,Contact_281,SQL,257661.04,82,Rep_6,2024-01-10,2025-03-31,Referral,Technology,13,211282.05
+DEAL-5363,Company_185,Contact_166,Closed Won,20692.01,14,Rep_7,2024-07-31,2024-11-30,Email Campaign,Manufacturing,77,2896.88
+DEAL-5364,Company_1,Contact_16,Proposal,307305.03,30,Rep_13,2024-05-18,2024-03-24,Website,Finance,9,92191.51
+DEAL-5365,Company_33,Contact_175,Closed Lost,376406.07,37,Rep_7,2024-07-17,2024-06-08,Website,Retail,10,139270.25
+DEAL-5366,Company_136,Contact_265,Opportunity,478256.41,15,Rep_3,2024-07-23,2024-09-02,Website,Logistics,49,71738.46
+DEAL-5367,Company_37,Contact_143,Negotiation,105547.54,55,Rep_14,2024-08-03,2024-10-26,Website,Manufacturing,22,58051.15
+DEAL-5368,Company_22,Contact_169,Opportunity,108304.21,8,Rep_10,2024-11-13,2024-08-18,Cold Call,Manufacturing,57,8664.34
+DEAL-5369,Company_119,Contact_229,Opportunity,155891.26,63,Rep_10,2024-11-10,2025-05-03,Event,Technology,35,98211.49
+DEAL-5370,Company_6,Contact_132,Opportunity,445928.2,59,Rep_2,2024-12-21,2024-07-15,Partner,Logistics,25,263097.64
+DEAL-5371,Company_54,Contact_125,Closed Lost,206394.3,61,Rep_7,2024-08-11,2025-01-26,Partner,Healthcare,75,125900.52
+DEAL-5372,Company_128,Contact_145,Closed Won,154387.94,91,Rep_7,2024-04-14,2024-08-24,Referral,Technology,15,140493.03
+DEAL-5373,Company_37,Contact_255,MQL,371884.49,79,Rep_4,2024-03-12,2025-06-27,Cold Call,Logistics,44,293788.75
+DEAL-5374,Company_152,Contact_146,Closed Won,23805.14,29,Rep_9,2024-11-06,2025-05-21,Cold Call,Finance,15,6903.49
+DEAL-5375,Company_19,Contact_98,Proposal,276663.18,59,Rep_4,2024-11-30,2025-03-18,Website,Finance,13,163231.28
+DEAL-5376,Company_123,Contact_179,Lead,227844.05,81,Rep_8,2024-01-14,2025-03-08,Website,Technology,19,184553.68
+DEAL-5377,Company_16,Contact_208,Closed Won,314304.81,85,Rep_13,2024-03-20,2025-01-08,Cold Call,Retail,23,267159.09
+DEAL-5378,Company_146,Contact_273,MQL,366894.34,66,Rep_12,2024-09-05,2024-12-11,Partner,Logistics,37,242150.26
+DEAL-5379,Company_150,Contact_267,Closed Won,165869.25,13,Rep_5,2024-03-01,2024-11-30,Cold Call,Retail,42,21563.0
+DEAL-5380,Company_159,Contact_235,Opportunity,320026.51,46,Rep_4,2024-01-19,2024-03-14,Cold Call,Logistics,13,147212.19
+DEAL-5381,Company_57,Contact_230,Closed Lost,264542.71,86,Rep_1,2024-12-30,2025-05-31,Partner,Logistics,4,227506.73
+DEAL-5382,Company_48,Contact_135,Opportunity,71314.07,12,Rep_6,2024-02-05,2025-06-22,Cold Call,Logistics,9,8557.69
+DEAL-5383,Company_195,Contact_103,Lead,441454.47,61,Rep_1,2024-03-19,2024-11-12,Event,Technology,57,269287.23
+DEAL-5384,Company_146,Contact_169,Closed Won,378522.13,56,Rep_2,2024-12-27,2025-04-28,Partner,Finance,87,211972.39
+DEAL-5385,Company_37,Contact_212,Negotiation,461218.8,26,Rep_15,2024-02-06,2024-09-13,Website,Finance,3,119916.89
+DEAL-5386,Company_6,Contact_156,SQL,361600.27,37,Rep_13,2024-10-19,2024-04-24,Email Campaign,Retail,4,133792.1
+DEAL-5387,Company_71,Contact_62,MQL,126179.25,97,Rep_9,2024-07-24,2025-04-11,Cold Call,Logistics,70,122393.87
+DEAL-5388,Company_133,Contact_5,Closed Won,218110.48,61,Rep_12,2024-07-16,2024-11-04,Website,Finance,65,133047.39
+DEAL-5389,Company_75,Contact_18,Closed Won,196499.87,94,Rep_8,2024-10-29,2025-06-01,Website,Retail,66,184709.88
+DEAL-5390,Company_161,Contact_128,SQL,22731.86,49,Rep_10,2024-01-08,2024-06-12,Email Campaign,Finance,16,11138.61
+DEAL-5391,Company_100,Contact_237,Negotiation,208221.34,85,Rep_14,2024-01-23,2024-10-20,Email Campaign,Retail,78,176988.14
+DEAL-5392,Company_198,Contact_237,MQL,176056.88,63,Rep_2,2024-03-12,2025-01-20,Email Campaign,Manufacturing,56,110915.83
+DEAL-5393,Company_174,Contact_242,MQL,6942.27,91,Rep_6,2024-06-28,2024-05-06,Event,Healthcare,15,6317.47
+DEAL-5394,Company_94,Contact_213,Negotiation,424326.01,36,Rep_2,2024-12-18,2025-06-29,Event,Technology,11,152757.36
+DEAL-5395,Company_167,Contact_7,Closed Won,76217.84,41,Rep_12,2024-01-26,2024-12-22,Website,Healthcare,54,31249.31
+DEAL-5396,Company_90,Contact_265,Closed Lost,252971.32,8,Rep_13,2024-06-02,2024-05-23,Website,Manufacturing,70,20237.71
+DEAL-5397,Company_2,Contact_284,Opportunity,393415.52,26,Rep_11,2024-06-05,2025-02-24,Cold Call,Logistics,70,102288.04
+DEAL-5398,Company_62,Contact_255,MQL,304218.28,18,Rep_10,2024-03-12,2025-05-02,Email Campaign,Retail,53,54759.29
+DEAL-5399,Company_82,Contact_134,Proposal,88828.86,22,Rep_8,2024-05-05,2024-08-29,Partner,Manufacturing,46,19542.35
+DEAL-5400,Company_195,Contact_65,Negotiation,311014.51,34,Rep_1,2024-03-14,2024-12-23,Partner,Healthcare,62,105744.93
+DEAL-5401,Company_165,Contact_271,Closed Lost,380010.46,88,Rep_12,2024-02-20,2025-02-28,Event,Logistics,12,334409.2
+DEAL-5402,Company_30,Contact_56,Lead,428108.44,40,Rep_14,2024-07-09,2024-05-10,Referral,Logistics,33,171243.38
+DEAL-5403,Company_1,Contact_236,Negotiation,162733.61,83,Rep_15,2024-12-06,2024-11-14,Email Campaign,Logistics,9,135068.9
+DEAL-5404,Company_106,Contact_289,Proposal,21791.09,82,Rep_6,2024-05-27,2024-11-28,Website,Logistics,75,17868.69
+DEAL-5405,Company_107,Contact_270,Proposal,305934.36,98,Rep_4,2024-08-20,2024-07-25,Cold Call,Retail,54,299815.67
+DEAL-5406,Company_147,Contact_156,Lead,116755.41,53,Rep_10,2024-09-02,2024-07-24,Website,Logistics,70,61880.37
+DEAL-5407,Company_52,Contact_250,Lead,391543.06,85,Rep_1,2024-11-04,2025-01-01,Partner,Retail,45,332811.6
+DEAL-5408,Company_162,Contact_249,Proposal,341541.45,44,Rep_1,2024-10-28,2025-03-02,Cold Call,Retail,83,150278.24
+DEAL-5409,Company_83,Contact_292,MQL,387727.49,65,Rep_13,2024-11-27,2024-09-06,Event,Retail,83,252022.87
+DEAL-5410,Company_67,Contact_108,Proposal,483927.94,82,Rep_15,2024-10-25,2024-05-11,Website,Finance,55,396820.91
+DEAL-5411,Company_84,Contact_189,Lead,294350.96,18,Rep_7,2024-12-06,2025-03-19,Partner,Logistics,75,52983.17
+DEAL-5412,Company_188,Contact_245,Closed Won,452635.21,10,Rep_8,2024-12-19,2024-05-24,Email Campaign,Healthcare,59,45263.52
+DEAL-5413,Company_78,Contact_68,SQL,322737.22,20,Rep_9,2024-09-30,2024-03-02,Website,Retail,65,64547.44
+DEAL-5414,Company_112,Contact_68,Opportunity,94963.45,73,Rep_3,2024-06-29,2024-08-04,Cold Call,Logistics,22,69323.32
+DEAL-5415,Company_178,Contact_117,SQL,400657.55,50,Rep_4,2024-04-22,2025-04-03,Referral,Technology,88,200328.78
+DEAL-5416,Company_4,Contact_108,Opportunity,348380.82,31,Rep_5,2024-07-28,2025-03-04,Website,Finance,17,107998.05
+DEAL-5417,Company_107,Contact_225,Proposal,489080.19,77,Rep_13,2024-10-30,2024-07-28,Website,Logistics,62,376591.75
+DEAL-5418,Company_141,Contact_280,Negotiation,125498.83,6,Rep_7,2024-10-02,2024-11-08,Event,Healthcare,55,7529.93
+DEAL-5419,Company_180,Contact_47,Negotiation,169897.13,21,Rep_11,2024-07-09,2025-06-11,Partner,Retail,9,35678.4
+DEAL-5420,Company_13,Contact_98,Closed Lost,411638.06,49,Rep_3,2024-01-28,2025-02-14,Email Campaign,Retail,69,201702.65
+DEAL-5421,Company_145,Contact_279,MQL,36130.35,91,Rep_15,2024-04-09,2025-03-05,Event,Logistics,7,32878.62
+DEAL-5422,Company_160,Contact_178,Closed Won,318433.88,76,Rep_14,2024-07-30,2024-04-12,Website,Retail,46,242009.75
+DEAL-5423,Company_70,Contact_62,Proposal,270060.65,69,Rep_8,2024-05-21,2024-06-26,Referral,Healthcare,73,186341.85
+DEAL-5424,Company_149,Contact_181,SQL,88566.83,72,Rep_4,2024-06-15,2024-04-20,Website,Technology,12,63768.12
+DEAL-5425,Company_99,Contact_262,Closed Lost,86735.25,34,Rep_15,2024-04-20,2025-06-20,Partner,Healthcare,33,29489.98
+DEAL-5426,Company_131,Contact_112,Negotiation,406047.82,47,Rep_13,2024-01-28,2024-08-14,Event,Retail,46,190842.48
+DEAL-5427,Company_78,Contact_145,MQL,12645.35,89,Rep_8,2024-06-19,2024-10-30,Partner,Manufacturing,83,11254.36
+DEAL-5428,Company_36,Contact_184,MQL,374686.51,74,Rep_5,2024-06-11,2024-11-24,Partner,Manufacturing,34,277268.02
+DEAL-5429,Company_165,Contact_252,Negotiation,367670.28,61,Rep_10,2024-10-12,2024-11-10,Referral,Manufacturing,11,224278.87
+DEAL-5430,Company_44,Contact_169,Negotiation,326591.59,12,Rep_6,2024-02-11,2024-03-26,Email Campaign,Healthcare,12,39190.99
+DEAL-5431,Company_38,Contact_287,Lead,207711.24,74,Rep_11,2024-06-26,2025-05-17,Email Campaign,Technology,18,153706.32
+DEAL-5432,Company_177,Contact_226,Negotiation,19018.74,39,Rep_13,2024-11-08,2024-09-02,Event,Finance,78,7417.31
+DEAL-5433,Company_187,Contact_127,Proposal,401879.45,41,Rep_8,2024-04-08,2025-05-22,Event,Healthcare,69,164770.57
+DEAL-5434,Company_122,Contact_146,Closed Lost,67225.07,69,Rep_1,2024-04-25,2025-03-08,Cold Call,Logistics,38,46385.3
+DEAL-5435,Company_116,Contact_209,Negotiation,143989.8,42,Rep_9,2024-02-01,2025-02-03,Website,Manufacturing,76,60475.72
+DEAL-5436,Company_72,Contact_22,Closed Lost,473657.55,59,Rep_13,2024-07-29,2025-02-06,Partner,Logistics,82,279457.95
+DEAL-5437,Company_122,Contact_68,Lead,154421.21,6,Rep_4,2024-11-09,2025-06-20,Event,Logistics,78,9265.27
+DEAL-5438,Company_122,Contact_72,Closed Won,131293.88,22,Rep_15,2024-06-25,2024-07-26,Partner,Technology,1,28884.65
+DEAL-5439,Company_103,Contact_240,SQL,486818.42,56,Rep_6,2024-06-01,2024-08-08,Referral,Technology,9,272618.32
+DEAL-5440,Company_131,Contact_246,Proposal,47536.44,95,Rep_11,2024-10-01,2025-01-21,Website,Retail,65,45159.62
+DEAL-5441,Company_111,Contact_246,Closed Lost,84541.74,77,Rep_11,2024-06-10,2024-06-22,Partner,Finance,34,65097.14
+DEAL-5442,Company_175,Contact_32,Closed Won,221967.17,44,Rep_3,2024-05-25,2025-03-27,Event,Logistics,15,97665.55
+DEAL-5443,Company_133,Contact_89,MQL,394898.2,97,Rep_1,2024-10-06,2024-03-15,Partner,Healthcare,58,383051.25
+DEAL-5444,Company_77,Contact_94,MQL,442757.67,31,Rep_15,2024-04-13,2025-05-11,Cold Call,Technology,32,137254.88
+DEAL-5445,Company_131,Contact_8,Negotiation,379039.68,89,Rep_11,2024-11-06,2024-08-16,Partner,Finance,82,337345.32
+DEAL-5446,Company_46,Contact_78,Closed Lost,488206.64,43,Rep_10,2024-04-08,2024-03-03,Referral,Healthcare,52,209928.86
+DEAL-5447,Company_43,Contact_129,Proposal,13338.84,13,Rep_5,2024-07-06,2024-12-19,Event,Technology,22,1734.05
+DEAL-5448,Company_165,Contact_265,Lead,311655.74,5,Rep_2,2024-04-01,2024-07-13,Cold Call,Finance,84,15582.79
+DEAL-5449,Company_116,Contact_51,MQL,62591.37,98,Rep_5,2024-08-19,2024-07-27,Website,Retail,54,61339.54
+DEAL-5450,Company_11,Contact_258,Negotiation,455629.56,66,Rep_9,2024-06-07,2024-10-21,Event,Logistics,27,300715.51
+DEAL-5451,Company_71,Contact_245,Negotiation,467977.07,19,Rep_11,2024-03-28,2024-12-08,Cold Call,Retail,13,88915.64
+DEAL-5452,Company_196,Contact_48,Closed Lost,154998.97,99,Rep_5,2024-09-29,2024-05-06,Website,Technology,50,153448.98
+DEAL-5453,Company_127,Contact_79,Proposal,414715.72,8,Rep_4,2024-12-08,2024-03-24,Event,Healthcare,67,33177.26
+DEAL-5454,Company_173,Contact_138,Opportunity,316986.41,36,Rep_4,2024-01-11,2024-10-11,Event,Manufacturing,75,114115.11
+DEAL-5455,Company_110,Contact_283,Lead,54741.95,76,Rep_15,2024-07-26,2024-08-20,Referral,Healthcare,12,41603.88
+DEAL-5456,Company_9,Contact_235,Closed Won,303370.24,10,Rep_10,2024-09-19,2024-12-09,Partner,Retail,39,30337.02
+DEAL-5457,Company_36,Contact_291,Closed Lost,488148.23,91,Rep_15,2024-09-20,2025-02-28,Event,Logistics,89,444214.89
+DEAL-5458,Company_19,Contact_94,Lead,157506.55,69,Rep_1,2024-03-21,2024-12-25,Website,Technology,59,108679.52
+DEAL-5459,Company_147,Contact_272,Opportunity,5564.68,95,Rep_7,2024-02-11,2024-04-20,Cold Call,Healthcare,9,5286.45
+DEAL-5460,Company_151,Contact_286,SQL,488511.88,84,Rep_7,2024-07-06,2025-06-29,Partner,Retail,82,410349.98
+DEAL-5461,Company_91,Contact_180,Negotiation,209921.79,83,Rep_7,2024-08-21,2025-02-12,Referral,Manufacturing,61,174235.09
+DEAL-5462,Company_145,Contact_47,Closed Won,218311.72,26,Rep_6,2024-04-15,2024-03-24,Partner,Logistics,41,56761.05
+DEAL-5463,Company_110,Contact_80,MQL,357743.0,24,Rep_2,2024-05-15,2025-03-07,Email Campaign,Finance,70,85858.32
+DEAL-5464,Company_148,Contact_39,Closed Lost,304170.77,28,Rep_1,2024-07-13,2025-05-03,Event,Healthcare,58,85167.82
+DEAL-5465,Company_134,Contact_242,MQL,154483.37,19,Rep_12,2024-06-13,2024-12-02,Event,Manufacturing,23,29351.84
+DEAL-5466,Company_91,Contact_94,Closed Won,54489.05,68,Rep_7,2024-06-25,2025-04-10,Email Campaign,Logistics,71,37052.55
+DEAL-5467,Company_130,Contact_210,Negotiation,414544.45,10,Rep_3,2024-09-06,2025-05-06,Email Campaign,Manufacturing,23,41454.44
+DEAL-5468,Company_64,Contact_80,MQL,244271.7,45,Rep_6,2024-12-26,2025-06-13,Email Campaign,Manufacturing,21,109922.26
+DEAL-5469,Company_150,Contact_293,Negotiation,337874.78,60,Rep_14,2024-10-18,2025-06-08,Email Campaign,Finance,54,202724.87
+DEAL-5470,Company_182,Contact_232,SQL,430949.83,56,Rep_8,2024-01-04,2024-06-03,Event,Healthcare,2,241331.9
+DEAL-5471,Company_42,Contact_113,SQL,13772.58,51,Rep_15,2024-05-07,2024-03-17,Cold Call,Retail,57,7024.02
+DEAL-5472,Company_133,Contact_143,Lead,430395.71,26,Rep_3,2024-01-04,2025-01-12,Cold Call,Finance,50,111902.88
+DEAL-5473,Company_22,Contact_18,Negotiation,377138.65,15,Rep_2,2024-11-15,2025-01-25,Event,Manufacturing,65,56570.8
+DEAL-5474,Company_76,Contact_41,Closed Won,473676.77,98,Rep_9,2024-08-23,2024-12-03,Event,Retail,15,464203.23
+DEAL-5475,Company_134,Contact_299,Proposal,120627.45,49,Rep_11,2024-03-21,2024-06-24,Email Campaign,Healthcare,52,59107.45
+DEAL-5476,Company_56,Contact_244,Closed Won,164599.06,61,Rep_15,2024-11-03,2025-06-06,Cold Call,Healthcare,40,100405.43
+DEAL-5477,Company_47,Contact_251,SQL,332431.98,58,Rep_7,2024-07-25,2024-09-15,Email Campaign,Manufacturing,16,192810.55
+DEAL-5478,Company_77,Contact_193,Proposal,463267.53,40,Rep_4,2024-01-19,2025-02-25,Email Campaign,Healthcare,41,185307.01
+DEAL-5479,Company_23,Contact_67,Closed Won,496371.33,73,Rep_9,2024-02-25,2024-12-29,Cold Call,Finance,83,362351.07
+DEAL-5480,Company_125,Contact_32,Opportunity,211285.14,40,Rep_5,2024-10-23,2025-05-11,Referral,Healthcare,74,84514.06
+DEAL-5481,Company_27,Contact_217,Proposal,271918.69,44,Rep_3,2024-04-15,2025-02-10,Email Campaign,Healthcare,15,119644.22
+DEAL-5482,Company_67,Contact_100,MQL,89422.75,81,Rep_2,2024-07-10,2025-01-04,Cold Call,Retail,76,72432.43
+DEAL-5483,Company_63,Contact_1,Proposal,348517.81,35,Rep_11,2024-11-23,2025-04-14,Website,Logistics,51,121981.23
+DEAL-5484,Company_193,Contact_7,Closed Won,419498.36,71,Rep_10,2024-04-15,2024-03-27,Partner,Healthcare,5,297843.84
+DEAL-5485,Company_198,Contact_167,Closed Won,400331.41,68,Rep_3,2024-01-05,2025-02-07,Event,Finance,82,272225.36
+DEAL-5486,Company_16,Contact_252,SQL,176192.31,7,Rep_9,2024-01-31,2024-12-11,Website,Logistics,47,12333.46
+DEAL-5487,Company_32,Contact_109,Proposal,481815.69,70,Rep_14,2024-12-01,2025-03-14,Referral,Technology,82,337270.98
+DEAL-5488,Company_146,Contact_299,Proposal,64571.56,81,Rep_13,2024-08-07,2024-06-18,Email Campaign,Logistics,9,52302.96
+DEAL-5489,Company_60,Contact_115,Closed Lost,249515.16,30,Rep_7,2024-04-30,2024-12-17,Partner,Technology,15,74854.55
+DEAL-5490,Company_129,Contact_220,Closed Won,279525.58,91,Rep_1,2024-01-29,2024-07-17,Cold Call,Healthcare,81,254368.28
+DEAL-5491,Company_184,Contact_74,Closed Won,270574.36,6,Rep_10,2024-09-11,2024-04-27,Event,Logistics,22,16234.46
+DEAL-5492,Company_33,Contact_182,Closed Won,380155.94,22,Rep_8,2024-01-15,2024-12-06,Website,Technology,49,83634.31
+DEAL-5493,Company_192,Contact_83,SQL,306755.58,94,Rep_14,2024-02-03,2024-03-11,Email Campaign,Technology,54,288350.25
+DEAL-5494,Company_11,Contact_233,Opportunity,43179.07,86,Rep_9,2024-08-05,2024-04-15,Event,Retail,85,37134.0
+DEAL-5495,Company_46,Contact_136,Opportunity,94026.57,76,Rep_12,2024-08-22,2024-11-14,Partner,Finance,31,71460.19
+DEAL-5496,Company_102,Contact_13,Opportunity,268458.32,62,Rep_8,2024-07-27,2025-05-12,Referral,Technology,68,166444.16
+DEAL-5497,Company_176,Contact_75,Closed Lost,348801.06,24,Rep_9,2024-11-28,2025-02-12,Event,Manufacturing,66,83712.25
+DEAL-5498,Company_111,Contact_106,Closed Lost,259516.39,51,Rep_5,2024-04-08,2024-03-08,Website,Logistics,63,132353.36
+DEAL-5499,Company_28,Contact_140,Closed Lost,180976.35,58,Rep_7,2024-07-22,2024-04-23,Website,Manufacturing,47,104966.28
+DEAL-5500,Company_50,Contact_81,Proposal,30311.61,13,Rep_5,2024-04-22,2024-09-26,Partner,Logistics,7,3940.51
+DEAL-5501,Company_152,Contact_173,MQL,394011.05,61,Rep_7,2024-05-12,2024-09-26,Event,Retail,24,240346.74
+DEAL-5502,Company_112,Contact_289,MQL,251111.15,13,Rep_15,2024-02-25,2024-03-20,Referral,Retail,50,32644.45
+DEAL-5503,Company_3,Contact_213,SQL,271700.62,16,Rep_6,2024-10-17,2024-07-03,Partner,Logistics,37,43472.1
+DEAL-5504,Company_100,Contact_94,Negotiation,237134.28,21,Rep_7,2024-09-14,2024-05-01,Partner,Retail,17,49798.2
+DEAL-5505,Company_81,Contact_203,SQL,136345.98,23,Rep_15,2024-09-17,2024-12-02,Website,Technology,62,31359.58
+DEAL-5506,Company_1,Contact_290,Negotiation,141804.87,12,Rep_3,2024-02-22,2025-01-15,Website,Finance,42,17016.58
+DEAL-5507,Company_50,Contact_73,Closed Lost,36432.89,95,Rep_4,2024-02-13,2024-09-07,Referral,Retail,70,34611.25
+DEAL-5508,Company_187,Contact_70,SQL,355261.51,81,Rep_8,2024-10-13,2024-12-04,Event,Logistics,49,287761.82
+DEAL-5509,Company_141,Contact_12,Closed Lost,139577.07,53,Rep_7,2024-08-31,2024-06-07,Email Campaign,Retail,33,73975.85
+DEAL-5510,Company_15,Contact_252,Proposal,152787.87,40,Rep_6,2024-01-11,2025-04-19,Email Campaign,Healthcare,10,61115.15
+DEAL-5511,Company_4,Contact_249,Closed Won,496782.56,23,Rep_12,2024-08-31,2024-03-03,Cold Call,Finance,10,114259.99
+DEAL-5512,Company_69,Contact_124,Lead,195977.22,95,Rep_8,2024-12-24,2024-11-01,Cold Call,Manufacturing,46,186178.36
+DEAL-5513,Company_93,Contact_261,SQL,257795.12,80,Rep_6,2024-10-02,2024-08-04,Email Campaign,Logistics,32,206236.1
+DEAL-5514,Company_91,Contact_195,Closed Lost,196304.18,76,Rep_8,2024-04-11,2024-10-06,Website,Finance,64,149191.18
+DEAL-5515,Company_139,Contact_293,Closed Lost,148644.6,49,Rep_14,2024-04-25,2024-11-07,Email Campaign,Retail,57,72835.85
+DEAL-5516,Company_35,Contact_276,Proposal,7896.12,7,Rep_15,2024-10-02,2025-01-09,Referral,Healthcare,26,552.73
+DEAL-5517,Company_10,Contact_287,Lead,428168.74,65,Rep_4,2024-05-26,2025-05-27,Event,Finance,68,278309.68
+DEAL-5518,Company_134,Contact_118,Lead,239211.07,51,Rep_1,2024-09-26,2024-11-29,Referral,Healthcare,51,121997.65
+DEAL-5519,Company_179,Contact_190,Opportunity,361345.7,33,Rep_1,2024-12-17,2024-06-19,Website,Technology,79,119244.08
+DEAL-5520,Company_34,Contact_51,Closed Lost,479535.06,34,Rep_7,2024-05-28,2024-11-11,Cold Call,Retail,85,163041.92
+DEAL-5521,Company_72,Contact_268,Opportunity,6401.51,10,Rep_10,2024-07-28,2024-11-05,Cold Call,Technology,86,640.15
+DEAL-5522,Company_125,Contact_96,Closed Lost,339144.61,87,Rep_1,2024-06-28,2025-04-26,Email Campaign,Healthcare,12,295055.81
+DEAL-5523,Company_33,Contact_134,Proposal,63727.15,20,Rep_8,2024-07-05,2024-12-01,Partner,Logistics,48,12745.43
+DEAL-5524,Company_172,Contact_178,MQL,231692.7,82,Rep_6,2024-01-28,2025-04-27,Event,Technology,3,189988.01
+DEAL-5525,Company_45,Contact_236,Proposal,424157.13,97,Rep_14,2024-12-27,2025-01-11,Cold Call,Finance,79,411432.42
+DEAL-5526,Company_106,Contact_219,SQL,40390.45,9,Rep_10,2024-07-16,2024-12-04,Event,Manufacturing,63,3635.14
+DEAL-5527,Company_68,Contact_286,MQL,494858.68,64,Rep_7,2024-03-25,2024-08-08,Email Campaign,Logistics,24,316709.56
+DEAL-5528,Company_133,Contact_214,Negotiation,292513.73,11,Rep_9,2024-07-29,2024-07-03,Referral,Logistics,55,32176.51
+DEAL-5529,Company_40,Contact_239,MQL,200521.76,83,Rep_3,2024-05-25,2024-04-18,Website,Technology,50,166433.06
+DEAL-5530,Company_20,Contact_172,Closed Lost,14657.58,53,Rep_8,2024-10-27,2024-11-22,Website,Finance,49,7768.52
+DEAL-5531,Company_102,Contact_125,Closed Won,295477.42,7,Rep_5,2024-10-05,2025-05-23,Referral,Logistics,49,20683.42
+DEAL-5532,Company_173,Contact_274,Closed Won,249970.78,78,Rep_3,2024-05-19,2024-03-07,Event,Retail,88,194977.21
+DEAL-5533,Company_126,Contact_113,Lead,111581.92,77,Rep_6,2024-09-17,2025-06-07,Cold Call,Logistics,69,85918.08
+DEAL-5534,Company_151,Contact_186,Closed Lost,247771.53,92,Rep_10,2024-01-13,2025-04-23,Cold Call,Technology,36,227949.81
+DEAL-5535,Company_87,Contact_88,Opportunity,11330.69,51,Rep_9,2024-12-19,2024-09-30,Cold Call,Technology,69,5778.65
+DEAL-5536,Company_28,Contact_145,Negotiation,499741.42,93,Rep_15,2024-07-05,2024-07-31,Referral,Finance,13,464759.52
+DEAL-5537,Company_85,Contact_110,MQL,169396.65,68,Rep_5,2024-08-27,2024-12-08,Event,Technology,26,115189.72
+DEAL-5538,Company_197,Contact_78,Closed Won,242709.96,54,Rep_11,2024-08-24,2025-04-21,Website,Logistics,11,131063.38
+DEAL-5539,Company_156,Contact_246,SQL,393465.19,39,Rep_9,2024-04-24,2024-03-15,Email Campaign,Manufacturing,79,153451.42
+DEAL-5540,Company_141,Contact_230,Negotiation,357825.28,32,Rep_14,2024-09-09,2024-10-05,Partner,Healthcare,3,114504.09
+DEAL-5541,Company_60,Contact_210,SQL,444836.73,63,Rep_14,2024-05-25,2024-03-23,Partner,Technology,80,280247.14
+DEAL-5542,Company_120,Contact_25,Closed Lost,470956.24,75,Rep_11,2024-09-06,2025-01-08,Cold Call,Technology,75,353217.18
+DEAL-5543,Company_124,Contact_75,Negotiation,98643.03,8,Rep_7,2024-02-02,2024-04-07,Partner,Finance,85,7891.44
+DEAL-5544,Company_131,Contact_66,Opportunity,198247.92,44,Rep_9,2024-02-23,2024-08-02,Referral,Manufacturing,69,87229.08
+DEAL-5545,Company_178,Contact_213,Opportunity,344974.41,9,Rep_10,2024-12-04,2025-02-23,Referral,Manufacturing,41,31047.7
+DEAL-5546,Company_136,Contact_267,Lead,27287.02,42,Rep_13,2024-09-26,2025-03-02,Cold Call,Retail,73,11460.55
+DEAL-5547,Company_45,Contact_114,SQL,359887.73,80,Rep_4,2024-02-17,2024-06-19,Website,Logistics,88,287910.18
+DEAL-5548,Company_45,Contact_99,Closed Won,7417.3,70,Rep_14,2024-03-19,2024-11-05,Referral,Logistics,80,5192.11
+DEAL-5549,Company_124,Contact_167,Closed Won,457473.8,16,Rep_13,2024-07-18,2024-05-29,Partner,Manufacturing,70,73195.81
+DEAL-5550,Company_173,Contact_296,Closed Lost,360493.88,73,Rep_2,2024-01-03,2024-12-14,Event,Technology,69,263160.53
+DEAL-5551,Company_189,Contact_111,Lead,284922.09,6,Rep_5,2024-05-26,2024-03-05,Referral,Logistics,59,17095.33
+DEAL-5552,Company_122,Contact_84,SQL,217305.98,6,Rep_4,2024-04-29,2025-04-01,Referral,Logistics,80,13038.36
+DEAL-5553,Company_106,Contact_156,Closed Won,494072.26,91,Rep_9,2024-02-19,2024-03-12,Cold Call,Retail,39,449605.76
+DEAL-5554,Company_163,Contact_274,SQL,369573.31,8,Rep_4,2024-04-19,2024-12-22,Website,Retail,45,29565.86
+DEAL-5555,Company_195,Contact_219,MQL,404610.01,30,Rep_5,2024-04-17,2024-09-14,Website,Manufacturing,75,121383.0
+DEAL-5556,Company_6,Contact_155,SQL,413565.57,17,Rep_3,2024-01-25,2024-06-17,Partner,Retail,24,70306.15
+DEAL-5557,Company_62,Contact_219,Closed Lost,15828.09,60,Rep_2,2024-08-19,2024-11-19,Event,Healthcare,69,9496.85
+DEAL-5558,Company_67,Contact_5,Closed Won,32068.77,54,Rep_7,2024-04-09,2024-05-09,Event,Manufacturing,10,17317.14
+DEAL-5559,Company_113,Contact_226,Lead,103190.67,84,Rep_5,2024-01-12,2024-12-08,Referral,Manufacturing,53,86680.16
+DEAL-5560,Company_59,Contact_30,Closed Won,329332.71,98,Rep_8,2024-01-09,2025-01-08,Partner,Technology,4,322746.06
+DEAL-5561,Company_62,Contact_117,Proposal,313854.85,75,Rep_4,2024-12-19,2024-10-10,Referral,Manufacturing,89,235391.14
+DEAL-5562,Company_5,Contact_105,Closed Won,165955.96,49,Rep_5,2024-02-13,2024-08-24,Partner,Finance,75,81318.42
+DEAL-5563,Company_1,Contact_207,Proposal,486634.39,9,Rep_14,2024-11-28,2024-10-10,Email Campaign,Retail,23,43797.1
+DEAL-5564,Company_90,Contact_72,Negotiation,51087.79,92,Rep_13,2024-03-01,2025-06-09,Referral,Technology,14,47000.77
+DEAL-5565,Company_199,Contact_72,Proposal,389476.46,58,Rep_4,2024-01-31,2025-03-02,Event,Logistics,58,225896.35
+DEAL-5566,Company_59,Contact_265,Negotiation,243034.17,25,Rep_3,2024-07-18,2024-03-03,Cold Call,Manufacturing,81,60758.54
+DEAL-5567,Company_48,Contact_143,Closed Won,212322.93,56,Rep_15,2024-11-13,2024-07-20,Referral,Healthcare,29,118900.84
+DEAL-5568,Company_53,Contact_222,Proposal,17654.67,42,Rep_11,2024-01-27,2024-03-13,Event,Retail,86,7414.96
+DEAL-5569,Company_194,Contact_175,Lead,365260.82,38,Rep_8,2024-04-30,2024-06-24,Event,Retail,41,138799.11
+DEAL-5570,Company_133,Contact_186,Lead,386929.88,48,Rep_11,2024-10-02,2025-03-15,Email Campaign,Technology,40,185726.34
+DEAL-5571,Company_130,Contact_206,Opportunity,162883.96,76,Rep_4,2024-01-25,2025-04-21,Cold Call,Retail,31,123791.81
+DEAL-5572,Company_38,Contact_200,Opportunity,260896.62,20,Rep_7,2024-03-03,2024-10-09,Referral,Manufacturing,25,52179.32
+DEAL-5573,Company_180,Contact_273,Closed Won,305188.85,96,Rep_6,2024-04-22,2025-01-30,Cold Call,Finance,30,292981.3
+DEAL-5574,Company_40,Contact_235,Lead,186984.4,10,Rep_11,2024-10-22,2024-08-28,Partner,Healthcare,16,18698.44
+DEAL-5575,Company_193,Contact_92,Closed Lost,309713.09,18,Rep_3,2024-10-23,2024-10-19,Cold Call,Finance,34,55748.36
+DEAL-5576,Company_190,Contact_51,Lead,219892.89,69,Rep_8,2024-09-16,2025-04-08,Partner,Technology,26,151726.09
+DEAL-5577,Company_113,Contact_253,Opportunity,439644.58,18,Rep_13,2024-08-31,2024-07-13,Website,Logistics,6,79136.02
+DEAL-5578,Company_173,Contact_112,Opportunity,360664.05,78,Rep_3,2024-01-10,2024-08-03,Website,Retail,33,281317.96
+DEAL-5579,Company_199,Contact_94,Proposal,59697.49,74,Rep_2,2024-03-28,2024-05-06,Referral,Healthcare,4,44176.14
+DEAL-5580,Company_116,Contact_34,Lead,400803.58,45,Rep_13,2024-12-03,2024-06-15,Website,Healthcare,17,180361.61
+DEAL-5581,Company_153,Contact_166,Closed Won,172065.29,48,Rep_14,2024-09-20,2024-03-19,Partner,Manufacturing,65,82591.34
+DEAL-5582,Company_118,Contact_154,MQL,468106.37,99,Rep_7,2024-03-29,2025-04-02,Cold Call,Technology,3,463425.31
+DEAL-5583,Company_105,Contact_248,Closed Won,303668.78,80,Rep_1,2024-09-16,2025-04-20,Website,Retail,28,242935.02
+DEAL-5584,Company_67,Contact_224,Proposal,18651.09,65,Rep_9,2024-09-22,2024-09-22,Email Campaign,Finance,61,12123.21
+DEAL-5585,Company_131,Contact_217,Closed Lost,368509.54,18,Rep_5,2024-09-28,2024-12-14,Partner,Logistics,2,66331.72
+DEAL-5586,Company_54,Contact_162,Closed Lost,69713.51,61,Rep_9,2024-12-24,2024-06-30,Partner,Manufacturing,66,42525.24
+DEAL-5587,Company_39,Contact_258,Closed Won,439247.4,8,Rep_3,2024-07-16,2024-03-23,Website,Manufacturing,8,35139.79
+DEAL-5588,Company_55,Contact_295,Opportunity,474423.5,28,Rep_13,2024-01-22,2024-11-07,Event,Technology,5,132838.58
+DEAL-5589,Company_3,Contact_244,Opportunity,349151.65,71,Rep_11,2024-10-26,2024-05-17,Cold Call,Technology,18,247897.67
+DEAL-5590,Company_186,Contact_105,Negotiation,268772.02,43,Rep_10,2024-01-06,2025-04-18,Partner,Healthcare,77,115571.97
+DEAL-5591,Company_52,Contact_83,Negotiation,303021.19,99,Rep_8,2024-08-22,2024-07-15,Email Campaign,Healthcare,5,299990.98
+DEAL-5592,Company_160,Contact_1,Closed Won,217283.31,94,Rep_4,2024-10-18,2025-02-23,Event,Manufacturing,9,204246.31
+DEAL-5593,Company_87,Contact_297,Opportunity,46373.48,14,Rep_15,2024-02-15,2024-07-07,Partner,Manufacturing,85,6492.29
+DEAL-5594,Company_68,Contact_220,Opportunity,464777.53,88,Rep_4,2024-10-18,2024-05-01,Partner,Healthcare,55,409004.23
+DEAL-5595,Company_46,Contact_281,Lead,167947.33,87,Rep_6,2024-10-23,2024-11-23,Website,Technology,51,146114.18
+DEAL-5596,Company_164,Contact_236,MQL,159859.65,15,Rep_14,2024-08-27,2024-05-29,Event,Finance,4,23978.95
+DEAL-5597,Company_103,Contact_129,Closed Won,99705.76,41,Rep_1,2024-04-28,2024-09-11,Website,Retail,36,40879.36
+DEAL-5598,Company_90,Contact_44,Closed Lost,496242.08,95,Rep_2,2024-03-14,2024-07-21,Partner,Finance,52,471429.98
+DEAL-5599,Company_131,Contact_15,Proposal,471569.4,6,Rep_12,2024-09-15,2025-05-04,Email Campaign,Finance,48,28294.16
+DEAL-5600,Company_160,Contact_237,SQL,177969.02,10,Rep_6,2024-02-27,2024-10-31,Referral,Finance,47,17796.9
+DEAL-5601,Company_131,Contact_91,Lead,133702.66,53,Rep_9,2024-09-04,2025-02-14,Referral,Technology,11,70862.41
+DEAL-5602,Company_94,Contact_114,Lead,403657.92,95,Rep_9,2024-03-03,2024-12-12,Partner,Retail,89,383475.02
+DEAL-5603,Company_178,Contact_251,Negotiation,214191.97,31,Rep_13,2024-05-02,2025-05-18,Email Campaign,Logistics,63,66399.51
+DEAL-5604,Company_179,Contact_144,Negotiation,484055.08,78,Rep_10,2024-07-04,2024-10-01,Referral,Logistics,22,377562.96
+DEAL-5605,Company_193,Contact_285,SQL,451102.28,70,Rep_7,2024-02-29,2025-04-25,Event,Logistics,87,315771.6
+DEAL-5606,Company_19,Contact_164,MQL,380928.41,18,Rep_9,2024-10-17,2025-05-12,Event,Retail,27,68567.11
+DEAL-5607,Company_178,Contact_249,Lead,49512.52,32,Rep_12,2024-09-11,2025-05-23,Website,Manufacturing,12,15844.01
+DEAL-5608,Company_39,Contact_38,Negotiation,352553.23,64,Rep_6,2024-01-06,2025-02-02,Referral,Technology,80,225634.07
+DEAL-5609,Company_124,Contact_119,Proposal,493690.92,50,Rep_3,2024-11-06,2025-06-21,Partner,Finance,14,246845.46
+DEAL-5610,Company_131,Contact_55,SQL,189779.8,27,Rep_8,2024-09-19,2025-02-26,Cold Call,Manufacturing,6,51240.55
+DEAL-5611,Company_41,Contact_17,Negotiation,441376.66,24,Rep_15,2024-11-02,2024-07-30,Website,Logistics,56,105930.4
+DEAL-5612,Company_2,Contact_297,Closed Won,207030.21,57,Rep_2,2024-08-08,2024-05-16,Email Campaign,Logistics,24,118007.22
+DEAL-5613,Company_188,Contact_155,Proposal,485805.38,83,Rep_3,2024-08-17,2024-06-11,Partner,Retail,14,403218.47
+DEAL-5614,Company_178,Contact_106,SQL,328527.73,44,Rep_15,2024-05-20,2024-12-05,Email Campaign,Technology,10,144552.2
+DEAL-5615,Company_35,Contact_113,Lead,52767.74,92,Rep_13,2024-03-24,2024-05-20,Partner,Logistics,12,48546.32
+DEAL-5616,Company_120,Contact_73,Closed Won,242127.64,68,Rep_2,2024-03-27,2024-06-24,Website,Finance,86,164646.8
+DEAL-5617,Company_31,Contact_37,Proposal,29615.73,43,Rep_4,2024-04-25,2024-12-31,Event,Technology,60,12734.76
+DEAL-5618,Company_113,Contact_274,SQL,200562.48,72,Rep_11,2024-04-16,2024-08-10,Email Campaign,Manufacturing,76,144404.99
+DEAL-5619,Company_64,Contact_32,Lead,458113.7,47,Rep_12,2024-10-03,2025-01-26,Partner,Finance,56,215313.44
+DEAL-5620,Company_150,Contact_116,Closed Won,119940.09,76,Rep_12,2024-07-10,2025-06-29,Email Campaign,Finance,49,91154.47
+DEAL-5621,Company_115,Contact_46,Closed Lost,475531.05,98,Rep_13,2024-05-30,2024-04-12,Event,Manufacturing,20,466020.43
+DEAL-5622,Company_100,Contact_278,Opportunity,54461.91,79,Rep_8,2024-09-22,2025-01-07,Website,Logistics,87,43024.91
+DEAL-5623,Company_136,Contact_62,SQL,334081.72,18,Rep_14,2024-09-25,2025-04-04,Website,Logistics,74,60134.71
+DEAL-5624,Company_95,Contact_118,Proposal,483014.35,11,Rep_9,2024-12-08,2024-05-08,Event,Technology,48,53131.58
+DEAL-5625,Company_3,Contact_226,Closed Won,328806.02,81,Rep_8,2024-04-23,2025-03-17,Website,Finance,10,266332.88
+DEAL-5626,Company_119,Contact_171,Proposal,450006.96,85,Rep_10,2024-03-30,2024-11-03,Partner,Manufacturing,68,382505.92
+DEAL-5627,Company_155,Contact_115,Lead,495560.08,58,Rep_7,2024-01-03,2025-01-01,Website,Finance,30,287424.85
+DEAL-5628,Company_98,Contact_169,MQL,322712.5,28,Rep_10,2024-02-28,2024-03-26,Event,Technology,19,90359.5
+DEAL-5629,Company_35,Contact_131,Lead,392220.6,88,Rep_13,2024-08-08,2024-09-29,Cold Call,Retail,66,345154.13
+DEAL-5630,Company_2,Contact_87,Opportunity,20832.67,47,Rep_15,2024-10-23,2024-08-26,Email Campaign,Retail,75,9791.35
+DEAL-5631,Company_60,Contact_179,Opportunity,216518.64,32,Rep_9,2024-08-07,2024-05-14,Email Campaign,Logistics,55,69285.96
+DEAL-5632,Company_153,Contact_110,Proposal,147691.35,39,Rep_1,2024-12-28,2025-03-07,Cold Call,Healthcare,7,57599.63
+DEAL-5633,Company_65,Contact_288,Closed Won,412971.74,33,Rep_10,2024-08-17,2024-11-02,Cold Call,Manufacturing,54,136280.67
+DEAL-5634,Company_191,Contact_139,Lead,340401.12,31,Rep_4,2024-11-19,2025-05-02,Email Campaign,Retail,82,105524.35
+DEAL-5635,Company_67,Contact_227,Closed Lost,309135.04,35,Rep_4,2024-04-08,2024-05-17,Event,Logistics,62,108197.26
+DEAL-5636,Company_86,Contact_71,SQL,466121.55,69,Rep_14,2024-04-28,2025-02-19,Event,Healthcare,24,321623.87
+DEAL-5637,Company_152,Contact_194,Proposal,48989.56,6,Rep_7,2024-10-23,2024-12-20,Cold Call,Manufacturing,58,2939.37
+DEAL-5638,Company_123,Contact_168,MQL,477151.43,39,Rep_12,2024-08-29,2025-01-12,Cold Call,Logistics,23,186089.06
+DEAL-5639,Company_9,Contact_223,SQL,54878.53,21,Rep_6,2024-06-27,2024-07-29,Website,Logistics,78,11524.49
+DEAL-5640,Company_16,Contact_139,Closed Won,176773.69,66,Rep_10,2024-12-15,2025-01-31,Event,Healthcare,76,116670.64
+DEAL-5641,Company_40,Contact_216,Lead,316985.46,99,Rep_10,2024-10-06,2024-06-29,Referral,Retail,51,313815.61
+DEAL-5642,Company_174,Contact_18,Opportunity,174030.72,79,Rep_14,2024-04-18,2025-03-07,Cold Call,Retail,13,137484.27
+DEAL-5643,Company_5,Contact_207,Proposal,342855.46,28,Rep_3,2024-08-11,2024-10-01,Partner,Technology,36,95999.53
+DEAL-5644,Company_15,Contact_226,Proposal,388832.22,53,Rep_9,2024-05-24,2024-10-20,Event,Finance,11,206081.08
+DEAL-5645,Company_155,Contact_149,Opportunity,415110.39,6,Rep_7,2024-06-01,2024-12-08,Cold Call,Manufacturing,69,24906.62
+DEAL-5646,Company_124,Contact_11,Opportunity,93775.13,44,Rep_7,2024-10-21,2024-04-11,Cold Call,Technology,61,41261.06
+DEAL-5647,Company_196,Contact_170,Closed Lost,95127.96,31,Rep_13,2024-09-05,2024-08-26,Referral,Retail,24,29489.67
+DEAL-5648,Company_44,Contact_234,MQL,30895.44,52,Rep_3,2024-01-05,2024-06-08,Email Campaign,Healthcare,77,16065.63
+DEAL-5649,Company_132,Contact_138,Opportunity,247971.66,43,Rep_9,2024-07-29,2025-06-13,Website,Healthcare,68,106627.81
+DEAL-5650,Company_27,Contact_29,SQL,73079.14,69,Rep_6,2024-08-24,2024-09-22,Partner,Logistics,84,50424.61
+DEAL-5651,Company_118,Contact_119,Closed Won,162705.51,57,Rep_14,2024-07-05,2024-03-03,Partner,Finance,25,92742.14
+DEAL-5652,Company_22,Contact_298,Closed Won,421014.99,94,Rep_4,2024-04-19,2024-03-13,Referral,Manufacturing,16,395754.09
+DEAL-5653,Company_181,Contact_81,Closed Won,474586.18,11,Rep_4,2024-08-25,2025-05-19,Referral,Manufacturing,43,52204.48
+DEAL-5654,Company_83,Contact_159,Lead,411927.59,94,Rep_2,2024-12-12,2024-05-16,Email Campaign,Logistics,24,387211.93
+DEAL-5655,Company_51,Contact_107,Lead,5320.95,80,Rep_7,2024-02-01,2024-03-01,Email Campaign,Manufacturing,66,4256.76
+DEAL-5656,Company_196,Contact_213,Opportunity,286172.0,72,Rep_1,2024-08-08,2024-06-12,Email Campaign,Retail,38,206043.84
+DEAL-5657,Company_14,Contact_129,Opportunity,87496.76,83,Rep_8,2024-11-29,2024-06-14,Website,Healthcare,56,72622.31
+DEAL-5658,Company_160,Contact_115,Lead,190994.72,9,Rep_4,2024-05-26,2024-04-08,Event,Manufacturing,16,17189.52
+DEAL-5659,Company_102,Contact_174,Closed Lost,216819.88,25,Rep_7,2024-05-02,2025-06-29,Website,Logistics,8,54204.97
+DEAL-5660,Company_137,Contact_171,Closed Lost,471755.68,5,Rep_10,2024-03-31,2024-03-29,Cold Call,Finance,84,23587.78
+DEAL-5661,Company_52,Contact_150,Opportunity,318700.67,80,Rep_11,2024-03-23,2025-02-18,Event,Healthcare,40,254960.54
+DEAL-5662,Company_176,Contact_78,Closed Won,137489.25,38,Rep_1,2024-05-23,2025-04-12,Partner,Healthcare,13,52245.92
+DEAL-5663,Company_90,Contact_33,Proposal,323183.45,39,Rep_3,2024-10-09,2025-01-08,Email Campaign,Technology,73,126041.55
+DEAL-5664,Company_84,Contact_207,Negotiation,476173.41,63,Rep_5,2024-03-07,2024-05-04,Website,Finance,12,299989.25
+DEAL-5665,Company_91,Contact_102,Closed Won,34283.77,45,Rep_8,2024-03-25,2025-02-17,Event,Technology,89,15427.7
+DEAL-5666,Company_59,Contact_184,Lead,408913.9,65,Rep_14,2024-12-31,2024-08-08,Website,Manufacturing,35,265794.03
+DEAL-5667,Company_64,Contact_113,MQL,112364.29,93,Rep_3,2024-12-30,2024-09-15,Referral,Healthcare,42,104498.79
+DEAL-5668,Company_28,Contact_256,Opportunity,80788.44,36,Rep_2,2024-03-24,2024-07-01,Website,Retail,24,29083.84
+DEAL-5669,Company_97,Contact_212,Closed Lost,449939.12,89,Rep_10,2024-06-02,2025-03-17,Partner,Technology,8,400445.82
+DEAL-5670,Company_95,Contact_121,Proposal,5915.48,55,Rep_15,2024-05-27,2024-12-08,Cold Call,Retail,37,3253.51
+DEAL-5671,Company_76,Contact_100,Opportunity,371837.44,40,Rep_13,2024-04-18,2024-05-15,Email Campaign,Manufacturing,33,148734.98
+DEAL-5672,Company_197,Contact_224,Lead,48178.06,92,Rep_9,2024-02-25,2024-09-15,Event,Manufacturing,40,44323.82
+DEAL-5673,Company_23,Contact_3,Proposal,310907.67,51,Rep_1,2024-01-23,2025-03-22,Partner,Manufacturing,44,158562.91
+DEAL-5674,Company_182,Contact_18,SQL,312343.97,17,Rep_9,2024-08-12,2025-05-31,Partner,Technology,57,53098.47
+DEAL-5675,Company_173,Contact_26,SQL,432074.14,32,Rep_7,2024-01-16,2025-06-01,Website,Retail,7,138263.72
+DEAL-5676,Company_5,Contact_104,Closed Lost,412190.22,85,Rep_7,2024-08-15,2024-05-05,Cold Call,Healthcare,33,350361.69
+DEAL-5677,Company_140,Contact_149,Proposal,344156.35,53,Rep_8,2024-02-04,2025-04-22,Cold Call,Logistics,77,182402.87
+DEAL-5678,Company_42,Contact_88,MQL,193371.06,58,Rep_9,2024-02-26,2024-12-01,Event,Manufacturing,85,112155.21
+DEAL-5679,Company_9,Contact_57,Lead,87370.84,69,Rep_11,2024-01-02,2025-02-24,Cold Call,Logistics,48,60285.88
+DEAL-5680,Company_172,Contact_94,Opportunity,319663.05,23,Rep_3,2024-05-25,2024-09-04,Referral,Technology,33,73522.5
+DEAL-5681,Company_24,Contact_148,Lead,251000.05,13,Rep_2,2024-04-29,2025-01-12,Event,Healthcare,38,32630.01
+DEAL-5682,Company_60,Contact_89,Opportunity,43581.42,46,Rep_1,2024-05-01,2024-07-04,Cold Call,Manufacturing,70,20047.45
+DEAL-5683,Company_20,Contact_172,Opportunity,478003.14,92,Rep_7,2024-04-23,2024-11-09,Event,Technology,36,439762.89
+DEAL-5684,Company_29,Contact_115,Closed Lost,160637.66,17,Rep_8,2024-12-09,2024-06-18,Cold Call,Retail,85,27308.4
+DEAL-5685,Company_13,Contact_280,SQL,6059.68,73,Rep_12,2024-06-06,2024-09-09,Cold Call,Finance,3,4423.57
+DEAL-5686,Company_168,Contact_297,SQL,451336.7,98,Rep_7,2024-10-23,2024-09-15,Website,Technology,54,442309.97
+DEAL-5687,Company_12,Contact_197,Proposal,290640.19,14,Rep_8,2024-03-26,2025-04-26,Website,Retail,47,40689.63
+DEAL-5688,Company_152,Contact_166,Negotiation,367865.03,17,Rep_15,2024-06-25,2024-12-31,Website,Healthcare,41,62537.06
+DEAL-5689,Company_32,Contact_10,Lead,80569.79,87,Rep_12,2024-01-23,2025-01-10,Referral,Healthcare,43,70095.72
+DEAL-5690,Company_183,Contact_187,Lead,205279.81,15,Rep_11,2024-04-04,2024-07-17,Cold Call,Finance,15,30791.97
+DEAL-5691,Company_169,Contact_114,MQL,324305.31,75,Rep_6,2024-01-27,2024-09-28,Website,Manufacturing,31,243228.98
+DEAL-5692,Company_126,Contact_87,Closed Won,129227.53,80,Rep_3,2024-01-08,2024-10-17,Website,Retail,32,103382.02
+DEAL-5693,Company_165,Contact_238,MQL,352241.98,34,Rep_14,2024-03-07,2025-03-18,Partner,Manufacturing,59,119762.27
+DEAL-5694,Company_60,Contact_13,Closed Lost,120639.39,32,Rep_9,2024-02-28,2024-05-30,Partner,Manufacturing,54,38604.6
+DEAL-5695,Company_156,Contact_78,Opportunity,108518.27,54,Rep_2,2024-04-25,2024-03-27,Referral,Retail,37,58599.87
+DEAL-5696,Company_45,Contact_232,Closed Lost,10754.2,53,Rep_8,2024-09-29,2024-11-01,Partner,Technology,47,5699.73
+DEAL-5697,Company_123,Contact_277,MQL,144543.84,86,Rep_2,2024-02-24,2025-03-31,Website,Technology,51,124307.7
+DEAL-5698,Company_183,Contact_154,Opportunity,127134.71,61,Rep_15,2024-08-11,2025-02-21,Website,Logistics,5,77552.17
+DEAL-5699,Company_144,Contact_159,MQL,383356.5,96,Rep_8,2024-05-13,2025-03-30,Cold Call,Finance,79,368022.24
+DEAL-5700,Company_54,Contact_290,Closed Won,287006.4,27,Rep_12,2024-05-27,2024-09-08,Referral,Healthcare,80,77491.73
+DEAL-5701,Company_147,Contact_28,Proposal,93023.12,31,Rep_8,2024-12-03,2024-06-20,Website,Healthcare,33,28837.17
+DEAL-5702,Company_176,Contact_144,Lead,286223.1,27,Rep_1,2024-06-19,2025-01-16,Partner,Logistics,68,77280.24
+DEAL-5703,Company_177,Contact_73,Negotiation,116594.58,66,Rep_10,2024-04-05,2024-03-19,Partner,Manufacturing,36,76952.42
+DEAL-5704,Company_148,Contact_143,Closed Lost,215623.63,8,Rep_10,2024-03-28,2025-05-11,Referral,Healthcare,7,17249.89
+DEAL-5705,Company_146,Contact_271,Negotiation,444662.99,86,Rep_4,2024-03-02,2025-02-11,Referral,Manufacturing,78,382410.17
+DEAL-5706,Company_157,Contact_179,Closed Won,361031.83,78,Rep_11,2024-10-20,2024-11-01,Event,Retail,24,281604.83
+DEAL-5707,Company_147,Contact_297,SQL,327294.51,98,Rep_4,2024-08-31,2024-06-06,Partner,Retail,32,320748.62
+DEAL-5708,Company_27,Contact_152,Opportunity,144334.31,96,Rep_11,2024-04-07,2024-06-30,Referral,Logistics,52,138560.94
+DEAL-5709,Company_161,Contact_259,Closed Won,66667.92,11,Rep_12,2024-06-28,2025-06-29,Event,Manufacturing,40,7333.47
+DEAL-5710,Company_36,Contact_51,Proposal,377709.75,76,Rep_3,2024-07-03,2024-03-08,Website,Technology,24,287059.41
+DEAL-5711,Company_111,Contact_96,Proposal,286105.74,52,Rep_5,2024-01-18,2024-03-05,Email Campaign,Retail,72,148774.98
+DEAL-5712,Company_68,Contact_82,Closed Won,313266.28,74,Rep_3,2024-11-28,2024-08-17,Partner,Manufacturing,32,231817.05
+DEAL-5713,Company_43,Contact_230,Proposal,487681.09,87,Rep_11,2024-10-15,2024-06-20,Cold Call,Technology,53,424282.55
+DEAL-5714,Company_57,Contact_154,MQL,177418.86,60,Rep_4,2024-07-14,2025-01-24,Email Campaign,Healthcare,60,106451.32
+DEAL-5715,Company_17,Contact_67,MQL,401370.03,5,Rep_10,2024-09-18,2024-03-21,Event,Finance,84,20068.5
+DEAL-5716,Company_88,Contact_52,Closed Won,281683.64,87,Rep_7,2024-02-09,2025-03-18,Email Campaign,Manufacturing,43,245064.77
+DEAL-5717,Company_84,Contact_115,MQL,121453.67,46,Rep_2,2024-12-23,2025-03-17,Event,Technology,42,55868.69
+DEAL-5718,Company_81,Contact_46,Negotiation,31179.72,48,Rep_14,2024-08-22,2024-06-20,Partner,Retail,82,14966.27
+DEAL-5719,Company_19,Contact_209,Opportunity,309925.39,60,Rep_11,2024-12-09,2024-12-07,Website,Technology,43,185955.23
+DEAL-5720,Company_121,Contact_254,Proposal,152319.99,91,Rep_4,2024-11-12,2025-01-22,Partner,Logistics,27,138611.19
+DEAL-5721,Company_34,Contact_290,MQL,349261.78,55,Rep_14,2024-08-01,2025-04-18,Partner,Finance,4,192093.98
+DEAL-5722,Company_171,Contact_71,SQL,351859.95,24,Rep_11,2024-04-15,2025-02-20,Partner,Healthcare,29,84446.39
+DEAL-5723,Company_5,Contact_132,Negotiation,230452.93,74,Rep_13,2024-09-08,2025-06-12,Cold Call,Manufacturing,18,170535.17
+DEAL-5724,Company_11,Contact_151,MQL,270516.57,65,Rep_3,2024-07-06,2024-04-26,Email Campaign,Healthcare,28,175835.77
+DEAL-5725,Company_60,Contact_149,SQL,315140.69,11,Rep_1,2024-05-29,2024-12-23,Cold Call,Technology,49,34665.48
+DEAL-5726,Company_82,Contact_136,Closed Lost,236959.45,55,Rep_1,2024-09-17,2025-03-12,Partner,Logistics,47,130327.7
+DEAL-5727,Company_194,Contact_66,MQL,439298.45,79,Rep_9,2024-11-21,2024-06-21,Cold Call,Technology,17,347045.78
+DEAL-5728,Company_105,Contact_34,Proposal,42587.61,88,Rep_12,2024-03-03,2024-06-15,Referral,Healthcare,42,37477.1
+DEAL-5729,Company_76,Contact_121,MQL,490009.99,31,Rep_14,2024-07-21,2024-04-15,Event,Technology,41,151903.1
+DEAL-5730,Company_167,Contact_28,Negotiation,21558.2,54,Rep_15,2024-10-11,2025-06-24,Website,Manufacturing,4,11641.43
+DEAL-5731,Company_48,Contact_19,MQL,108007.7,83,Rep_9,2024-04-29,2025-04-26,Cold Call,Finance,26,89646.39
+DEAL-5732,Company_179,Contact_157,Proposal,355612.39,60,Rep_10,2024-05-05,2024-04-28,Referral,Logistics,65,213367.43
+DEAL-5733,Company_81,Contact_257,Opportunity,47055.33,44,Rep_5,2024-01-04,2024-06-28,Cold Call,Finance,2,20704.35
+DEAL-5734,Company_63,Contact_162,Negotiation,134775.51,22,Rep_1,2024-04-28,2024-10-10,Cold Call,Manufacturing,27,29650.61
+DEAL-5735,Company_60,Contact_7,Lead,81218.46,9,Rep_3,2024-08-02,2025-05-10,Website,Technology,43,7309.66
+DEAL-5736,Company_2,Contact_252,Proposal,363167.92,70,Rep_1,2024-12-21,2025-04-07,Partner,Technology,15,254217.54
+DEAL-5737,Company_135,Contact_205,Proposal,291572.03,96,Rep_11,2024-07-11,2025-05-02,Cold Call,Finance,58,279909.15
+DEAL-5738,Company_115,Contact_91,MQL,36916.91,62,Rep_8,2024-04-16,2025-04-08,Cold Call,Logistics,64,22888.48
+DEAL-5739,Company_127,Contact_82,SQL,232766.45,79,Rep_12,2024-10-24,2024-12-31,Website,Logistics,31,183885.5
+DEAL-5740,Company_130,Contact_269,Negotiation,108208.95,69,Rep_3,2024-03-09,2024-07-20,Partner,Retail,21,74664.18
+DEAL-5741,Company_6,Contact_143,Proposal,484010.81,38,Rep_14,2024-03-09,2024-12-20,Partner,Healthcare,70,183924.11
+DEAL-5742,Company_175,Contact_43,Proposal,58419.38,54,Rep_11,2024-07-09,2024-10-27,Cold Call,Finance,20,31546.47
+DEAL-5743,Company_102,Contact_85,Closed Lost,301037.31,30,Rep_14,2024-10-25,2025-06-07,Cold Call,Finance,13,90311.19
+DEAL-5744,Company_138,Contact_80,Opportunity,243514.38,26,Rep_10,2024-03-18,2024-10-05,Cold Call,Healthcare,3,63313.74
+DEAL-5745,Company_8,Contact_120,Closed Won,291151.83,60,Rep_6,2024-01-06,2025-03-04,Partner,Healthcare,9,174691.1
+DEAL-5746,Company_152,Contact_104,Closed Lost,478463.96,66,Rep_10,2024-09-21,2024-05-24,Referral,Manufacturing,78,315786.21
+DEAL-5747,Company_135,Contact_164,Proposal,173934.53,98,Rep_10,2024-08-02,2025-01-27,Event,Finance,84,170455.84
+DEAL-5748,Company_74,Contact_97,MQL,375639.35,27,Rep_3,2024-09-08,2024-10-08,Partner,Technology,49,101422.62
+DEAL-5749,Company_187,Contact_192,Opportunity,226495.91,32,Rep_2,2024-05-25,2024-09-29,Event,Retail,83,72478.69
+DEAL-5750,Company_130,Contact_148,Lead,332077.0,20,Rep_10,2024-02-13,2025-03-03,Partner,Finance,63,66415.4
+DEAL-5751,Company_181,Contact_282,Negotiation,186000.49,95,Rep_2,2024-05-01,2024-10-22,Partner,Healthcare,37,176700.47
+DEAL-5752,Company_164,Contact_248,SQL,117425.49,79,Rep_2,2024-06-20,2024-03-29,Website,Manufacturing,64,92766.14
+DEAL-5753,Company_41,Contact_100,Closed Lost,46390.1,36,Rep_2,2024-06-07,2024-09-06,Referral,Logistics,38,16700.44
+DEAL-5754,Company_199,Contact_13,Negotiation,55366.87,97,Rep_10,2024-11-21,2025-06-13,Website,Retail,86,53705.86
+DEAL-5755,Company_148,Contact_175,Opportunity,479918.01,71,Rep_14,2024-03-22,2025-06-04,Email Campaign,Logistics,76,340741.79
+DEAL-5756,Company_38,Contact_102,MQL,395286.03,50,Rep_8,2024-04-24,2024-12-25,Cold Call,Finance,76,197643.02
+DEAL-5757,Company_158,Contact_270,Lead,126254.83,41,Rep_3,2024-03-08,2025-01-05,Website,Manufacturing,48,51764.48
+DEAL-5758,Company_86,Contact_122,Negotiation,266927.88,59,Rep_8,2024-07-27,2024-07-07,Email Campaign,Logistics,47,157487.45
+DEAL-5759,Company_173,Contact_87,Closed Won,358545.2,13,Rep_8,2024-10-21,2025-03-16,Website,Finance,11,46610.88
+DEAL-5760,Company_35,Contact_102,SQL,179506.26,21,Rep_9,2024-11-19,2024-12-17,Cold Call,Manufacturing,59,37696.31
+DEAL-5761,Company_52,Contact_259,Lead,222794.09,93,Rep_7,2024-03-24,2024-03-19,Cold Call,Healthcare,11,207198.5
+DEAL-5762,Company_70,Contact_34,SQL,360599.05,24,Rep_8,2024-06-06,2025-06-06,Partner,Logistics,49,86543.77
+DEAL-5763,Company_90,Contact_287,Closed Won,117589.89,20,Rep_5,2024-09-26,2025-04-20,Event,Finance,12,23517.98
+DEAL-5764,Company_126,Contact_70,Proposal,265540.46,86,Rep_14,2024-01-17,2024-04-09,Email Campaign,Logistics,43,228364.8
+DEAL-5765,Company_45,Contact_254,Lead,108993.64,94,Rep_9,2024-09-17,2024-09-20,Event,Manufacturing,70,102454.02
+DEAL-5766,Company_141,Contact_163,Lead,6523.41,82,Rep_5,2024-02-19,2025-02-25,Referral,Manufacturing,28,5349.2
+DEAL-5767,Company_5,Contact_171,Lead,346680.55,14,Rep_1,2024-01-13,2025-02-22,Referral,Technology,54,48535.28
+DEAL-5768,Company_66,Contact_62,Closed Won,355096.11,84,Rep_11,2024-02-11,2024-05-21,Event,Technology,24,298280.73
+DEAL-5769,Company_132,Contact_216,Closed Won,497882.74,30,Rep_6,2024-11-18,2024-03-20,Event,Retail,27,149364.82
+DEAL-5770,Company_53,Contact_194,Opportunity,94602.64,6,Rep_4,2024-09-06,2025-06-23,Website,Healthcare,17,5676.16
+DEAL-5771,Company_86,Contact_144,Negotiation,371092.26,92,Rep_8,2024-10-15,2025-05-10,Referral,Finance,15,341404.88
+DEAL-5772,Company_121,Contact_137,Lead,474243.88,30,Rep_8,2024-09-09,2025-02-23,Referral,Logistics,34,142273.16
+DEAL-5773,Company_50,Contact_179,Proposal,324067.27,67,Rep_13,2024-10-18,2025-01-16,Website,Healthcare,11,217125.07
+DEAL-5774,Company_192,Contact_142,SQL,481754.58,12,Rep_9,2024-06-30,2025-01-29,Email Campaign,Healthcare,80,57810.55
+DEAL-5775,Company_169,Contact_292,Closed Won,497248.29,23,Rep_11,2024-10-23,2024-10-09,Website,Finance,66,114367.11
+DEAL-5776,Company_194,Contact_13,Opportunity,401804.08,88,Rep_10,2024-01-21,2025-01-28,Partner,Logistics,20,353587.59
+DEAL-5777,Company_99,Contact_76,Closed Won,499646.52,61,Rep_13,2024-08-01,2024-07-26,Email Campaign,Healthcare,79,304784.38
+DEAL-5778,Company_69,Contact_255,Proposal,314783.11,99,Rep_1,2024-10-03,2024-04-10,Event,Finance,33,311635.28
+DEAL-5779,Company_198,Contact_237,Opportunity,251042.57,22,Rep_6,2024-12-29,2024-07-30,Cold Call,Manufacturing,48,55229.37
+DEAL-5780,Company_145,Contact_105,Closed Lost,459229.95,89,Rep_11,2024-05-11,2024-07-22,Partner,Technology,63,408714.66
+DEAL-5781,Company_158,Contact_152,Closed Lost,416323.14,88,Rep_3,2024-03-06,2024-07-26,Referral,Retail,69,366364.36
+DEAL-5782,Company_37,Contact_9,Opportunity,59505.48,92,Rep_7,2024-09-20,2024-10-16,Email Campaign,Retail,1,54745.04
+DEAL-5783,Company_173,Contact_53,SQL,154847.71,9,Rep_7,2024-01-27,2024-05-03,Website,Finance,26,13936.29
+DEAL-5784,Company_106,Contact_283,Negotiation,134019.33,14,Rep_13,2024-10-11,2024-09-15,Event,Manufacturing,30,18762.71
+DEAL-5785,Company_154,Contact_193,MQL,428354.52,55,Rep_15,2024-09-14,2024-10-12,Email Campaign,Technology,53,235594.99
+DEAL-5786,Company_165,Contact_12,Opportunity,120456.45,15,Rep_2,2024-09-09,2024-05-31,Referral,Logistics,78,18068.47
+DEAL-5787,Company_22,Contact_237,Closed Won,155502.16,11,Rep_4,2024-04-17,2024-10-07,Event,Logistics,39,17105.24
+DEAL-5788,Company_20,Contact_121,Closed Lost,261800.38,82,Rep_12,2024-02-14,2025-01-23,Partner,Finance,42,214676.31
+DEAL-5789,Company_13,Contact_171,Opportunity,42679.15,71,Rep_3,2024-08-10,2024-09-17,Website,Healthcare,8,30302.2
+DEAL-5790,Company_128,Contact_257,Opportunity,480808.67,85,Rep_8,2024-05-12,2024-03-02,Partner,Finance,47,408687.37
+DEAL-5791,Company_183,Contact_251,Closed Won,248076.07,93,Rep_15,2024-05-23,2025-02-06,Event,Retail,44,230710.75
+DEAL-5792,Company_6,Contact_41,MQL,99264.69,18,Rep_15,2024-03-09,2024-12-07,Cold Call,Healthcare,57,17867.64
+DEAL-5793,Company_28,Contact_110,Lead,139056.27,83,Rep_15,2024-05-02,2024-09-21,Email Campaign,Healthcare,76,115416.7
+DEAL-5794,Company_97,Contact_82,Lead,400051.45,9,Rep_3,2024-10-31,2024-03-12,Event,Logistics,51,36004.63
+DEAL-5795,Company_78,Contact_274,Lead,318833.21,40,Rep_3,2024-11-22,2024-04-13,Cold Call,Retail,5,127533.28
+DEAL-5796,Company_21,Contact_234,Closed Lost,234989.88,33,Rep_3,2024-05-07,2024-04-08,Email Campaign,Logistics,73,77546.66
+DEAL-5797,Company_122,Contact_194,Lead,169142.68,27,Rep_12,2024-02-21,2025-04-19,Website,Retail,43,45668.52
+DEAL-5798,Company_181,Contact_18,SQL,450838.76,73,Rep_3,2024-01-13,2024-07-29,Partner,Healthcare,44,329112.29
+DEAL-5799,Company_43,Contact_241,Proposal,387419.45,16,Rep_7,2024-03-10,2024-09-24,Partner,Technology,78,61987.11
+DEAL-5800,Company_1,Contact_168,Proposal,360465.46,81,Rep_13,2024-01-04,2025-02-02,Referral,Technology,53,291977.02
+DEAL-5801,Company_45,Contact_82,Closed Won,225770.25,87,Rep_8,2024-09-01,2025-01-14,Cold Call,Retail,71,196420.12
+DEAL-5802,Company_37,Contact_133,Closed Lost,490674.27,68,Rep_15,2024-08-23,2024-04-01,Referral,Retail,79,333658.5
+DEAL-5803,Company_93,Contact_134,Opportunity,356484.8,12,Rep_8,2024-10-13,2025-05-27,Cold Call,Retail,44,42778.18
+DEAL-5804,Company_22,Contact_89,MQL,214694.24,61,Rep_6,2024-05-01,2024-07-08,Referral,Logistics,88,130963.49
+DEAL-5805,Company_72,Contact_272,Lead,480473.26,64,Rep_15,2024-10-31,2025-03-09,Partner,Technology,16,307502.89
+DEAL-5806,Company_24,Contact_275,Closed Lost,448383.87,40,Rep_9,2024-03-03,2025-04-10,Event,Retail,78,179353.55
+DEAL-5807,Company_135,Contact_16,SQL,371282.77,39,Rep_3,2024-03-25,2024-11-18,Partner,Manufacturing,76,144800.28
+DEAL-5808,Company_94,Contact_280,Closed Lost,384663.08,49,Rep_10,2024-12-01,2024-05-18,Event,Retail,9,188484.91
+DEAL-5809,Company_15,Contact_121,SQL,214695.61,99,Rep_12,2024-11-18,2024-11-21,Event,Finance,14,212548.65
+DEAL-5810,Company_9,Contact_240,Closed Won,256138.5,5,Rep_13,2024-08-07,2024-06-28,Website,Healthcare,4,12806.92
+DEAL-5811,Company_98,Contact_234,Negotiation,99815.93,53,Rep_1,2024-08-11,2025-04-18,Event,Technology,25,52902.44
+DEAL-5812,Company_118,Contact_180,Negotiation,299721.14,35,Rep_2,2024-09-13,2025-03-03,Event,Finance,89,104902.4
+DEAL-5813,Company_35,Contact_223,Negotiation,188108.69,57,Rep_10,2024-10-28,2025-04-06,Website,Manufacturing,12,107221.95
+DEAL-5814,Company_65,Contact_204,SQL,176981.97,5,Rep_12,2024-03-25,2025-04-08,Website,Retail,4,8849.1
+DEAL-5815,Company_121,Contact_255,Lead,474372.96,92,Rep_10,2024-01-26,2024-05-27,Event,Logistics,41,436423.12
+DEAL-5816,Company_94,Contact_127,Lead,86567.8,48,Rep_6,2024-03-08,2024-03-15,Cold Call,Manufacturing,32,41552.54
+DEAL-5817,Company_24,Contact_222,Opportunity,415836.92,97,Rep_12,2024-05-10,2024-12-31,Referral,Finance,56,403361.81
+DEAL-5818,Company_78,Contact_293,Closed Lost,144326.94,19,Rep_9,2024-03-27,2024-12-24,Cold Call,Manufacturing,54,27422.12
+DEAL-5819,Company_40,Contact_284,Negotiation,19184.54,60,Rep_14,2024-07-11,2025-04-26,Partner,Manufacturing,74,11510.72
+DEAL-5820,Company_185,Contact_45,Negotiation,25029.22,69,Rep_6,2024-02-20,2025-01-05,Cold Call,Finance,37,17270.16
+DEAL-5821,Company_160,Contact_149,SQL,217442.86,80,Rep_12,2024-07-30,2025-03-27,Cold Call,Technology,42,173954.29
+DEAL-5822,Company_63,Contact_153,Opportunity,229958.15,5,Rep_3,2024-09-17,2024-08-17,Cold Call,Manufacturing,3,11497.91
+DEAL-5823,Company_47,Contact_187,Opportunity,163524.31,65,Rep_11,2024-02-06,2024-04-30,Website,Manufacturing,87,106290.8
+DEAL-5824,Company_27,Contact_194,MQL,336045.9,19,Rep_11,2024-04-15,2024-03-19,Website,Technology,19,63848.72
+DEAL-5825,Company_147,Contact_254,Proposal,245244.68,45,Rep_4,2024-07-16,2024-09-29,Cold Call,Healthcare,54,110360.11
+DEAL-5826,Company_183,Contact_160,SQL,41685.97,10,Rep_1,2024-01-25,2024-03-01,Website,Logistics,79,4168.6
+DEAL-5827,Company_55,Contact_210,Opportunity,177295.24,10,Rep_15,2024-08-31,2024-11-08,Event,Manufacturing,54,17729.52
+DEAL-5828,Company_128,Contact_269,Proposal,55471.55,77,Rep_2,2024-10-02,2024-09-12,Cold Call,Manufacturing,56,42713.09
+DEAL-5829,Company_47,Contact_31,Lead,36143.27,73,Rep_8,2024-05-12,2024-07-04,Email Campaign,Healthcare,16,26384.59
+DEAL-5830,Company_183,Contact_193,Closed Lost,108111.78,90,Rep_1,2024-01-04,2024-12-13,Cold Call,Technology,64,97300.6
+DEAL-5831,Company_60,Contact_110,MQL,351784.85,71,Rep_7,2024-07-02,2025-01-25,Event,Healthcare,17,249767.24
+DEAL-5832,Company_20,Contact_271,Negotiation,349520.81,61,Rep_13,2024-11-14,2024-03-20,Cold Call,Manufacturing,62,213207.69
+DEAL-5833,Company_176,Contact_166,Closed Won,431387.62,16,Rep_8,2024-04-17,2024-10-18,Website,Logistics,52,69022.02
+DEAL-5834,Company_189,Contact_181,MQL,379427.55,77,Rep_4,2024-11-06,2025-06-01,Cold Call,Retail,44,292159.21
+DEAL-5835,Company_80,Contact_226,MQL,270070.37,26,Rep_6,2024-11-14,2024-07-23,Referral,Technology,65,70218.3
+DEAL-5836,Company_181,Contact_73,Opportunity,159742.98,15,Rep_2,2024-04-12,2025-03-16,Email Campaign,Retail,65,23961.45
+DEAL-5837,Company_49,Contact_163,Closed Won,7876.69,74,Rep_9,2024-08-07,2024-08-12,Email Campaign,Finance,19,5828.75
+DEAL-5838,Company_54,Contact_232,Negotiation,325333.05,60,Rep_1,2024-01-16,2024-07-11,Cold Call,Retail,34,195199.83
+DEAL-5839,Company_107,Contact_233,Opportunity,148408.03,19,Rep_6,2024-07-20,2025-04-22,Cold Call,Healthcare,44,28197.53
+DEAL-5840,Company_120,Contact_69,Closed Won,128799.55,57,Rep_1,2024-11-17,2024-08-21,Email Campaign,Retail,14,73415.74
+DEAL-5841,Company_77,Contact_251,Opportunity,487538.64,70,Rep_4,2024-12-11,2025-04-26,Event,Retail,32,341277.05
+DEAL-5842,Company_160,Contact_49,Closed Lost,91248.9,52,Rep_2,2024-03-14,2025-01-13,Partner,Retail,4,47449.43
+DEAL-5843,Company_158,Contact_80,Closed Won,21055.2,73,Rep_14,2024-08-31,2025-03-31,Partner,Technology,40,15370.3
+DEAL-5844,Company_25,Contact_257,MQL,474948.25,52,Rep_12,2024-01-25,2025-04-01,Website,Logistics,19,246973.09
+DEAL-5845,Company_198,Contact_185,Opportunity,156473.33,38,Rep_14,2024-04-12,2025-05-20,Email Campaign,Retail,20,59459.87
+DEAL-5846,Company_32,Contact_163,Lead,199742.93,26,Rep_11,2024-11-01,2024-11-26,Website,Retail,73,51933.16
+DEAL-5847,Company_105,Contact_167,MQL,45062.78,29,Rep_8,2024-08-22,2025-06-07,Cold Call,Healthcare,13,13068.21
+DEAL-5848,Company_85,Contact_290,Lead,205012.28,81,Rep_3,2024-05-23,2024-03-30,Event,Technology,11,166059.95
+DEAL-5849,Company_90,Contact_68,Lead,486249.54,40,Rep_15,2024-12-17,2024-10-26,Email Campaign,Retail,29,194499.82
+DEAL-5850,Company_26,Contact_90,Lead,348539.76,73,Rep_14,2024-10-04,2024-09-10,Event,Healthcare,3,254434.02
+DEAL-5851,Company_69,Contact_147,Negotiation,239543.3,39,Rep_7,2024-01-09,2024-04-17,Partner,Logistics,78,93421.89
+DEAL-5852,Company_7,Contact_253,Opportunity,157198.46,54,Rep_4,2024-01-30,2025-04-30,Partner,Retail,88,84887.17
+DEAL-5853,Company_194,Contact_165,Opportunity,186191.76,62,Rep_6,2024-08-17,2025-03-25,Event,Healthcare,72,115438.89
+DEAL-5854,Company_29,Contact_218,Closed Won,307557.93,50,Rep_6,2024-11-16,2025-02-28,Event,Technology,72,153778.96
+DEAL-5855,Company_97,Contact_245,Closed Won,130952.78,75,Rep_14,2024-02-27,2025-01-03,Event,Retail,10,98214.58
+DEAL-5856,Company_43,Contact_267,Proposal,80214.03,92,Rep_2,2024-07-16,2024-12-19,Referral,Logistics,50,73796.91
+DEAL-5857,Company_36,Contact_138,Opportunity,349633.19,86,Rep_10,2024-10-25,2024-09-02,Referral,Healthcare,8,300684.54
+DEAL-5858,Company_78,Contact_137,Negotiation,435387.54,92,Rep_12,2024-11-11,2025-01-27,Cold Call,Retail,27,400556.54
+DEAL-5859,Company_193,Contact_25,Opportunity,451261.76,7,Rep_12,2024-08-22,2025-06-19,Event,Technology,44,31588.32
+DEAL-5860,Company_96,Contact_25,Opportunity,421502.17,77,Rep_3,2024-12-31,2024-07-01,Cold Call,Healthcare,61,324556.67
+DEAL-5861,Company_192,Contact_146,SQL,267646.84,74,Rep_7,2024-12-08,2024-08-12,Website,Manufacturing,25,198058.66
+DEAL-5862,Company_165,Contact_224,MQL,395471.33,44,Rep_6,2024-11-01,2024-04-23,Event,Healthcare,23,174007.39
+DEAL-5863,Company_87,Contact_251,MQL,463546.09,34,Rep_7,2024-09-02,2025-05-17,Event,Logistics,74,157605.67
+DEAL-5864,Company_180,Contact_123,Negotiation,16564.48,10,Rep_2,2024-12-26,2024-11-14,Email Campaign,Healthcare,20,1656.45
+DEAL-5865,Company_70,Contact_171,Closed Won,208988.62,84,Rep_2,2024-01-07,2024-12-14,Partner,Manufacturing,44,175550.44
+DEAL-5866,Company_100,Contact_243,Opportunity,106042.11,84,Rep_1,2024-02-02,2024-07-08,Event,Retail,26,89075.37
+DEAL-5867,Company_136,Contact_96,Lead,498400.55,12,Rep_15,2024-07-05,2024-03-18,Partner,Logistics,76,59808.07
+DEAL-5868,Company_118,Contact_48,Proposal,465135.17,60,Rep_7,2024-09-02,2025-03-27,Referral,Retail,48,279081.1
+DEAL-5869,Company_165,Contact_276,Closed Lost,402082.05,57,Rep_4,2024-11-26,2025-04-23,Website,Healthcare,10,229186.77
+DEAL-5870,Company_33,Contact_164,Proposal,151460.5,21,Rep_12,2024-09-05,2024-08-14,Cold Call,Healthcare,14,31806.7
+DEAL-5871,Company_100,Contact_47,Lead,476290.62,57,Rep_8,2024-03-26,2025-03-07,Event,Retail,87,271485.65
+DEAL-5872,Company_133,Contact_76,Lead,19478.97,82,Rep_6,2024-11-28,2024-12-04,Partner,Logistics,84,15972.76
+DEAL-5873,Company_66,Contact_98,Proposal,98079.65,36,Rep_2,2024-01-31,2025-01-07,Website,Finance,69,35308.67
+DEAL-5874,Company_173,Contact_61,Closed Won,310352.51,73,Rep_6,2024-02-04,2024-05-24,Partner,Logistics,7,226557.33
+DEAL-5875,Company_60,Contact_131,Lead,397538.32,97,Rep_10,2024-09-20,2024-12-25,Cold Call,Logistics,66,385612.17
+DEAL-5876,Company_60,Contact_244,Closed Won,442397.27,48,Rep_10,2024-12-18,2024-05-18,Event,Manufacturing,59,212350.69
+DEAL-5877,Company_65,Contact_221,Closed Won,153751.76,15,Rep_6,2024-07-02,2024-06-15,Event,Retail,84,23062.76
+DEAL-5878,Company_135,Contact_275,Lead,198448.28,33,Rep_10,2024-02-19,2024-08-21,Website,Logistics,44,65487.93
+DEAL-5879,Company_24,Contact_250,MQL,230139.56,17,Rep_12,2024-01-18,2024-06-13,Cold Call,Finance,42,39123.73
+DEAL-5880,Company_29,Contact_94,Lead,18352.04,38,Rep_14,2024-12-24,2025-05-17,Website,Retail,57,6973.78
+DEAL-5881,Company_155,Contact_18,Proposal,432664.78,66,Rep_8,2024-04-12,2024-03-15,Cold Call,Manufacturing,14,285558.75
+DEAL-5882,Company_42,Contact_46,MQL,172284.47,24,Rep_4,2024-08-21,2025-05-15,Event,Manufacturing,67,41348.27
+DEAL-5883,Company_21,Contact_237,Closed Lost,103642.83,53,Rep_2,2024-04-29,2024-05-15,Event,Retail,45,54930.7
+DEAL-5884,Company_53,Contact_102,Lead,207552.55,99,Rep_3,2024-03-19,2025-04-28,Event,Healthcare,17,205477.02
+DEAL-5885,Company_80,Contact_216,Negotiation,356728.87,30,Rep_1,2024-09-01,2024-08-11,Email Campaign,Logistics,73,107018.66
+DEAL-5886,Company_7,Contact_137,Closed Won,436103.21,88,Rep_9,2024-09-27,2025-05-23,Website,Manufacturing,24,383770.82
+DEAL-5887,Company_167,Contact_268,MQL,111611.35,33,Rep_4,2024-06-21,2024-11-19,Email Campaign,Manufacturing,77,36831.75
+DEAL-5888,Company_24,Contact_152,SQL,90443.42,63,Rep_4,2024-07-04,2024-10-25,Cold Call,Retail,25,56979.35
+DEAL-5889,Company_81,Contact_270,Closed Won,472172.57,19,Rep_11,2024-06-27,2024-05-03,Email Campaign,Logistics,44,89712.79
+DEAL-5890,Company_41,Contact_75,Lead,277692.04,30,Rep_5,2024-08-04,2024-09-28,Referral,Healthcare,39,83307.61
+DEAL-5891,Company_59,Contact_233,Opportunity,186057.15,87,Rep_13,2024-10-22,2024-11-27,Event,Retail,66,161869.72
+DEAL-5892,Company_10,Contact_157,SQL,103663.13,61,Rep_3,2024-09-17,2025-06-22,Email Campaign,Manufacturing,17,63234.51
+DEAL-5893,Company_189,Contact_57,Lead,497647.67,59,Rep_6,2024-04-11,2024-07-07,Cold Call,Retail,22,293612.13
+DEAL-5894,Company_187,Contact_70,Opportunity,360996.22,53,Rep_1,2024-03-31,2024-04-10,Website,Finance,18,191328.0
+DEAL-5895,Company_26,Contact_94,Opportunity,112853.23,28,Rep_9,2024-09-03,2024-07-02,Website,Manufacturing,21,31598.9
+DEAL-5896,Company_40,Contact_47,SQL,50173.43,93,Rep_2,2024-08-24,2024-06-27,Cold Call,Healthcare,41,46661.29
+DEAL-5897,Company_177,Contact_280,Closed Won,103644.76,42,Rep_4,2024-05-14,2025-06-05,Email Campaign,Technology,53,43530.8
+DEAL-5898,Company_83,Contact_64,Lead,127632.59,6,Rep_12,2024-11-02,2024-05-13,Partner,Healthcare,77,7657.96
+DEAL-5899,Company_13,Contact_179,Opportunity,59987.4,91,Rep_14,2024-06-02,2025-06-27,Event,Technology,38,54588.53
+DEAL-5900,Company_28,Contact_171,MQL,118677.43,9,Rep_9,2024-05-02,2024-04-25,Cold Call,Logistics,37,10680.97
+DEAL-5901,Company_83,Contact_162,Closed Won,62805.95,89,Rep_15,2024-07-22,2025-03-31,Referral,Logistics,15,55897.3
+DEAL-5902,Company_112,Contact_188,Proposal,191977.19,30,Rep_12,2024-03-11,2024-09-18,Referral,Finance,9,57593.16
+DEAL-5903,Company_126,Contact_274,Negotiation,245666.65,11,Rep_12,2024-09-11,2024-03-27,Website,Logistics,68,27023.33
+DEAL-5904,Company_31,Contact_290,Lead,230366.06,25,Rep_15,2024-11-24,2024-12-24,Website,Manufacturing,57,57591.52
+DEAL-5905,Company_74,Contact_262,Opportunity,415458.98,67,Rep_2,2024-12-11,2025-02-18,Partner,Logistics,48,278357.52
+DEAL-5906,Company_52,Contact_138,Lead,130727.72,56,Rep_4,2024-06-12,2025-04-13,Website,Technology,40,73207.52
+DEAL-5907,Company_107,Contact_218,SQL,444111.44,19,Rep_7,2024-04-08,2024-05-26,Partner,Technology,47,84381.17
+DEAL-5908,Company_64,Contact_56,Closed Lost,454520.8,33,Rep_10,2024-06-24,2024-12-26,Email Campaign,Logistics,76,149991.86
+DEAL-5909,Company_41,Contact_264,Negotiation,480100.86,25,Rep_15,2024-02-07,2024-12-03,Email Campaign,Finance,17,120025.22
+DEAL-5910,Company_163,Contact_59,Lead,94586.7,67,Rep_2,2024-09-01,2024-10-02,Partner,Retail,45,63373.09
+DEAL-5911,Company_114,Contact_35,SQL,126646.82,87,Rep_4,2024-06-05,2025-05-10,Event,Logistics,22,110182.73
+DEAL-5912,Company_95,Contact_248,Closed Won,313796.98,29,Rep_5,2024-02-14,2024-09-23,Website,Healthcare,10,91001.12
+DEAL-5913,Company_27,Contact_227,MQL,74741.36,90,Rep_11,2024-07-19,2024-09-02,Partner,Technology,62,67267.22
+DEAL-5914,Company_15,Contact_42,Closed Won,47382.56,43,Rep_15,2024-09-20,2024-11-11,Referral,Manufacturing,63,20374.5
+DEAL-5915,Company_159,Contact_289,SQL,41480.12,12,Rep_15,2024-03-24,2025-05-27,Email Campaign,Healthcare,76,4977.61
+DEAL-5916,Company_193,Contact_34,Opportunity,305044.07,35,Rep_12,2024-05-28,2025-04-27,Email Campaign,Technology,2,106765.42
+DEAL-5917,Company_117,Contact_15,Closed Lost,403315.68,88,Rep_12,2024-11-21,2025-02-08,Referral,Healthcare,16,354917.8
+DEAL-5918,Company_8,Contact_286,Negotiation,133148.4,81,Rep_7,2024-09-16,2024-04-09,Email Campaign,Retail,52,107850.2
+DEAL-5919,Company_96,Contact_67,SQL,467099.27,74,Rep_10,2024-10-19,2024-07-25,Email Campaign,Logistics,73,345653.46
+DEAL-5920,Company_56,Contact_71,Lead,397008.08,42,Rep_3,2024-06-13,2024-03-08,Partner,Finance,84,166743.39
+DEAL-5921,Company_11,Contact_238,MQL,43342.9,78,Rep_8,2024-06-29,2024-04-16,Partner,Retail,71,33807.46
+DEAL-5922,Company_29,Contact_182,Opportunity,206615.05,72,Rep_5,2024-06-30,2025-04-10,Cold Call,Finance,81,148762.84
+DEAL-5923,Company_100,Contact_156,MQL,38667.36,80,Rep_14,2024-06-13,2025-04-02,Event,Finance,73,30933.89
+DEAL-5924,Company_85,Contact_296,Closed Lost,458021.11,57,Rep_6,2024-02-22,2024-04-19,Event,Finance,29,261072.03
+DEAL-5925,Company_113,Contact_26,Lead,372687.06,53,Rep_6,2024-01-15,2024-10-10,Website,Retail,52,197524.14
+DEAL-5926,Company_138,Contact_277,Proposal,344839.84,96,Rep_7,2024-10-31,2024-07-14,Event,Retail,57,331046.25
+DEAL-5927,Company_53,Contact_81,Closed Lost,342937.41,94,Rep_14,2024-07-15,2024-04-05,Partner,Technology,32,322361.17
+DEAL-5928,Company_57,Contact_187,SQL,146165.34,55,Rep_14,2024-07-13,2024-09-02,Website,Technology,79,80390.94
+DEAL-5929,Company_135,Contact_97,Proposal,467101.88,24,Rep_7,2024-08-06,2024-04-20,Event,Manufacturing,69,112104.45
+DEAL-5930,Company_40,Contact_88,Lead,461774.45,43,Rep_15,2024-05-30,2025-02-22,Website,Finance,46,198563.01
+DEAL-5931,Company_16,Contact_96,Negotiation,371046.96,52,Rep_12,2024-11-22,2025-06-14,Cold Call,Retail,43,192944.42
+DEAL-5932,Company_170,Contact_168,Closed Lost,237120.45,69,Rep_13,2024-06-21,2024-09-22,Event,Technology,71,163613.11
+DEAL-5933,Company_42,Contact_263,Closed Won,28322.29,35,Rep_14,2024-07-02,2024-06-27,Partner,Retail,20,9912.8
+DEAL-5934,Company_25,Contact_34,MQL,19014.12,9,Rep_5,2024-07-13,2024-10-30,Event,Logistics,20,1711.27
+DEAL-5935,Company_147,Contact_198,SQL,73376.49,83,Rep_9,2024-02-27,2025-06-14,Event,Healthcare,36,60902.49
+DEAL-5936,Company_106,Contact_258,Negotiation,299903.52,95,Rep_5,2024-03-04,2024-05-17,Referral,Retail,12,284908.34
+DEAL-5937,Company_30,Contact_220,Closed Won,400059.19,12,Rep_5,2024-03-06,2025-01-26,Event,Finance,41,48007.1
+DEAL-5938,Company_170,Contact_294,Opportunity,474490.55,35,Rep_7,2024-04-02,2024-04-15,Email Campaign,Finance,39,166071.69
+DEAL-5939,Company_49,Contact_5,Closed Lost,91804.23,46,Rep_1,2024-02-28,2024-07-25,Partner,Technology,45,42229.95
+DEAL-5940,Company_135,Contact_109,MQL,141386.3,77,Rep_4,2024-03-23,2024-09-30,Email Campaign,Healthcare,42,108867.45
+DEAL-5941,Company_130,Contact_128,Negotiation,31779.64,78,Rep_13,2024-12-09,2024-09-03,Website,Logistics,80,24788.12
+DEAL-5942,Company_166,Contact_161,Opportunity,494578.35,37,Rep_3,2024-05-12,2024-05-26,Email Campaign,Technology,25,182993.99
+DEAL-5943,Company_146,Contact_96,Negotiation,391552.96,34,Rep_10,2024-10-17,2025-03-14,Event,Healthcare,37,133128.01
+DEAL-5944,Company_140,Contact_76,Proposal,242953.49,43,Rep_12,2024-05-23,2025-01-22,Event,Logistics,66,104470.0
+DEAL-5945,Company_11,Contact_255,Opportunity,289904.85,27,Rep_4,2024-10-28,2024-09-29,Cold Call,Healthcare,26,78274.31
+DEAL-5946,Company_187,Contact_70,Closed Won,283276.33,46,Rep_7,2024-10-02,2024-09-20,Referral,Manufacturing,59,130307.11
+DEAL-5947,Company_26,Contact_286,Closed Won,130908.57,29,Rep_14,2024-11-03,2024-04-06,Partner,Healthcare,86,37963.49
+DEAL-5948,Company_51,Contact_12,Closed Won,96768.39,10,Rep_13,2024-04-15,2025-01-16,Event,Retail,34,9676.84
+DEAL-5949,Company_89,Contact_127,Lead,152002.98,72,Rep_14,2024-02-05,2024-06-20,Partner,Logistics,22,109442.15
+DEAL-5950,Company_58,Contact_183,Opportunity,127341.01,79,Rep_10,2024-04-22,2024-07-25,Event,Retail,17,100599.4
+DEAL-5951,Company_118,Contact_291,Negotiation,280976.4,32,Rep_14,2024-09-13,2025-04-23,Event,Manufacturing,1,89912.45
+DEAL-5952,Company_11,Contact_229,Closed Won,157560.39,43,Rep_6,2024-08-27,2025-01-07,Cold Call,Manufacturing,26,67750.97
+DEAL-5953,Company_91,Contact_5,SQL,365827.67,43,Rep_10,2024-09-14,2025-02-03,Event,Technology,76,157305.9
+DEAL-5954,Company_70,Contact_224,Negotiation,286130.17,7,Rep_11,2024-12-29,2024-07-07,Cold Call,Technology,23,20029.11
+DEAL-5955,Company_129,Contact_98,Proposal,268470.56,56,Rep_15,2024-03-23,2024-10-30,Event,Retail,85,150343.51
+DEAL-5956,Company_104,Contact_258,MQL,475890.41,48,Rep_6,2024-06-11,2024-03-07,Website,Healthcare,85,228427.4
+DEAL-5957,Company_151,Contact_232,Closed Lost,164592.72,94,Rep_14,2024-06-28,2024-06-28,Referral,Healthcare,61,154717.16
+DEAL-5958,Company_33,Contact_58,Opportunity,319458.58,40,Rep_8,2024-02-24,2025-03-25,Referral,Healthcare,88,127783.43
+DEAL-5959,Company_189,Contact_108,Proposal,5025.06,80,Rep_2,2024-08-30,2024-10-18,Cold Call,Manufacturing,37,4020.05
+DEAL-5960,Company_79,Contact_246,SQL,369777.21,42,Rep_10,2024-01-18,2025-01-04,Event,Logistics,86,155306.43
+DEAL-5961,Company_70,Contact_276,Lead,253759.24,22,Rep_15,2024-11-24,2025-03-20,Website,Logistics,49,55827.03
+DEAL-5962,Company_110,Contact_181,Opportunity,108150.55,38,Rep_7,2024-02-02,2025-05-31,Event,Technology,8,41097.21
+DEAL-5963,Company_33,Contact_66,Negotiation,5747.73,88,Rep_9,2024-02-10,2024-04-09,Event,Manufacturing,75,5058.0
+DEAL-5964,Company_163,Contact_117,SQL,354937.26,29,Rep_14,2024-03-04,2024-12-08,Event,Manufacturing,85,102931.81
+DEAL-5965,Company_53,Contact_238,Closed Lost,333036.85,85,Rep_14,2024-11-22,2025-06-28,Email Campaign,Logistics,79,283081.32
+DEAL-5966,Company_185,Contact_179,Closed Won,334376.52,68,Rep_7,2024-11-11,2024-06-06,Website,Healthcare,38,227376.03
+DEAL-5967,Company_30,Contact_61,Negotiation,221540.14,75,Rep_12,2024-12-03,2025-04-23,Email Campaign,Retail,10,166155.11
+DEAL-5968,Company_172,Contact_86,Closed Won,321452.18,76,Rep_10,2024-10-31,2024-12-08,Referral,Healthcare,53,244303.66
+DEAL-5969,Company_79,Contact_59,Closed Won,287810.72,54,Rep_10,2024-12-04,2024-08-02,Referral,Healthcare,78,155417.79
+DEAL-5970,Company_121,Contact_141,Negotiation,123253.05,62,Rep_11,2024-06-21,2025-03-17,Partner,Finance,75,76416.89
+DEAL-5971,Company_174,Contact_134,Closed Won,261790.18,11,Rep_5,2024-01-02,2025-04-28,Email Campaign,Retail,55,28796.92
+DEAL-5972,Company_26,Contact_162,Negotiation,259723.43,71,Rep_5,2024-06-09,2024-05-09,Partner,Technology,70,184403.64
+DEAL-5973,Company_70,Contact_283,Closed Won,412693.33,72,Rep_1,2024-03-21,2025-01-26,Cold Call,Manufacturing,3,297139.2
+DEAL-5974,Company_189,Contact_195,Lead,219577.07,14,Rep_13,2024-03-30,2025-05-31,Cold Call,Logistics,56,30740.79
+DEAL-5975,Company_30,Contact_176,SQL,220862.29,54,Rep_5,2024-09-09,2025-01-19,Partner,Finance,10,119265.64
+DEAL-5976,Company_21,Contact_110,Closed Lost,492280.21,53,Rep_11,2024-03-02,2024-11-22,Email Campaign,Finance,67,260908.51
+DEAL-5977,Company_105,Contact_190,Opportunity,447759.62,34,Rep_11,2024-04-27,2024-05-08,Partner,Retail,5,152238.27
+DEAL-5978,Company_5,Contact_286,Lead,124931.57,11,Rep_11,2024-05-23,2024-10-06,Website,Logistics,53,13742.47
+DEAL-5979,Company_198,Contact_3,Closed Won,455595.08,5,Rep_13,2024-01-23,2025-05-16,Email Campaign,Technology,85,22779.75
+DEAL-5980,Company_180,Contact_105,Negotiation,73293.49,24,Rep_14,2024-09-13,2025-03-25,Event,Healthcare,10,17590.44
+DEAL-5981,Company_38,Contact_17,Closed Lost,427428.57,26,Rep_1,2024-10-06,2024-10-06,Event,Finance,38,111131.43
+DEAL-5982,Company_35,Contact_61,Lead,95745.07,25,Rep_13,2024-07-23,2024-07-29,Event,Logistics,4,23936.27
+DEAL-5983,Company_155,Contact_21,MQL,215673.66,62,Rep_4,2024-01-11,2025-03-27,Website,Logistics,64,133717.67
+DEAL-5984,Company_104,Contact_178,Proposal,492041.21,45,Rep_10,2024-10-15,2025-06-15,Email Campaign,Technology,83,221418.54
+DEAL-5985,Company_164,Contact_246,MQL,53039.22,15,Rep_11,2024-06-12,2024-07-24,Website,Technology,1,7955.88
+DEAL-5986,Company_193,Contact_282,Proposal,420694.97,12,Rep_1,2024-04-07,2025-03-30,Event,Technology,49,50483.4
+DEAL-5987,Company_80,Contact_71,SQL,249893.31,67,Rep_5,2024-12-12,2024-07-28,Email Campaign,Manufacturing,71,167428.52
+DEAL-5988,Company_51,Contact_210,MQL,59940.73,93,Rep_14,2024-11-10,2025-04-07,Referral,Logistics,3,55744.88
+DEAL-5989,Company_124,Contact_99,Closed Won,476483.23,82,Rep_3,2024-06-10,2025-06-13,Event,Healthcare,43,390716.25
+DEAL-5990,Company_127,Contact_95,Lead,276869.53,76,Rep_4,2024-06-11,2025-01-18,Event,Technology,12,210420.84
+DEAL-5991,Company_87,Contact_183,Closed Won,440917.31,35,Rep_2,2024-11-29,2024-10-28,Website,Retail,83,154321.06
+DEAL-5992,Company_60,Contact_204,MQL,435207.94,71,Rep_3,2024-03-10,2024-07-31,Website,Logistics,46,308997.64
+DEAL-5993,Company_53,Contact_175,Proposal,12244.12,12,Rep_10,2024-05-29,2024-03-30,Referral,Logistics,47,1469.29
+DEAL-5994,Company_104,Contact_30,Closed Lost,136096.15,21,Rep_13,2024-07-27,2024-03-26,Website,Healthcare,89,28580.19
+DEAL-5995,Company_85,Contact_123,Lead,171776.18,18,Rep_9,2024-05-06,2025-04-11,Email Campaign,Manufacturing,71,30919.71
+DEAL-5996,Company_92,Contact_86,Closed Lost,269757.7,22,Rep_5,2024-04-25,2025-01-17,Partner,Logistics,28,59346.69
+DEAL-5997,Company_19,Contact_2,SQL,40573.67,39,Rep_13,2024-02-09,2024-06-19,Website,Manufacturing,57,15823.73
+DEAL-5998,Company_176,Contact_13,Negotiation,197538.61,9,Rep_6,2024-04-07,2024-11-24,Email Campaign,Healthcare,27,17778.47
+DEAL-5999,Company_141,Contact_135,Closed Won,408245.87,82,Rep_5,2024-05-11,2025-05-02,Cold Call,Finance,47,334761.61
+DEAL-6000,Company_183,Contact_31,MQL,90729.6,72,Rep_8,2024-11-02,2025-01-10,Partner,Healthcare,73,65325.31
+DEAL-6001,Company_166,Contact_221,SQL,352131.85,65,Rep_3,2024-05-03,2025-05-21,Cold Call,Healthcare,85,228885.7
+DEAL-6002,Company_124,Contact_17,Closed Won,232863.06,21,Rep_6,2024-02-28,2024-04-27,Event,Logistics,85,48901.24
+DEAL-6003,Company_62,Contact_71,Lead,39999.03,87,Rep_12,2024-11-05,2024-04-05,Partner,Manufacturing,45,34799.16
+DEAL-6004,Company_131,Contact_295,Lead,92800.16,5,Rep_10,2024-05-08,2025-01-19,Website,Logistics,80,4640.01
+DEAL-6005,Company_113,Contact_212,SQL,74810.21,99,Rep_15,2024-12-02,2024-12-09,Referral,Manufacturing,80,74062.11
+DEAL-6006,Company_184,Contact_167,Proposal,311760.33,74,Rep_12,2024-02-09,2025-01-30,Referral,Healthcare,49,230702.64
+DEAL-6007,Company_47,Contact_5,Closed Won,48225.58,24,Rep_6,2024-01-09,2025-06-22,Referral,Manufacturing,4,11574.14
+DEAL-6008,Company_6,Contact_14,Proposal,412408.16,23,Rep_12,2024-12-03,2024-04-23,Email Campaign,Retail,11,94853.88
+DEAL-6009,Company_26,Contact_272,Opportunity,404296.27,71,Rep_13,2024-02-05,2025-05-28,Website,Manufacturing,59,287050.35
+DEAL-6010,Company_35,Contact_240,Closed Won,44630.69,81,Rep_10,2024-01-04,2024-03-30,Cold Call,Finance,74,36150.86
+DEAL-6011,Company_133,Contact_285,MQL,444657.61,49,Rep_12,2024-08-23,2024-11-11,Website,Finance,82,217882.23
+DEAL-6012,Company_30,Contact_242,Closed Lost,479784.61,10,Rep_8,2024-04-26,2025-04-10,Email Campaign,Finance,22,47978.46
+DEAL-6013,Company_27,Contact_1,SQL,26516.71,51,Rep_14,2024-06-26,2025-01-26,Event,Finance,81,13523.52
+DEAL-6014,Company_80,Contact_241,SQL,475413.14,50,Rep_4,2024-05-29,2024-06-17,Cold Call,Logistics,74,237706.57
+DEAL-6015,Company_156,Contact_137,Closed Lost,143333.77,35,Rep_7,2024-04-18,2024-12-20,Cold Call,Logistics,44,50166.82
+DEAL-6016,Company_85,Contact_208,Negotiation,334057.16,90,Rep_4,2024-06-25,2025-05-14,Cold Call,Technology,34,300651.44
+DEAL-6017,Company_55,Contact_124,Opportunity,91533.79,37,Rep_2,2024-04-05,2024-06-07,Referral,Retail,43,33867.5
+DEAL-6018,Company_57,Contact_216,SQL,409640.65,28,Rep_10,2024-03-23,2025-05-31,Cold Call,Logistics,61,114699.38
+DEAL-6019,Company_163,Contact_252,Opportunity,421747.1,69,Rep_2,2024-03-23,2025-01-13,Partner,Manufacturing,73,291005.5
+DEAL-6020,Company_87,Contact_292,Closed Won,489279.0,63,Rep_4,2024-02-13,2024-04-12,Website,Retail,16,308245.77
+DEAL-6021,Company_74,Contact_162,MQL,496304.06,63,Rep_12,2024-07-11,2024-08-10,Event,Retail,30,312671.56
+DEAL-6022,Company_154,Contact_84,MQL,42549.57,52,Rep_4,2024-07-19,2025-04-24,Website,Finance,11,22125.78
+DEAL-6023,Company_74,Contact_183,SQL,330691.98,35,Rep_13,2024-01-07,2024-08-12,Website,Logistics,84,115742.19
+DEAL-6024,Company_71,Contact_150,Opportunity,140157.86,29,Rep_1,2024-06-17,2025-06-05,Referral,Technology,37,40645.78
+DEAL-6025,Company_150,Contact_61,Closed Won,67161.0,16,Rep_7,2024-09-27,2024-09-21,Referral,Logistics,23,10745.76
+DEAL-6026,Company_66,Contact_217,MQL,78653.73,22,Rep_2,2024-01-01,2024-08-14,Referral,Logistics,19,17303.82
+DEAL-6027,Company_102,Contact_24,Closed Won,468536.43,59,Rep_1,2024-04-19,2025-04-20,Partner,Finance,7,276436.49
+DEAL-6028,Company_133,Contact_121,Closed Lost,343406.37,43,Rep_12,2024-12-17,2025-03-18,Partner,Retail,42,147664.74
+DEAL-6029,Company_40,Contact_208,Opportunity,29978.17,75,Rep_2,2024-06-05,2024-06-25,Event,Logistics,69,22483.63
+DEAL-6030,Company_26,Contact_276,Closed Lost,492193.89,81,Rep_14,2024-01-07,2025-03-16,Website,Healthcare,29,398677.05
+DEAL-6031,Company_170,Contact_186,Closed Lost,404867.06,58,Rep_9,2024-07-11,2024-07-01,Partner,Finance,37,234822.89
+DEAL-6032,Company_60,Contact_293,Closed Won,158043.76,14,Rep_8,2024-05-30,2025-05-11,Partner,Technology,57,22126.13
+DEAL-6033,Company_68,Contact_249,Opportunity,238079.01,5,Rep_14,2024-03-18,2024-03-04,Website,Healthcare,32,11903.95
+DEAL-6034,Company_118,Contact_71,SQL,364655.11,26,Rep_6,2024-01-27,2025-01-17,Cold Call,Finance,66,94810.33
+DEAL-6035,Company_21,Contact_253,Closed Won,339635.88,31,Rep_6,2024-11-19,2024-05-15,Event,Logistics,29,105287.12
+DEAL-6036,Company_10,Contact_101,Opportunity,234225.04,11,Rep_7,2024-10-24,2025-01-24,Website,Logistics,40,25764.75
+DEAL-6037,Company_83,Contact_189,Lead,258633.0,78,Rep_10,2024-09-06,2025-06-20,Website,Finance,88,201733.74
+DEAL-6038,Company_193,Contact_61,Negotiation,26387.8,39,Rep_13,2024-01-07,2025-01-20,Email Campaign,Finance,75,10291.24
+DEAL-6039,Company_115,Contact_161,SQL,252813.46,75,Rep_9,2024-11-14,2024-09-28,Cold Call,Finance,51,189610.1
+DEAL-6040,Company_116,Contact_204,Closed Lost,173422.21,24,Rep_5,2024-06-22,2025-04-05,Cold Call,Healthcare,35,41621.33
+DEAL-6041,Company_122,Contact_274,Closed Won,146100.34,5,Rep_14,2024-06-23,2024-06-04,Event,Manufacturing,89,7305.02
+DEAL-6042,Company_172,Contact_283,Lead,138463.1,18,Rep_9,2024-11-17,2024-11-20,Email Campaign,Technology,42,24923.36
+DEAL-6043,Company_167,Contact_240,Closed Lost,326228.71,49,Rep_13,2024-06-07,2025-06-14,Event,Logistics,31,159852.07
+DEAL-6044,Company_5,Contact_168,Closed Lost,217482.52,50,Rep_7,2024-03-27,2024-08-21,Website,Manufacturing,54,108741.26
+DEAL-6045,Company_108,Contact_264,Closed Won,215772.19,46,Rep_3,2024-03-27,2024-03-14,Website,Technology,37,99255.21
+DEAL-6046,Company_109,Contact_32,SQL,83797.56,96,Rep_15,2024-12-05,2024-10-02,Referral,Finance,80,80445.66
+DEAL-6047,Company_45,Contact_298,Negotiation,481122.47,66,Rep_11,2024-07-18,2024-10-22,Referral,Manufacturing,19,317540.83
+DEAL-6048,Company_195,Contact_61,Closed Won,115843.47,74,Rep_5,2024-07-30,2025-03-31,Referral,Retail,5,85724.17
+DEAL-6049,Company_53,Contact_121,Closed Won,206024.06,16,Rep_13,2024-08-05,2025-03-27,Event,Retail,39,32963.85
+DEAL-6050,Company_166,Contact_272,Opportunity,99151.36,49,Rep_1,2024-03-21,2024-08-13,Website,Technology,85,48584.17
+DEAL-6051,Company_21,Contact_215,Negotiation,353055.71,64,Rep_14,2024-06-02,2025-03-12,Website,Healthcare,6,225955.65
+DEAL-6052,Company_120,Contact_255,Opportunity,220883.73,60,Rep_9,2024-12-14,2024-05-09,Referral,Retail,72,132530.24
+DEAL-6053,Company_147,Contact_206,SQL,209756.72,94,Rep_9,2024-02-23,2024-06-01,Referral,Manufacturing,1,197171.32
+DEAL-6054,Company_101,Contact_180,Negotiation,438171.97,50,Rep_1,2024-12-14,2024-12-20,Referral,Healthcare,50,219085.98
+DEAL-6055,Company_22,Contact_53,Opportunity,380942.53,40,Rep_3,2024-04-09,2025-02-08,Referral,Retail,41,152377.01
+DEAL-6056,Company_25,Contact_298,MQL,262338.15,94,Rep_11,2024-04-18,2025-03-29,Email Campaign,Finance,15,246597.86
+DEAL-6057,Company_121,Contact_191,Negotiation,236952.25,37,Rep_9,2024-01-06,2024-12-29,Website,Manufacturing,67,87672.33
+DEAL-6058,Company_172,Contact_200,SQL,480151.19,59,Rep_2,2024-08-30,2024-05-02,Website,Manufacturing,16,283289.2
+DEAL-6059,Company_119,Contact_128,Proposal,478448.77,7,Rep_10,2024-04-26,2025-01-23,Partner,Manufacturing,39,33491.41
+DEAL-6060,Company_21,Contact_285,SQL,353861.58,20,Rep_12,2024-06-17,2024-09-26,Website,Manufacturing,50,70772.32
+DEAL-6061,Company_157,Contact_135,Closed Lost,381273.22,10,Rep_5,2024-07-31,2024-07-08,Website,Logistics,47,38127.32
+DEAL-6062,Company_92,Contact_57,Closed Won,450050.99,44,Rep_11,2024-08-20,2024-08-13,Website,Logistics,3,198022.44
+DEAL-6063,Company_15,Contact_54,Opportunity,482332.83,93,Rep_15,2024-12-15,2025-03-30,Email Campaign,Manufacturing,40,448569.53
+DEAL-6064,Company_74,Contact_209,Negotiation,45726.01,11,Rep_8,2024-07-22,2024-05-26,Event,Healthcare,59,5029.86
+DEAL-6065,Company_41,Contact_223,MQL,498682.72,97,Rep_4,2024-03-06,2024-11-28,Event,Technology,47,483722.24
+DEAL-6066,Company_197,Contact_62,Closed Lost,352996.0,87,Rep_15,2024-09-14,2024-04-10,Event,Technology,65,307106.52
+DEAL-6067,Company_182,Contact_209,MQL,298408.7,5,Rep_14,2024-01-21,2025-02-17,Website,Manufacturing,70,14920.44
+DEAL-6068,Company_22,Contact_299,Closed Won,209517.73,6,Rep_7,2024-11-04,2024-05-12,Cold Call,Logistics,16,12571.06
+DEAL-6069,Company_114,Contact_160,Closed Won,171513.0,90,Rep_7,2024-04-18,2025-06-01,Email Campaign,Retail,72,154361.7
+DEAL-6070,Company_2,Contact_291,MQL,403084.05,60,Rep_13,2024-09-21,2025-05-04,Event,Manufacturing,80,241850.43
+DEAL-6071,Company_92,Contact_47,Lead,328945.35,21,Rep_1,2024-02-27,2025-04-21,Cold Call,Technology,75,69078.52
+DEAL-6072,Company_32,Contact_121,Negotiation,104349.06,95,Rep_5,2024-05-28,2024-08-17,Partner,Retail,76,99131.61
+DEAL-6073,Company_149,Contact_167,Closed Won,306905.96,58,Rep_9,2024-09-11,2025-03-16,Partner,Retail,19,178005.46
+DEAL-6074,Company_15,Contact_108,Negotiation,74877.22,65,Rep_10,2024-08-15,2024-05-05,Event,Technology,59,48670.19
+DEAL-6075,Company_180,Contact_30,Lead,250953.04,69,Rep_10,2024-01-03,2024-07-20,Event,Manufacturing,41,173157.6
+DEAL-6076,Company_46,Contact_138,Negotiation,293811.53,24,Rep_6,2024-01-13,2024-05-04,Partner,Healthcare,88,70514.77
+DEAL-6077,Company_53,Contact_102,Opportunity,319663.62,39,Rep_14,2024-12-24,2024-03-27,Event,Finance,74,124668.81
+DEAL-6078,Company_177,Contact_61,Closed Lost,76904.78,17,Rep_10,2024-07-12,2024-08-26,Email Campaign,Manufacturing,15,13073.81
+DEAL-6079,Company_180,Contact_112,Closed Won,52321.27,55,Rep_9,2024-11-09,2024-12-05,Cold Call,Healthcare,84,28776.7
+DEAL-6080,Company_20,Contact_125,Closed Won,133060.54,98,Rep_15,2024-01-27,2025-04-24,Cold Call,Retail,63,130399.33
+DEAL-6081,Company_22,Contact_265,Opportunity,305479.77,64,Rep_2,2024-06-28,2024-03-17,Event,Retail,49,195507.05
+DEAL-6082,Company_170,Contact_147,SQL,466182.99,70,Rep_11,2024-07-29,2024-09-15,Referral,Retail,40,326328.09
+DEAL-6083,Company_195,Contact_125,Closed Won,390666.15,23,Rep_14,2024-12-03,2025-02-11,Email Campaign,Healthcare,44,89853.21
+DEAL-6084,Company_98,Contact_117,Lead,374126.71,56,Rep_10,2024-09-17,2024-06-07,Email Campaign,Manufacturing,69,209510.96
+DEAL-6085,Company_33,Contact_179,Lead,168465.01,99,Rep_9,2024-08-17,2025-02-22,Cold Call,Logistics,69,166780.36
+DEAL-6086,Company_31,Contact_83,Lead,60295.15,13,Rep_6,2024-04-17,2024-12-03,Cold Call,Healthcare,50,7838.37
+DEAL-6087,Company_53,Contact_262,Proposal,446510.01,24,Rep_5,2024-12-29,2024-11-30,Website,Finance,89,107162.4
+DEAL-6088,Company_137,Contact_126,Lead,252922.48,73,Rep_9,2024-04-29,2024-04-30,Event,Finance,21,184633.41
+DEAL-6089,Company_20,Contact_128,Proposal,54752.87,5,Rep_14,2024-04-11,2024-05-21,Website,Manufacturing,38,2737.64
+DEAL-6090,Company_128,Contact_20,MQL,269809.52,24,Rep_7,2024-09-21,2025-05-02,Website,Finance,54,64754.28
+DEAL-6091,Company_160,Contact_265,Closed Lost,339328.07,94,Rep_2,2024-12-30,2025-05-01,Referral,Manufacturing,15,318968.39
+DEAL-6092,Company_29,Contact_141,Opportunity,163350.51,6,Rep_8,2024-11-09,2024-10-07,Email Campaign,Retail,45,9801.03
+DEAL-6093,Company_196,Contact_41,Lead,9578.22,45,Rep_2,2024-03-06,2024-12-16,Referral,Healthcare,75,4310.2
+DEAL-6094,Company_197,Contact_52,Negotiation,312695.45,36,Rep_15,2024-10-25,2024-11-19,Partner,Technology,61,112570.36
+DEAL-6095,Company_60,Contact_110,SQL,24847.28,42,Rep_9,2024-05-09,2024-11-06,Partner,Retail,64,10435.86
+DEAL-6096,Company_23,Contact_234,SQL,219232.68,29,Rep_4,2024-03-22,2025-02-10,Cold Call,Manufacturing,15,63577.48
+DEAL-6097,Company_65,Contact_29,Negotiation,413263.74,31,Rep_10,2024-12-08,2024-12-02,Partner,Technology,13,128111.76
+DEAL-6098,Company_52,Contact_37,Closed Lost,499429.58,77,Rep_9,2024-12-13,2024-05-01,Website,Manufacturing,40,384560.78
+DEAL-6099,Company_56,Contact_168,Closed Lost,188299.94,7,Rep_8,2024-05-15,2024-04-10,Website,Finance,29,13181.0
+DEAL-6100,Company_185,Contact_150,Opportunity,14962.83,17,Rep_9,2024-01-10,2025-04-19,Cold Call,Healthcare,1,2543.68
+DEAL-6101,Company_31,Contact_287,Closed Won,248987.04,30,Rep_14,2024-03-17,2025-02-24,Partner,Retail,50,74696.11
+DEAL-6102,Company_64,Contact_225,MQL,141756.32,83,Rep_13,2024-07-17,2024-06-05,Email Campaign,Manufacturing,68,117657.75
+DEAL-6103,Company_157,Contact_197,Closed Won,446923.63,42,Rep_4,2024-01-22,2024-03-30,Event,Finance,66,187707.92
+DEAL-6104,Company_12,Contact_101,Closed Lost,357194.06,8,Rep_4,2024-03-24,2024-06-15,Email Campaign,Healthcare,10,28575.52
+DEAL-6105,Company_13,Contact_188,Proposal,205140.02,54,Rep_15,2024-02-24,2024-12-07,Cold Call,Manufacturing,70,110775.61
+DEAL-6106,Company_61,Contact_175,Proposal,382203.97,64,Rep_10,2024-12-14,2024-12-10,Partner,Finance,34,244610.54
+DEAL-6107,Company_193,Contact_84,Proposal,173896.91,48,Rep_1,2024-05-10,2024-05-22,Partner,Retail,14,83470.52
+DEAL-6108,Company_168,Contact_111,Lead,263272.97,13,Rep_8,2024-05-19,2024-05-25,Cold Call,Healthcare,43,34225.49
+DEAL-6109,Company_185,Contact_279,Closed Won,461778.71,88,Rep_2,2024-06-03,2024-06-10,Event,Technology,20,406365.26
+DEAL-6110,Company_172,Contact_161,Negotiation,104077.85,86,Rep_1,2024-01-05,2024-10-02,Email Campaign,Retail,60,89506.95
+DEAL-6111,Company_24,Contact_141,Closed Won,159963.71,91,Rep_3,2024-07-17,2024-06-22,Email Campaign,Healthcare,67,145566.98
+DEAL-6112,Company_80,Contact_239,Lead,443368.74,96,Rep_4,2024-11-29,2024-10-09,Website,Finance,65,425633.99
+DEAL-6113,Company_106,Contact_80,Closed Won,233629.79,35,Rep_2,2024-10-24,2024-03-07,Referral,Logistics,11,81770.43
+DEAL-6114,Company_34,Contact_66,SQL,162354.97,45,Rep_13,2024-04-01,2025-05-30,Partner,Manufacturing,32,73059.74
+DEAL-6115,Company_198,Contact_296,Closed Won,23462.84,96,Rep_7,2024-01-05,2025-05-09,Referral,Finance,45,22524.33
+DEAL-6116,Company_121,Contact_241,Closed Lost,212381.75,47,Rep_9,2024-10-10,2024-08-12,Email Campaign,Retail,88,99819.42
+DEAL-6117,Company_170,Contact_127,Closed Lost,252797.55,87,Rep_13,2024-11-03,2025-03-27,Partner,Manufacturing,49,219933.87
+DEAL-6118,Company_52,Contact_283,Closed Lost,206134.77,66,Rep_13,2024-12-03,2024-11-16,Email Campaign,Technology,59,136048.95
+DEAL-6119,Company_143,Contact_112,Lead,142342.32,93,Rep_13,2024-07-30,2024-03-16,Referral,Technology,31,132378.36
+DEAL-6120,Company_22,Contact_202,SQL,187719.44,5,Rep_3,2024-06-22,2024-07-17,Partner,Retail,27,9385.97
+DEAL-6121,Company_5,Contact_11,SQL,323010.18,72,Rep_12,2024-10-03,2024-03-28,Website,Logistics,71,232567.33
+DEAL-6122,Company_128,Contact_209,Proposal,446183.46,81,Rep_15,2024-09-09,2025-02-08,Event,Logistics,75,361408.6
+DEAL-6123,Company_14,Contact_54,Closed Lost,326589.53,23,Rep_1,2024-10-04,2025-03-17,Referral,Healthcare,5,75115.59
+DEAL-6124,Company_55,Contact_73,Negotiation,324850.41,74,Rep_14,2024-04-14,2024-12-26,Email Campaign,Manufacturing,48,240389.3
+DEAL-6125,Company_159,Contact_242,Proposal,409353.06,23,Rep_13,2024-11-26,2024-03-04,Cold Call,Healthcare,70,94151.2
+DEAL-6126,Company_100,Contact_62,Closed Won,86745.67,90,Rep_13,2024-01-14,2024-06-23,Email Campaign,Logistics,15,78071.1
+DEAL-6127,Company_75,Contact_145,MQL,154043.33,91,Rep_6,2024-02-04,2024-10-15,Cold Call,Retail,58,140179.43
+DEAL-6128,Company_58,Contact_276,Negotiation,30042.54,5,Rep_3,2024-08-27,2024-05-10,Email Campaign,Logistics,43,1502.13
+DEAL-6129,Company_134,Contact_286,Proposal,178070.71,53,Rep_11,2024-07-28,2024-04-22,Partner,Healthcare,46,94377.48
+DEAL-6130,Company_190,Contact_133,MQL,499417.77,41,Rep_10,2024-07-21,2024-07-27,Event,Logistics,53,204761.29
+DEAL-6131,Company_148,Contact_26,Negotiation,168009.64,89,Rep_11,2024-11-28,2024-12-14,Cold Call,Manufacturing,78,149528.58
+DEAL-6132,Company_72,Contact_86,Closed Won,430587.63,35,Rep_4,2024-11-14,2024-04-13,Partner,Manufacturing,8,150705.67
+DEAL-6133,Company_85,Contact_185,Closed Won,47459.97,73,Rep_3,2024-09-20,2025-06-30,Partner,Technology,18,34645.78
+DEAL-6134,Company_21,Contact_101,Closed Won,232557.62,16,Rep_14,2024-03-01,2024-10-10,Email Campaign,Manufacturing,31,37209.22
+DEAL-6135,Company_29,Contact_216,Closed Won,178974.12,25,Rep_8,2024-02-05,2024-05-23,Email Campaign,Technology,72,44743.53
+DEAL-6136,Company_54,Contact_297,Opportunity,104783.52,98,Rep_13,2024-02-21,2024-03-10,Website,Logistics,53,102687.85
+DEAL-6137,Company_77,Contact_186,Lead,189390.6,41,Rep_14,2024-08-12,2025-06-09,Email Campaign,Finance,17,77650.15
+DEAL-6138,Company_198,Contact_187,Closed Lost,327382.67,77,Rep_7,2024-09-17,2024-12-15,Referral,Manufacturing,3,252084.66
+DEAL-6139,Company_174,Contact_159,Opportunity,247702.5,96,Rep_4,2024-10-19,2025-04-26,Website,Retail,89,237794.4
+DEAL-6140,Company_23,Contact_56,Negotiation,422945.35,96,Rep_14,2024-02-07,2025-03-14,Partner,Healthcare,13,406027.54
+DEAL-6141,Company_66,Contact_173,Lead,452948.57,6,Rep_11,2024-04-10,2025-06-24,Referral,Logistics,3,27176.91
+DEAL-6142,Company_12,Contact_279,Closed Lost,243536.95,27,Rep_10,2024-05-03,2025-05-08,Email Campaign,Healthcare,37,65754.98
+DEAL-6143,Company_13,Contact_207,Closed Lost,490954.53,72,Rep_15,2024-08-19,2025-03-09,Partner,Technology,50,353487.26
+DEAL-6144,Company_75,Contact_225,Closed Lost,40650.28,93,Rep_4,2024-01-18,2025-04-19,Email Campaign,Technology,24,37804.76
+DEAL-6145,Company_191,Contact_259,MQL,141787.91,97,Rep_6,2024-11-03,2025-04-22,Event,Logistics,15,137534.27
+DEAL-6146,Company_37,Contact_116,Closed Won,211272.08,73,Rep_1,2024-01-30,2024-07-03,Event,Healthcare,8,154228.62
+DEAL-6147,Company_136,Contact_101,Proposal,293437.25,14,Rep_6,2024-07-10,2024-12-15,Cold Call,Manufacturing,37,41081.21
+DEAL-6148,Company_79,Contact_291,MQL,275235.22,75,Rep_7,2024-12-07,2025-06-24,Partner,Technology,85,206426.41
+DEAL-6149,Company_108,Contact_138,Proposal,286148.5,30,Rep_7,2024-03-12,2025-04-27,Partner,Technology,14,85844.55
+DEAL-6150,Company_173,Contact_220,Opportunity,448644.11,81,Rep_3,2024-09-08,2024-04-21,Cold Call,Logistics,51,363401.73
+DEAL-6151,Company_165,Contact_191,Negotiation,142394.77,56,Rep_13,2024-07-20,2024-04-24,Event,Technology,18,79741.07
+DEAL-6152,Company_165,Contact_37,Lead,409342.6,22,Rep_8,2024-10-27,2024-06-06,Referral,Manufacturing,60,90055.37
+DEAL-6153,Company_82,Contact_94,Proposal,281210.27,85,Rep_7,2024-08-03,2025-02-25,Website,Healthcare,6,239028.73
+DEAL-6154,Company_10,Contact_98,Negotiation,247792.79,98,Rep_13,2024-11-06,2024-09-08,Email Campaign,Retail,19,242836.93
+DEAL-6155,Company_197,Contact_54,Negotiation,153209.65,53,Rep_8,2024-05-27,2025-01-01,Email Campaign,Technology,1,81201.11
+DEAL-6156,Company_198,Contact_233,Closed Won,155514.06,82,Rep_14,2024-03-01,2024-05-08,Email Campaign,Finance,58,127521.53
+DEAL-6157,Company_171,Contact_289,Negotiation,197297.54,10,Rep_4,2024-09-05,2024-03-30,Event,Manufacturing,65,19729.75
+DEAL-6158,Company_95,Contact_289,Negotiation,382937.69,30,Rep_13,2024-12-20,2025-03-11,Cold Call,Retail,16,114881.31
+DEAL-6159,Company_56,Contact_59,Lead,240982.78,17,Rep_15,2024-06-07,2024-07-21,Event,Retail,41,40967.07
+DEAL-6160,Company_35,Contact_135,Closed Won,81147.67,31,Rep_12,2024-10-27,2024-03-22,Partner,Logistics,27,25155.78
+DEAL-6161,Company_74,Contact_70,SQL,381132.27,40,Rep_14,2024-11-17,2024-06-14,Website,Healthcare,5,152452.91
+DEAL-6162,Company_67,Contact_19,Proposal,333373.09,45,Rep_12,2024-08-24,2024-08-05,Cold Call,Manufacturing,4,150017.89
+DEAL-6163,Company_55,Contact_185,Proposal,474873.19,35,Rep_10,2024-10-16,2024-09-14,Referral,Manufacturing,84,166205.62
+DEAL-6164,Company_190,Contact_258,Closed Lost,267059.98,56,Rep_12,2024-07-25,2025-05-11,Email Campaign,Healthcare,58,149553.59
+DEAL-6165,Company_132,Contact_24,SQL,328938.96,25,Rep_15,2024-10-21,2024-06-05,Cold Call,Finance,60,82234.74
+DEAL-6166,Company_45,Contact_192,Opportunity,242268.49,38,Rep_10,2024-05-03,2024-12-20,Referral,Healthcare,27,92062.03
+DEAL-6167,Company_128,Contact_11,Closed Won,341986.2,84,Rep_11,2024-07-11,2024-07-12,Referral,Logistics,24,287268.41
+DEAL-6168,Company_141,Contact_253,Negotiation,220877.95,58,Rep_2,2024-01-29,2024-10-29,Cold Call,Finance,71,128109.21
+DEAL-6169,Company_104,Contact_20,SQL,73238.96,7,Rep_15,2024-03-12,2024-07-23,Website,Retail,40,5126.73
+DEAL-6170,Company_189,Contact_131,SQL,493408.2,36,Rep_12,2024-07-30,2024-08-15,Website,Technology,10,177626.95
+DEAL-6171,Company_193,Contact_37,Closed Won,361580.03,83,Rep_3,2024-09-22,2024-12-18,Email Campaign,Healthcare,44,300111.42
+DEAL-6172,Company_86,Contact_124,Closed Won,306269.78,22,Rep_5,2024-01-11,2024-12-13,Partner,Logistics,47,67379.35
+DEAL-6173,Company_94,Contact_129,MQL,243303.27,92,Rep_4,2024-01-26,2024-05-05,Email Campaign,Retail,51,223839.01
+DEAL-6174,Company_44,Contact_162,Opportunity,357157.36,33,Rep_5,2024-01-03,2024-05-16,Partner,Manufacturing,48,117861.93
+DEAL-6175,Company_156,Contact_248,Closed Won,67753.59,64,Rep_14,2024-07-08,2024-06-26,Website,Finance,77,43362.3
+DEAL-6176,Company_186,Contact_298,Lead,166426.13,50,Rep_7,2024-05-02,2025-05-12,Partner,Manufacturing,22,83213.06
+DEAL-6177,Company_131,Contact_103,MQL,66726.18,64,Rep_7,2024-01-20,2024-08-02,Email Campaign,Logistics,53,42704.76
+DEAL-6178,Company_41,Contact_277,MQL,67382.42,80,Rep_12,2024-10-17,2024-12-07,Event,Logistics,80,53905.94
+DEAL-6179,Company_104,Contact_128,Proposal,15567.03,19,Rep_6,2024-07-12,2024-10-05,Website,Healthcare,88,2957.74
+DEAL-6180,Company_159,Contact_36,Opportunity,379167.24,38,Rep_14,2024-01-04,2024-08-20,Email Campaign,Manufacturing,86,144083.55
+DEAL-6181,Company_9,Contact_180,SQL,117517.77,58,Rep_12,2024-09-08,2024-03-19,Cold Call,Logistics,65,68160.31
+DEAL-6182,Company_118,Contact_217,MQL,416843.82,29,Rep_4,2024-11-29,2024-10-01,Partner,Manufacturing,10,120884.71
+DEAL-6183,Company_131,Contact_91,Negotiation,452695.08,40,Rep_10,2024-06-02,2025-06-30,Event,Logistics,88,181078.03
+DEAL-6184,Company_107,Contact_177,Closed Won,88440.2,89,Rep_8,2024-12-13,2025-06-02,Partner,Technology,3,78711.78
+DEAL-6185,Company_128,Contact_130,MQL,355887.7,26,Rep_6,2024-06-01,2024-07-25,Partner,Retail,50,92530.8
+DEAL-6186,Company_179,Contact_44,Negotiation,232851.34,23,Rep_14,2024-01-29,2024-11-15,Event,Manufacturing,40,53555.81
+DEAL-6187,Company_25,Contact_116,Closed Won,459885.77,60,Rep_6,2024-02-14,2024-07-18,Referral,Manufacturing,61,275931.46
+DEAL-6188,Company_114,Contact_128,Proposal,244786.51,14,Rep_2,2024-01-25,2025-05-23,Referral,Technology,70,34270.11
+DEAL-6189,Company_159,Contact_103,Proposal,192542.57,5,Rep_7,2024-04-20,2024-11-26,Partner,Retail,66,9627.13
+DEAL-6190,Company_164,Contact_274,MQL,150809.73,87,Rep_8,2024-05-20,2025-05-23,Email Campaign,Technology,21,131204.47
+DEAL-6191,Company_93,Contact_117,Closed Lost,452292.61,31,Rep_2,2024-06-11,2025-04-20,Partner,Technology,68,140210.71
+DEAL-6192,Company_199,Contact_188,Closed Lost,116958.76,16,Rep_12,2024-06-24,2024-08-07,Event,Technology,68,18713.4
+DEAL-6193,Company_65,Contact_4,Negotiation,414718.82,67,Rep_4,2024-11-12,2024-10-09,Email Campaign,Logistics,3,277861.61
+DEAL-6194,Company_88,Contact_94,Closed Lost,101122.79,50,Rep_2,2024-01-05,2024-12-03,Website,Finance,57,50561.4
+DEAL-6195,Company_164,Contact_265,Proposal,323481.44,48,Rep_9,2024-11-24,2024-06-30,Partner,Healthcare,12,155271.09
+DEAL-6196,Company_88,Contact_267,Negotiation,228277.49,46,Rep_3,2024-03-28,2025-04-09,Referral,Finance,51,105007.65
+DEAL-6197,Company_69,Contact_293,Closed Won,56781.29,18,Rep_12,2024-12-15,2024-12-01,Referral,Logistics,21,10220.63
+DEAL-6198,Company_111,Contact_18,Lead,67336.84,86,Rep_2,2024-02-19,2024-06-09,Website,Logistics,32,57909.68
+DEAL-6199,Company_124,Contact_258,MQL,144347.03,5,Rep_7,2024-02-06,2024-10-22,Website,Retail,25,7217.35
+DEAL-6200,Company_194,Contact_81,MQL,384492.58,50,Rep_1,2024-02-14,2025-04-05,Cold Call,Manufacturing,77,192246.29
+DEAL-6201,Company_123,Contact_2,Negotiation,365825.3,30,Rep_6,2024-04-18,2024-09-23,Partner,Technology,81,109747.59
+DEAL-6202,Company_37,Contact_28,MQL,106534.52,65,Rep_14,2024-12-10,2025-02-09,Partner,Logistics,72,69247.44
+DEAL-6203,Company_11,Contact_225,Opportunity,240720.09,57,Rep_10,2024-06-18,2025-06-23,Cold Call,Healthcare,65,137210.45
+DEAL-6204,Company_193,Contact_177,Opportunity,53008.55,41,Rep_9,2024-03-01,2024-08-11,Referral,Healthcare,33,21733.51
+DEAL-6205,Company_85,Contact_172,Negotiation,359393.41,55,Rep_3,2024-08-22,2025-06-29,Cold Call,Finance,13,197666.38
+DEAL-6206,Company_41,Contact_264,Proposal,397684.51,26,Rep_5,2024-07-04,2024-09-18,Partner,Logistics,51,103397.97
+DEAL-6207,Company_45,Contact_29,Lead,447288.44,17,Rep_6,2024-09-14,2024-11-29,Website,Finance,38,76039.03
+DEAL-6208,Company_22,Contact_25,Negotiation,443444.25,91,Rep_9,2024-09-28,2025-03-12,Website,Logistics,26,403534.27
+DEAL-6209,Company_40,Contact_279,Opportunity,172256.69,63,Rep_4,2024-10-14,2024-04-03,Website,Manufacturing,22,108521.71
+DEAL-6210,Company_156,Contact_182,Lead,130994.25,67,Rep_15,2024-02-25,2025-02-05,Partner,Manufacturing,15,87766.15
+DEAL-6211,Company_131,Contact_233,Negotiation,448811.74,99,Rep_10,2024-06-30,2024-12-02,Website,Technology,74,444323.62
+DEAL-6212,Company_120,Contact_157,SQL,77273.45,90,Rep_5,2024-08-18,2025-01-14,Partner,Manufacturing,29,69546.1
+DEAL-6213,Company_3,Contact_44,Opportunity,34375.32,60,Rep_2,2024-07-22,2025-06-07,Referral,Logistics,82,20625.19
+DEAL-6214,Company_134,Contact_157,Closed Lost,160550.27,80,Rep_9,2024-12-21,2024-10-23,Email Campaign,Healthcare,60,128440.22
+DEAL-6215,Company_193,Contact_289,MQL,381348.52,55,Rep_7,2024-12-17,2025-05-25,Partner,Healthcare,15,209741.69
+DEAL-6216,Company_184,Contact_36,Closed Lost,348628.9,27,Rep_11,2024-10-24,2024-12-02,Website,Technology,6,94129.8
+DEAL-6217,Company_79,Contact_38,Opportunity,493592.36,64,Rep_9,2024-03-28,2024-06-13,Referral,Healthcare,38,315899.11
+DEAL-6218,Company_120,Contact_104,Closed Lost,182969.12,91,Rep_10,2024-07-12,2025-01-12,Event,Manufacturing,8,166501.9
+DEAL-6219,Company_60,Contact_136,Closed Won,141544.42,88,Rep_13,2024-10-21,2024-06-01,Event,Finance,85,124559.09
+DEAL-6220,Company_177,Contact_189,Closed Won,192212.77,52,Rep_8,2024-04-08,2025-05-12,Partner,Manufacturing,81,99950.64
+DEAL-6221,Company_184,Contact_48,MQL,392216.85,94,Rep_11,2024-09-17,2024-05-14,Website,Technology,59,368683.84
+DEAL-6222,Company_45,Contact_280,Closed Won,111078.48,23,Rep_6,2024-04-01,2024-10-29,Event,Manufacturing,27,25548.05
+DEAL-6223,Company_97,Contact_45,SQL,474135.25,8,Rep_15,2024-02-21,2025-04-04,Referral,Retail,78,37930.82
+DEAL-6224,Company_48,Contact_60,Closed Lost,258711.92,43,Rep_7,2024-03-28,2024-03-05,Email Campaign,Finance,58,111246.13
+DEAL-6225,Company_123,Contact_290,Closed Lost,392656.77,24,Rep_11,2024-12-05,2024-10-25,Partner,Healthcare,32,94237.62
+DEAL-6226,Company_59,Contact_113,Proposal,414494.6,95,Rep_15,2024-12-30,2024-11-02,Partner,Finance,79,393769.87
+DEAL-6227,Company_139,Contact_172,Closed Lost,242013.48,15,Rep_6,2024-11-09,2024-08-12,Referral,Retail,19,36302.02
+DEAL-6228,Company_196,Contact_131,Proposal,371978.83,55,Rep_2,2024-04-09,2025-01-22,Cold Call,Retail,51,204588.36
+DEAL-6229,Company_174,Contact_78,Lead,185523.69,78,Rep_4,2024-10-12,2024-08-06,Referral,Retail,62,144708.48
+DEAL-6230,Company_37,Contact_152,Closed Won,406409.37,15,Rep_4,2024-03-20,2024-08-30,Email Campaign,Finance,81,60961.41
+DEAL-6231,Company_26,Contact_233,Proposal,412831.99,9,Rep_1,2024-02-16,2024-07-13,Event,Finance,13,37154.88
+DEAL-6232,Company_163,Contact_4,Lead,285271.88,57,Rep_9,2024-04-04,2024-12-30,Referral,Manufacturing,26,162604.97
+DEAL-6233,Company_17,Contact_262,Lead,112983.17,90,Rep_5,2024-02-21,2025-05-04,Website,Healthcare,75,101684.85
+DEAL-6234,Company_80,Contact_56,Negotiation,485260.47,6,Rep_2,2024-08-22,2024-05-26,Website,Healthcare,45,29115.63
+DEAL-6235,Company_198,Contact_275,Closed Lost,473755.04,6,Rep_3,2024-09-07,2024-09-16,Website,Finance,68,28425.3
+DEAL-6236,Company_90,Contact_288,Negotiation,311811.17,92,Rep_5,2024-01-14,2024-06-18,Cold Call,Logistics,69,286866.28
+DEAL-6237,Company_2,Contact_279,Opportunity,492021.1,62,Rep_6,2024-02-09,2024-06-27,Partner,Finance,28,305053.08
+DEAL-6238,Company_195,Contact_195,SQL,253884.17,71,Rep_15,2024-06-24,2025-06-17,Referral,Manufacturing,30,180257.76
+DEAL-6239,Company_141,Contact_271,Opportunity,190864.77,31,Rep_11,2024-02-11,2025-02-09,Cold Call,Manufacturing,45,59168.08
+DEAL-6240,Company_66,Contact_258,SQL,232948.99,34,Rep_11,2024-10-30,2025-06-03,Event,Finance,3,79202.66
+DEAL-6241,Company_122,Contact_192,SQL,27723.97,49,Rep_11,2024-05-26,2025-01-04,Email Campaign,Technology,72,13584.75
+DEAL-6242,Company_122,Contact_267,MQL,276815.31,25,Rep_13,2024-05-31,2025-01-19,Referral,Finance,11,69203.83
+DEAL-6243,Company_110,Contact_103,Proposal,334785.06,46,Rep_5,2024-01-02,2025-02-12,Website,Finance,84,154001.13
+DEAL-6244,Company_192,Contact_250,MQL,59212.39,95,Rep_2,2024-09-13,2025-01-13,Website,Manufacturing,70,56251.77
+DEAL-6245,Company_157,Contact_277,MQL,131520.8,76,Rep_8,2024-09-21,2025-04-05,Referral,Retail,32,99955.81
+DEAL-6246,Company_52,Contact_190,SQL,361986.13,87,Rep_1,2024-10-03,2024-08-06,Website,Healthcare,7,314927.93
+DEAL-6247,Company_198,Contact_37,Closed Won,397827.14,52,Rep_4,2024-07-16,2024-04-19,Cold Call,Healthcare,71,206870.11
+DEAL-6248,Company_192,Contact_65,Proposal,493004.19,79,Rep_12,2024-04-08,2024-10-24,Email Campaign,Logistics,40,389473.31
+DEAL-6249,Company_10,Contact_51,Opportunity,130345.72,45,Rep_8,2024-01-29,2024-03-01,Event,Logistics,18,58655.57
+DEAL-6250,Company_60,Contact_160,Proposal,421512.54,63,Rep_11,2024-04-25,2024-03-24,Partner,Technology,39,265552.9
+DEAL-6251,Company_123,Contact_130,Proposal,90190.97,74,Rep_8,2024-07-17,2024-03-25,Referral,Logistics,81,66741.32
+DEAL-6252,Company_175,Contact_248,Opportunity,69784.81,83,Rep_9,2024-02-12,2024-04-07,Email Campaign,Healthcare,62,57921.39
+DEAL-6253,Company_143,Contact_85,Closed Won,365955.77,92,Rep_5,2024-01-20,2025-02-08,Partner,Manufacturing,62,336679.31
+DEAL-6254,Company_115,Contact_50,Negotiation,225706.82,15,Rep_4,2024-03-20,2024-12-17,Website,Logistics,46,33856.02
+DEAL-6255,Company_61,Contact_185,MQL,397992.13,80,Rep_4,2024-01-26,2025-05-30,Event,Retail,14,318393.7
+DEAL-6256,Company_20,Contact_42,Closed Won,144869.57,72,Rep_12,2024-01-06,2024-07-20,Website,Retail,85,104306.09
+DEAL-6257,Company_178,Contact_271,MQL,110530.97,74,Rep_15,2024-06-26,2024-08-09,Email Campaign,Healthcare,66,81792.92
+DEAL-6258,Company_106,Contact_25,Lead,276655.38,6,Rep_2,2024-09-29,2024-10-25,Event,Technology,46,16599.32
+DEAL-6259,Company_91,Contact_147,Opportunity,62078.68,51,Rep_9,2024-07-01,2025-03-16,Cold Call,Technology,65,31660.13
+DEAL-6260,Company_196,Contact_284,Opportunity,142980.86,96,Rep_8,2024-02-03,2025-05-28,Email Campaign,Healthcare,33,137261.63
+DEAL-6261,Company_33,Contact_166,Closed Won,87287.32,90,Rep_9,2024-05-04,2025-02-19,Email Campaign,Manufacturing,67,78558.59
+DEAL-6262,Company_51,Contact_242,Negotiation,163423.41,26,Rep_4,2024-01-14,2024-11-02,Email Campaign,Healthcare,87,42490.09
+DEAL-6263,Company_171,Contact_127,Lead,383921.86,51,Rep_1,2024-08-15,2025-06-20,Event,Healthcare,31,195800.15
+DEAL-6264,Company_57,Contact_226,Opportunity,64767.46,87,Rep_4,2024-03-26,2024-05-28,Partner,Retail,1,56347.69
+DEAL-6265,Company_188,Contact_212,Closed Won,307875.11,93,Rep_3,2024-05-21,2024-10-16,Website,Finance,66,286323.85
+DEAL-6266,Company_171,Contact_154,Negotiation,294459.2,36,Rep_1,2024-11-26,2024-06-29,Cold Call,Healthcare,76,106005.31
+DEAL-6267,Company_20,Contact_31,Proposal,271374.66,81,Rep_6,2024-08-02,2024-05-20,Partner,Retail,74,219813.47
+DEAL-6268,Company_92,Contact_291,Proposal,244702.56,84,Rep_11,2024-10-06,2024-09-10,Cold Call,Logistics,87,205550.15
+DEAL-6269,Company_150,Contact_15,Proposal,333611.0,19,Rep_15,2024-05-08,2025-03-08,Cold Call,Manufacturing,31,63386.09
+DEAL-6270,Company_98,Contact_107,MQL,426646.27,8,Rep_10,2024-12-06,2024-08-03,Event,Manufacturing,82,34131.7
+DEAL-6271,Company_43,Contact_192,Proposal,85208.14,9,Rep_3,2024-09-18,2025-04-03,Partner,Retail,19,7668.73
+DEAL-6272,Company_9,Contact_230,Negotiation,407995.0,18,Rep_6,2024-07-07,2024-12-23,Referral,Manufacturing,53,73439.1
+DEAL-6273,Company_2,Contact_160,Lead,35430.44,75,Rep_5,2024-07-31,2025-02-08,Partner,Technology,80,26572.83
+DEAL-6274,Company_36,Contact_120,Negotiation,243651.6,42,Rep_4,2024-08-16,2024-06-27,Event,Technology,82,102333.67
+DEAL-6275,Company_52,Contact_122,MQL,258175.43,70,Rep_15,2024-02-28,2025-04-25,Website,Logistics,56,180722.8
+DEAL-6276,Company_61,Contact_292,Lead,102804.99,13,Rep_10,2024-04-02,2024-06-08,Partner,Retail,49,13364.65
+DEAL-6277,Company_171,Contact_100,Closed Won,49388.19,62,Rep_8,2024-09-08,2024-08-28,Cold Call,Technology,41,30620.68
+DEAL-6278,Company_102,Contact_256,Opportunity,42080.93,75,Rep_7,2024-06-10,2025-03-17,Referral,Healthcare,78,31560.7
+DEAL-6279,Company_29,Contact_16,Opportunity,23430.82,97,Rep_5,2024-10-13,2025-01-31,Email Campaign,Logistics,79,22727.9
+DEAL-6280,Company_17,Contact_198,Proposal,288928.55,35,Rep_7,2024-07-11,2024-07-24,Email Campaign,Technology,22,101124.99
+DEAL-6281,Company_27,Contact_204,Proposal,81959.93,56,Rep_10,2024-01-25,2024-07-07,Email Campaign,Healthcare,13,45897.56
+DEAL-6282,Company_63,Contact_203,Proposal,405308.85,50,Rep_14,2024-08-31,2024-09-27,Website,Logistics,73,202654.42
+DEAL-6283,Company_148,Contact_127,Closed Lost,449981.6,38,Rep_8,2024-08-11,2024-10-04,Event,Logistics,73,170993.01
+DEAL-6284,Company_10,Contact_207,Negotiation,149742.04,65,Rep_3,2024-05-13,2024-03-29,Cold Call,Healthcare,9,97332.33
+DEAL-6285,Company_81,Contact_134,Lead,86410.88,58,Rep_15,2024-10-16,2024-06-27,Website,Logistics,44,50118.31
+DEAL-6286,Company_90,Contact_178,MQL,207757.88,84,Rep_5,2024-05-08,2024-05-15,Email Campaign,Manufacturing,46,174516.62
+DEAL-6287,Company_30,Contact_268,Opportunity,441377.25,7,Rep_2,2024-02-11,2024-05-15,Email Campaign,Healthcare,4,30896.41
+DEAL-6288,Company_12,Contact_202,Opportunity,202910.5,26,Rep_9,2024-02-14,2024-08-20,Website,Manufacturing,60,52756.73
+DEAL-6289,Company_46,Contact_221,SQL,58626.47,60,Rep_12,2024-11-26,2024-03-18,Partner,Manufacturing,87,35175.88
+DEAL-6290,Company_31,Contact_290,MQL,492410.71,59,Rep_4,2024-05-17,2025-01-24,Email Campaign,Finance,19,290522.32
+DEAL-6291,Company_159,Contact_66,Lead,252339.36,90,Rep_5,2024-05-31,2025-01-21,Partner,Technology,70,227105.42
+DEAL-6292,Company_183,Contact_176,MQL,174473.88,69,Rep_5,2024-04-21,2024-06-16,Event,Manufacturing,8,120386.98
+DEAL-6293,Company_125,Contact_197,Closed Lost,447342.29,5,Rep_13,2024-09-27,2025-05-01,Website,Technology,20,22367.11
+DEAL-6294,Company_151,Contact_208,Opportunity,464064.73,51,Rep_15,2024-08-09,2024-12-15,Referral,Manufacturing,51,236673.01
+DEAL-6295,Company_152,Contact_40,Closed Lost,250918.21,85,Rep_13,2024-11-25,2024-08-01,Partner,Healthcare,83,213280.48
+DEAL-6296,Company_175,Contact_228,SQL,156824.61,87,Rep_4,2024-11-23,2024-06-03,Email Campaign,Manufacturing,79,136437.41
+DEAL-6297,Company_20,Contact_59,SQL,243903.74,81,Rep_13,2024-12-28,2024-09-26,Website,Retail,84,197562.03
+DEAL-6298,Company_199,Contact_123,Opportunity,113544.57,50,Rep_5,2024-04-30,2025-06-11,Website,Technology,88,56772.28
+DEAL-6299,Company_92,Contact_214,Closed Lost,241727.86,15,Rep_14,2024-08-01,2024-03-02,Email Campaign,Technology,72,36259.18
+DEAL-6300,Company_109,Contact_79,Proposal,118568.4,25,Rep_15,2024-05-06,2024-03-10,Email Campaign,Retail,33,29642.1
+DEAL-6301,Company_159,Contact_38,Lead,312990.37,85,Rep_11,2024-09-14,2024-09-18,Referral,Retail,12,266041.81
+DEAL-6302,Company_99,Contact_202,SQL,381145.14,37,Rep_15,2024-09-30,2025-05-22,Referral,Technology,74,141023.7
+DEAL-6303,Company_53,Contact_84,Closed Lost,484866.76,77,Rep_3,2024-04-02,2024-07-16,Email Campaign,Logistics,17,373347.41
+DEAL-6304,Company_4,Contact_248,MQL,422072.38,8,Rep_10,2024-11-10,2025-02-27,Cold Call,Finance,47,33765.79
+DEAL-6305,Company_34,Contact_269,Closed Won,47636.75,51,Rep_1,2024-04-16,2024-12-05,Website,Logistics,68,24294.74
+DEAL-6306,Company_17,Contact_105,Closed Lost,109703.83,95,Rep_10,2024-12-25,2024-06-06,Website,Technology,4,104218.64
+DEAL-6307,Company_76,Contact_221,MQL,268187.47,28,Rep_6,2024-11-07,2025-05-17,Referral,Finance,82,75092.49
+DEAL-6308,Company_156,Contact_68,Proposal,132507.54,7,Rep_15,2024-01-07,2024-05-19,Email Campaign,Retail,27,9275.53
+DEAL-6309,Company_67,Contact_278,Proposal,12110.78,32,Rep_8,2024-05-25,2024-11-02,Referral,Retail,20,3875.45
+DEAL-6310,Company_119,Contact_74,Closed Won,378621.52,10,Rep_12,2024-05-22,2025-01-17,Website,Retail,34,37862.15
+DEAL-6311,Company_37,Contact_264,Closed Won,182097.14,63,Rep_5,2024-10-28,2025-01-23,Partner,Finance,42,114721.2
+DEAL-6312,Company_118,Contact_236,Lead,37719.52,23,Rep_2,2024-09-22,2025-04-21,Event,Finance,41,8675.49
+DEAL-6313,Company_190,Contact_94,SQL,256874.03,28,Rep_12,2024-01-19,2025-02-07,Email Campaign,Finance,14,71924.73
+DEAL-6314,Company_63,Contact_247,Closed Lost,488718.31,60,Rep_4,2024-11-03,2025-01-15,Referral,Healthcare,17,293230.99
+DEAL-6315,Company_97,Contact_190,SQL,340876.62,35,Rep_11,2024-03-20,2024-05-14,Event,Logistics,43,119306.82
+DEAL-6316,Company_192,Contact_201,MQL,83589.23,66,Rep_7,2024-05-15,2024-07-28,Partner,Healthcare,21,55168.89
+DEAL-6317,Company_122,Contact_114,Negotiation,259576.32,93,Rep_15,2024-03-03,2024-08-16,Event,Logistics,58,241405.98
+DEAL-6318,Company_80,Contact_70,MQL,451352.62,93,Rep_6,2024-02-27,2024-08-28,Referral,Finance,81,419757.94
+DEAL-6319,Company_25,Contact_209,MQL,31850.62,74,Rep_7,2024-07-11,2024-04-25,Cold Call,Finance,2,23569.46
+DEAL-6320,Company_187,Contact_16,Closed Won,320757.13,97,Rep_12,2024-01-31,2024-04-16,Partner,Technology,4,311134.42
+DEAL-6321,Company_122,Contact_105,Lead,362030.13,74,Rep_12,2024-01-30,2024-10-01,Website,Finance,58,267902.3
+DEAL-6322,Company_12,Contact_43,Closed Lost,353485.79,11,Rep_2,2024-10-14,2025-02-16,Referral,Finance,3,38883.44
+DEAL-6323,Company_111,Contact_1,MQL,79334.36,95,Rep_12,2024-05-05,2025-05-07,Website,Healthcare,57,75367.64
+DEAL-6324,Company_193,Contact_3,Lead,454102.87,58,Rep_8,2024-08-25,2025-06-01,Email Campaign,Manufacturing,44,263379.66
+DEAL-6325,Company_186,Contact_29,Negotiation,164524.31,5,Rep_15,2024-12-26,2024-10-21,Cold Call,Healthcare,41,8226.22
+DEAL-6326,Company_39,Contact_281,MQL,30612.3,63,Rep_10,2024-01-19,2025-05-12,Website,Manufacturing,54,19285.75
+DEAL-6327,Company_83,Contact_231,SQL,46194.36,28,Rep_12,2024-10-17,2024-10-09,Partner,Technology,80,12934.42
+DEAL-6328,Company_197,Contact_296,SQL,231500.8,55,Rep_6,2024-02-10,2024-10-17,Email Campaign,Logistics,12,127325.44
+DEAL-6329,Company_156,Contact_26,Proposal,24791.09,67,Rep_5,2024-10-05,2024-06-10,Referral,Technology,12,16610.03
+DEAL-6330,Company_112,Contact_299,Opportunity,390878.5,7,Rep_12,2024-04-21,2024-12-31,Partner,Technology,63,27361.5
+DEAL-6331,Company_61,Contact_180,MQL,433582.64,46,Rep_1,2024-02-19,2024-07-30,Event,Healthcare,5,199448.01
+DEAL-6332,Company_152,Contact_238,MQL,11619.72,10,Rep_9,2024-03-24,2024-10-23,Website,Retail,39,1161.97
+DEAL-6333,Company_116,Contact_257,MQL,405956.68,15,Rep_15,2024-05-13,2025-05-31,Event,Finance,45,60893.5
+DEAL-6334,Company_105,Contact_79,Lead,490697.2,25,Rep_15,2024-09-24,2024-11-22,Website,Technology,35,122674.3
+DEAL-6335,Company_185,Contact_222,Negotiation,20032.24,79,Rep_11,2024-09-06,2024-07-26,Partner,Logistics,48,15825.47
+DEAL-6336,Company_76,Contact_194,Opportunity,363858.79,44,Rep_8,2024-09-23,2025-01-21,Cold Call,Manufacturing,11,160097.87
+DEAL-6337,Company_125,Contact_124,Lead,499551.57,9,Rep_13,2024-01-08,2025-02-20,Referral,Manufacturing,24,44959.64
+DEAL-6338,Company_9,Contact_148,SQL,399573.7,75,Rep_1,2024-12-22,2024-12-21,Website,Finance,1,299680.28
+DEAL-6339,Company_142,Contact_63,Negotiation,255151.72,56,Rep_12,2024-06-07,2024-03-21,Partner,Retail,86,142884.96
+DEAL-6340,Company_109,Contact_56,SQL,442987.37,18,Rep_3,2024-02-10,2024-06-19,Email Campaign,Manufacturing,75,79737.73
+DEAL-6341,Company_175,Contact_276,Opportunity,355426.55,58,Rep_12,2024-12-05,2024-05-02,Email Campaign,Healthcare,23,206147.4
+DEAL-6342,Company_67,Contact_219,Negotiation,149763.57,28,Rep_6,2024-10-17,2025-06-09,Partner,Finance,4,41933.8
+DEAL-6343,Company_185,Contact_170,Negotiation,116038.29,65,Rep_12,2024-01-31,2024-07-30,Email Campaign,Manufacturing,25,75424.89
+DEAL-6344,Company_115,Contact_208,Negotiation,258709.47,95,Rep_10,2024-06-08,2024-10-17,Referral,Logistics,86,245774.0
+DEAL-6345,Company_42,Contact_122,Opportunity,189630.31,34,Rep_14,2024-11-27,2025-05-13,Event,Technology,73,64474.31
+DEAL-6346,Company_32,Contact_75,Opportunity,168086.66,75,Rep_12,2024-09-06,2025-06-26,Email Campaign,Manufacturing,59,126065.0
+DEAL-6347,Company_39,Contact_282,Closed Won,93072.78,7,Rep_14,2024-03-12,2024-06-15,Referral,Logistics,83,6515.09
+DEAL-6348,Company_61,Contact_296,Closed Won,423416.57,43,Rep_3,2024-09-13,2025-04-23,Partner,Retail,16,182069.13
+DEAL-6349,Company_110,Contact_65,Lead,353982.18,89,Rep_6,2024-03-10,2025-02-17,Event,Technology,48,315044.14
+DEAL-6350,Company_173,Contact_240,Closed Won,169004.13,12,Rep_7,2024-05-08,2024-12-25,Referral,Manufacturing,71,20280.5
+DEAL-6351,Company_199,Contact_133,Closed Lost,122645.21,93,Rep_1,2024-03-12,2024-05-21,Email Campaign,Logistics,2,114060.05
+DEAL-6352,Company_135,Contact_212,Closed Lost,68428.27,13,Rep_1,2024-09-10,2025-01-31,Partner,Finance,39,8895.68
+DEAL-6353,Company_98,Contact_33,SQL,60693.91,50,Rep_1,2024-12-06,2024-12-24,Event,Technology,32,30346.96
+DEAL-6354,Company_123,Contact_144,Proposal,314611.7,22,Rep_12,2024-01-17,2024-10-04,Referral,Finance,16,69214.57
+DEAL-6355,Company_66,Contact_38,Lead,58864.5,6,Rep_7,2024-08-08,2024-12-11,Partner,Manufacturing,20,3531.87
+DEAL-6356,Company_49,Contact_244,Lead,480305.25,38,Rep_12,2024-03-31,2024-06-11,Website,Retail,87,182516.0
+DEAL-6357,Company_107,Contact_120,Proposal,143171.88,60,Rep_13,2024-10-01,2024-12-28,Email Campaign,Technology,46,85903.13
+DEAL-6358,Company_165,Contact_79,MQL,17773.41,73,Rep_1,2024-02-20,2024-05-14,Email Campaign,Retail,8,12974.59
+DEAL-6359,Company_13,Contact_210,MQL,428388.21,35,Rep_13,2024-05-14,2024-07-18,Website,Manufacturing,61,149935.87
+DEAL-6360,Company_23,Contact_286,SQL,186955.76,51,Rep_4,2024-03-16,2024-10-28,Event,Finance,53,95347.44
+DEAL-6361,Company_36,Contact_102,Opportunity,174768.11,22,Rep_7,2024-11-15,2024-05-18,Referral,Retail,35,38448.98
+DEAL-6362,Company_42,Contact_215,MQL,63717.2,74,Rep_15,2024-01-31,2025-05-19,Partner,Finance,36,47150.73
+DEAL-6363,Company_30,Contact_207,Closed Won,331908.92,21,Rep_5,2024-07-31,2025-05-06,Partner,Technology,48,69700.87
+DEAL-6364,Company_26,Contact_147,Negotiation,182602.72,86,Rep_15,2024-02-14,2024-10-18,Email Campaign,Healthcare,83,157038.34
+DEAL-6365,Company_6,Contact_241,Closed Won,412382.29,22,Rep_8,2024-08-07,2024-12-03,Email Campaign,Manufacturing,68,90724.1
+DEAL-6366,Company_70,Contact_39,Closed Lost,317156.06,68,Rep_1,2024-10-08,2024-07-21,Website,Manufacturing,36,215666.12
+DEAL-6367,Company_144,Contact_263,Proposal,440556.61,36,Rep_13,2024-10-02,2024-06-12,Partner,Technology,22,158600.38
+DEAL-6368,Company_32,Contact_121,SQL,313167.77,99,Rep_1,2024-01-13,2025-06-12,Event,Finance,10,310036.09
+DEAL-6369,Company_65,Contact_14,Closed Lost,390742.72,31,Rep_10,2024-10-10,2024-09-18,Cold Call,Retail,18,121130.24
+DEAL-6370,Company_194,Contact_296,Proposal,349786.95,95,Rep_7,2024-04-18,2025-06-08,Website,Finance,13,332297.6
+DEAL-6371,Company_34,Contact_232,Opportunity,233983.25,84,Rep_3,2024-09-06,2024-04-02,Email Campaign,Finance,72,196545.93
+DEAL-6372,Company_197,Contact_245,Opportunity,345893.63,49,Rep_8,2024-12-18,2024-04-21,Partner,Healthcare,52,169487.88
+DEAL-6373,Company_102,Contact_44,Lead,333490.42,52,Rep_6,2024-02-13,2024-10-18,Partner,Manufacturing,4,173415.02
+DEAL-6374,Company_145,Contact_225,Closed Lost,8318.29,38,Rep_2,2024-05-12,2025-03-16,Website,Retail,83,3160.95
+DEAL-6375,Company_65,Contact_209,Closed Won,350825.78,45,Rep_9,2024-11-13,2024-09-23,Event,Logistics,14,157871.6
+DEAL-6376,Company_65,Contact_270,Negotiation,134768.95,49,Rep_1,2024-02-21,2025-04-14,Website,Technology,58,66036.79
+DEAL-6377,Company_79,Contact_112,MQL,273202.3,18,Rep_9,2024-04-05,2024-05-04,Cold Call,Healthcare,2,49176.41
+DEAL-6378,Company_26,Contact_278,Closed Lost,60109.53,35,Rep_4,2024-07-19,2025-04-21,Cold Call,Retail,53,21038.34
+DEAL-6379,Company_63,Contact_212,MQL,16396.14,88,Rep_13,2024-12-30,2024-10-03,Website,Manufacturing,50,14428.6
+DEAL-6380,Company_178,Contact_76,MQL,12484.26,97,Rep_15,2024-04-17,2024-07-17,Website,Retail,81,12109.73
+DEAL-6381,Company_1,Contact_64,Lead,83306.28,10,Rep_14,2024-05-21,2025-01-06,Partner,Logistics,54,8330.63
+DEAL-6382,Company_114,Contact_271,SQL,14846.79,74,Rep_15,2024-10-18,2025-03-15,Email Campaign,Logistics,44,10986.62
+DEAL-6383,Company_137,Contact_193,SQL,70536.72,27,Rep_2,2024-02-13,2025-05-27,Event,Manufacturing,48,19044.91
+DEAL-6384,Company_29,Contact_36,Closed Won,281790.93,67,Rep_8,2024-04-29,2024-04-12,Email Campaign,Healthcare,57,188799.92
+DEAL-6385,Company_23,Contact_38,SQL,203135.05,64,Rep_4,2024-04-25,2025-02-06,Cold Call,Finance,37,130006.43
+DEAL-6386,Company_110,Contact_248,Closed Lost,490470.32,88,Rep_2,2024-05-26,2024-08-01,Website,Retail,64,431613.88
+DEAL-6387,Company_44,Contact_51,SQL,405303.71,71,Rep_6,2024-07-28,2024-10-31,Email Campaign,Healthcare,48,287765.63
+DEAL-6388,Company_195,Contact_66,Proposal,77654.0,83,Rep_7,2024-03-22,2024-10-11,Event,Technology,87,64452.82
+DEAL-6389,Company_38,Contact_184,Proposal,211310.75,81,Rep_5,2024-05-23,2025-03-11,Referral,Finance,18,171161.71
+DEAL-6390,Company_27,Contact_259,Closed Won,218330.54,66,Rep_2,2024-12-01,2024-09-11,Cold Call,Logistics,65,144098.16
+DEAL-6391,Company_66,Contact_101,Closed Won,184247.81,43,Rep_7,2024-10-30,2024-07-15,Cold Call,Healthcare,74,79226.56
+DEAL-6392,Company_67,Contact_200,Closed Won,250316.94,37,Rep_3,2024-12-15,2024-10-24,Partner,Logistics,64,92617.27
+DEAL-6393,Company_32,Contact_211,Closed Lost,336587.9,37,Rep_1,2024-09-06,2025-01-20,Website,Finance,88,124537.52
+DEAL-6394,Company_133,Contact_180,Lead,322240.41,39,Rep_7,2024-08-01,2025-04-17,Website,Logistics,39,125673.76
+DEAL-6395,Company_70,Contact_205,Lead,181764.09,32,Rep_1,2024-03-19,2024-03-03,Referral,Manufacturing,49,58164.51
+DEAL-6396,Company_105,Contact_69,Opportunity,353997.58,34,Rep_15,2024-02-28,2024-12-02,Website,Healthcare,14,120359.18
+DEAL-6397,Company_49,Contact_186,MQL,148295.27,58,Rep_13,2024-07-16,2024-04-05,Partner,Retail,34,86011.26
+DEAL-6398,Company_20,Contact_2,Opportunity,418556.58,30,Rep_14,2024-05-28,2024-12-27,Referral,Logistics,15,125566.97
+DEAL-6399,Company_13,Contact_219,Proposal,482364.16,38,Rep_2,2024-10-15,2024-12-30,Cold Call,Retail,71,183298.38
+DEAL-6400,Company_11,Contact_237,SQL,150894.64,72,Rep_7,2024-01-04,2025-04-21,Referral,Logistics,70,108644.14
+DEAL-6401,Company_174,Contact_238,Lead,393420.83,36,Rep_13,2024-11-22,2024-06-02,Event,Technology,18,141631.5
+DEAL-6402,Company_53,Contact_9,Closed Lost,407645.77,15,Rep_9,2024-03-03,2025-03-22,Email Campaign,Technology,72,61146.87
+DEAL-6403,Company_61,Contact_273,SQL,247927.87,6,Rep_5,2024-05-24,2025-01-30,Cold Call,Technology,29,14875.67
+DEAL-6404,Company_116,Contact_130,Closed Won,48434.92,77,Rep_13,2024-05-10,2025-01-18,Event,Finance,65,37294.89
+DEAL-6405,Company_19,Contact_25,Proposal,394160.04,95,Rep_5,2024-12-04,2025-01-05,Website,Manufacturing,84,374452.04
+DEAL-6406,Company_120,Contact_160,Negotiation,206701.73,69,Rep_15,2024-09-20,2024-11-23,Event,Logistics,74,142624.19
+DEAL-6407,Company_104,Contact_171,Closed Won,107995.28,10,Rep_2,2024-01-14,2024-04-01,Cold Call,Retail,17,10799.53
+DEAL-6408,Company_158,Contact_121,SQL,315191.87,58,Rep_11,2024-11-08,2025-03-31,Cold Call,Healthcare,17,182811.28
+DEAL-6409,Company_25,Contact_224,MQL,221284.36,30,Rep_1,2024-09-04,2024-09-08,Website,Logistics,10,66385.31
+DEAL-6410,Company_4,Contact_163,Closed Lost,48348.36,35,Rep_14,2024-01-25,2024-04-20,Website,Retail,75,16921.93
+DEAL-6411,Company_154,Contact_65,Negotiation,491918.94,92,Rep_6,2024-10-13,2024-12-24,Event,Retail,49,452565.42
+DEAL-6412,Company_74,Contact_186,SQL,126107.63,83,Rep_1,2024-01-13,2025-06-05,Partner,Technology,14,104669.33
+DEAL-6413,Company_13,Contact_79,Negotiation,257927.7,74,Rep_13,2024-06-04,2025-02-11,Partner,Finance,53,190866.5
+DEAL-6414,Company_111,Contact_36,Opportunity,335307.69,52,Rep_15,2024-02-29,2024-06-28,Referral,Manufacturing,48,174360.0
+DEAL-6415,Company_93,Contact_80,Closed Won,61969.24,59,Rep_14,2024-01-05,2025-04-02,Event,Manufacturing,54,36561.85
+DEAL-6416,Company_190,Contact_271,Proposal,371008.0,92,Rep_8,2024-07-23,2025-04-17,Website,Healthcare,57,341327.36
+DEAL-6417,Company_188,Contact_172,SQL,325902.97,67,Rep_1,2024-09-08,2024-08-08,Event,Manufacturing,15,218354.99
+DEAL-6418,Company_108,Contact_96,Negotiation,249407.68,60,Rep_4,2024-06-24,2024-11-10,Email Campaign,Manufacturing,35,149644.61
+DEAL-6419,Company_32,Contact_110,Closed Won,266523.35,14,Rep_1,2024-05-05,2025-04-12,Partner,Technology,65,37313.27
+DEAL-6420,Company_149,Contact_258,SQL,477623.54,99,Rep_1,2024-07-06,2024-05-16,Website,Logistics,81,472847.3
+DEAL-6421,Company_41,Contact_200,Closed Won,455894.43,81,Rep_3,2024-02-25,2024-08-20,Event,Manufacturing,22,369274.49
+DEAL-6422,Company_167,Contact_232,MQL,60431.75,39,Rep_9,2024-01-19,2024-10-09,Cold Call,Finance,51,23568.38
+DEAL-6423,Company_120,Contact_183,MQL,187532.27,28,Rep_12,2024-02-27,2024-03-04,Email Campaign,Finance,85,52509.04
+DEAL-6424,Company_71,Contact_297,Closed Won,260801.86,96,Rep_9,2024-01-20,2024-05-21,Email Campaign,Logistics,54,250369.79
+DEAL-6425,Company_195,Contact_197,Proposal,460388.04,95,Rep_4,2024-10-08,2024-12-23,Event,Finance,21,437368.64
+DEAL-6426,Company_103,Contact_120,Lead,409198.85,44,Rep_10,2024-08-10,2024-07-07,Email Campaign,Technology,52,180047.49
+DEAL-6427,Company_77,Contact_76,Negotiation,196308.94,26,Rep_4,2024-03-09,2024-06-26,Cold Call,Technology,2,51040.32
+DEAL-6428,Company_38,Contact_14,SQL,443674.15,80,Rep_7,2024-07-27,2024-07-23,Cold Call,Finance,44,354939.32
+DEAL-6429,Company_130,Contact_230,SQL,192188.11,64,Rep_14,2024-06-26,2024-04-30,Website,Retail,51,123000.39
+DEAL-6430,Company_54,Contact_279,Opportunity,139240.5,90,Rep_3,2024-02-10,2025-01-05,Event,Healthcare,6,125316.45
+DEAL-6431,Company_31,Contact_199,Opportunity,306896.85,56,Rep_14,2024-12-21,2024-07-04,Event,Manufacturing,19,171862.24
+DEAL-6432,Company_24,Contact_146,Closed Lost,181171.37,57,Rep_5,2024-12-09,2025-01-12,Email Campaign,Finance,88,103267.68
+DEAL-6433,Company_128,Contact_40,Opportunity,313091.74,18,Rep_11,2024-10-04,2025-04-08,Event,Finance,56,56356.51
+DEAL-6434,Company_184,Contact_193,SQL,207793.62,62,Rep_4,2024-10-22,2024-10-20,Referral,Healthcare,41,128832.04
+DEAL-6435,Company_51,Contact_60,Closed Won,398905.72,39,Rep_3,2024-07-19,2025-05-20,Referral,Manufacturing,21,155573.23
+DEAL-6436,Company_44,Contact_187,Proposal,477383.93,24,Rep_7,2024-10-21,2024-06-04,Partner,Retail,12,114572.14
+DEAL-6437,Company_123,Contact_90,Lead,138803.04,79,Rep_6,2024-07-12,2025-06-12,Partner,Manufacturing,39,109654.4
+DEAL-6438,Company_29,Contact_259,Negotiation,257454.99,37,Rep_8,2024-03-01,2024-08-04,Partner,Technology,49,95258.35
+DEAL-6439,Company_18,Contact_280,Proposal,363594.06,25,Rep_4,2024-03-02,2024-07-26,Website,Healthcare,16,90898.52
+DEAL-6440,Company_127,Contact_71,Proposal,83466.95,96,Rep_15,2024-11-08,2025-06-21,Email Campaign,Healthcare,72,80128.27
+DEAL-6441,Company_105,Contact_98,MQL,398973.54,96,Rep_11,2024-06-12,2024-10-09,Event,Technology,39,383014.6
+DEAL-6442,Company_6,Contact_276,Opportunity,293571.12,51,Rep_13,2024-09-23,2025-02-28,Website,Finance,5,149721.27
+DEAL-6443,Company_48,Contact_6,Negotiation,79121.56,33,Rep_12,2024-02-23,2025-03-26,Partner,Finance,13,26110.11
+DEAL-6444,Company_40,Contact_155,Negotiation,434773.65,20,Rep_11,2024-06-12,2024-10-05,Event,Healthcare,77,86954.73
+DEAL-6445,Company_136,Contact_43,Negotiation,216217.12,64,Rep_3,2024-01-31,2024-08-02,Referral,Technology,31,138378.96
+DEAL-6446,Company_133,Contact_130,Closed Lost,92426.58,63,Rep_9,2024-03-21,2024-10-26,Email Campaign,Finance,34,58228.75
+DEAL-6447,Company_149,Contact_10,Proposal,101721.2,63,Rep_14,2024-02-09,2024-09-04,Partner,Logistics,18,64084.36
+DEAL-6448,Company_20,Contact_43,Opportunity,393825.67,77,Rep_2,2024-03-17,2024-09-19,Partner,Technology,72,303245.77
+DEAL-6449,Company_169,Contact_121,Proposal,468179.5,49,Rep_7,2024-08-10,2024-06-24,Event,Manufacturing,73,229407.96
+DEAL-6450,Company_42,Contact_18,SQL,192233.71,69,Rep_3,2024-01-02,2025-05-20,Partner,Retail,22,132641.26
+DEAL-6451,Company_198,Contact_239,SQL,44019.9,67,Rep_12,2024-03-11,2024-12-04,Event,Technology,65,29493.33
+DEAL-6452,Company_174,Contact_173,Negotiation,54907.42,80,Rep_14,2024-09-09,2025-03-23,Partner,Healthcare,41,43925.94
+DEAL-6453,Company_92,Contact_135,SQL,328966.86,75,Rep_1,2024-02-24,2025-01-16,Partner,Retail,15,246725.14
+DEAL-6454,Company_157,Contact_142,Negotiation,188522.1,8,Rep_13,2024-07-22,2024-08-19,Website,Finance,71,15081.77
+DEAL-6455,Company_134,Contact_251,Negotiation,215935.09,63,Rep_6,2024-11-13,2024-08-03,Email Campaign,Finance,8,136039.11
+DEAL-6456,Company_154,Contact_253,Closed Lost,171838.45,97,Rep_15,2024-10-12,2025-06-22,Cold Call,Manufacturing,78,166683.3
+DEAL-6457,Company_4,Contact_15,MQL,235441.59,58,Rep_1,2024-02-14,2024-03-12,Cold Call,Technology,3,136556.12
+DEAL-6458,Company_17,Contact_205,SQL,323556.98,55,Rep_3,2024-02-23,2024-07-22,Referral,Logistics,29,177956.34
+DEAL-6459,Company_181,Contact_141,Closed Won,272863.89,62,Rep_11,2024-09-15,2025-02-22,Event,Finance,21,169175.61
+DEAL-6460,Company_156,Contact_235,Opportunity,86299.5,58,Rep_12,2024-05-06,2024-11-21,Partner,Healthcare,21,50053.71
+DEAL-6461,Company_123,Contact_236,Negotiation,248187.88,43,Rep_2,2024-06-01,2024-12-26,Cold Call,Technology,43,106720.79
+DEAL-6462,Company_63,Contact_212,Negotiation,233003.46,99,Rep_3,2024-06-23,2024-03-11,Event,Logistics,67,230673.43
+DEAL-6463,Company_84,Contact_202,Closed Lost,275139.94,11,Rep_6,2024-07-30,2024-06-15,Referral,Finance,36,30265.39
+DEAL-6464,Company_79,Contact_64,MQL,59781.67,82,Rep_1,2024-06-13,2024-12-17,Event,Manufacturing,46,49020.97
+DEAL-6465,Company_87,Contact_255,SQL,80995.93,20,Rep_12,2024-01-09,2024-08-01,Website,Finance,87,16199.19
+DEAL-6466,Company_126,Contact_210,Opportunity,267470.87,24,Rep_11,2024-02-04,2024-10-16,Partner,Technology,45,64193.01
+DEAL-6467,Company_151,Contact_82,Proposal,141340.35,62,Rep_12,2024-01-01,2025-06-10,Cold Call,Healthcare,71,87631.02
+DEAL-6468,Company_77,Contact_70,Closed Lost,316370.69,65,Rep_8,2024-04-06,2025-01-05,Email Campaign,Retail,35,205640.95
+DEAL-6469,Company_166,Contact_150,Lead,189511.93,93,Rep_10,2024-10-26,2025-01-01,Event,Healthcare,7,176246.09
+DEAL-6470,Company_19,Contact_103,MQL,114263.7,32,Rep_9,2024-12-21,2024-06-04,Website,Logistics,23,36564.38
+DEAL-6471,Company_161,Contact_203,Closed Lost,329915.42,7,Rep_11,2024-06-23,2024-12-15,Partner,Retail,15,23094.08
+DEAL-6472,Company_135,Contact_122,Proposal,199984.3,29,Rep_7,2024-01-10,2025-06-11,Email Campaign,Manufacturing,81,57995.45
+DEAL-6473,Company_102,Contact_51,Negotiation,83018.17,56,Rep_10,2024-01-27,2025-01-06,Partner,Healthcare,3,46490.18
+DEAL-6474,Company_75,Contact_119,MQL,405360.44,38,Rep_10,2024-10-25,2025-03-18,Email Campaign,Technology,74,154036.97
+DEAL-6475,Company_74,Contact_244,Proposal,218720.56,28,Rep_10,2024-05-05,2025-06-08,Referral,Healthcare,13,61241.76
+DEAL-6476,Company_72,Contact_249,SQL,457959.82,91,Rep_14,2024-11-18,2025-05-13,Email Campaign,Retail,14,416743.44
+DEAL-6477,Company_189,Contact_94,Negotiation,100733.46,58,Rep_6,2024-07-04,2024-08-13,Email Campaign,Healthcare,48,58425.41
+DEAL-6478,Company_6,Contact_238,Lead,438793.37,68,Rep_14,2024-11-17,2024-07-22,Partner,Manufacturing,8,298379.49
+DEAL-6479,Company_127,Contact_28,SQL,408875.44,76,Rep_1,2024-02-19,2024-07-15,Email Campaign,Logistics,7,310745.33
+DEAL-6480,Company_197,Contact_295,Negotiation,56438.33,43,Rep_8,2024-11-10,2025-03-11,Cold Call,Technology,70,24268.48
+DEAL-6481,Company_109,Contact_229,Proposal,268182.25,74,Rep_7,2024-07-18,2024-08-31,Referral,Technology,6,198454.86
+DEAL-6482,Company_128,Contact_13,Closed Won,328573.02,96,Rep_14,2024-06-09,2025-04-05,Referral,Finance,54,315430.1
+DEAL-6483,Company_120,Contact_211,Closed Won,250263.69,73,Rep_1,2024-07-12,2025-03-26,Email Campaign,Retail,11,182692.49
+DEAL-6484,Company_101,Contact_148,Lead,198180.23,33,Rep_4,2024-04-29,2025-01-19,Cold Call,Technology,8,65399.48
+DEAL-6485,Company_126,Contact_265,Lead,472201.85,78,Rep_8,2024-08-08,2024-04-28,Cold Call,Finance,60,368317.44
+DEAL-6486,Company_180,Contact_72,SQL,351906.33,27,Rep_13,2024-10-08,2025-02-10,Website,Healthcare,35,95014.71
+DEAL-6487,Company_142,Contact_267,Closed Lost,483105.59,11,Rep_7,2024-10-23,2024-06-09,Partner,Healthcare,2,53141.61
+DEAL-6488,Company_170,Contact_261,Opportunity,423884.0,47,Rep_10,2024-12-24,2024-11-25,Partner,Logistics,61,199225.48
+DEAL-6489,Company_111,Contact_84,Closed Lost,409480.04,53,Rep_3,2024-05-31,2024-06-20,Referral,Retail,87,217024.42
+DEAL-6490,Company_154,Contact_130,Lead,364187.98,49,Rep_15,2024-10-08,2024-03-31,Website,Logistics,50,178452.11
+DEAL-6491,Company_175,Contact_192,Closed Lost,324809.22,29,Rep_12,2024-11-21,2025-01-04,Partner,Manufacturing,34,94194.67
+DEAL-6492,Company_43,Contact_72,Lead,443996.74,30,Rep_1,2024-01-07,2024-10-06,Partner,Healthcare,76,133199.02
+DEAL-6493,Company_172,Contact_299,Closed Won,308637.84,92,Rep_11,2024-06-22,2025-01-07,Partner,Logistics,30,283946.81
+DEAL-6494,Company_137,Contact_58,Closed Lost,42267.76,32,Rep_2,2024-09-13,2024-10-25,Email Campaign,Logistics,55,13525.68
+DEAL-6495,Company_89,Contact_73,SQL,293368.94,79,Rep_9,2024-06-16,2024-08-29,Event,Healthcare,43,231761.46
+DEAL-6496,Company_155,Contact_150,SQL,55903.4,29,Rep_11,2024-02-06,2024-03-08,Event,Logistics,65,16211.99
+DEAL-6497,Company_34,Contact_142,Proposal,474904.03,15,Rep_14,2024-08-27,2024-07-13,Referral,Finance,47,71235.6
+DEAL-6498,Company_139,Contact_16,Negotiation,325101.14,11,Rep_2,2024-05-28,2025-05-03,Email Campaign,Finance,43,35761.13
+DEAL-6499,Company_115,Contact_273,Lead,280044.91,28,Rep_5,2024-08-14,2025-03-03,Referral,Manufacturing,38,78412.57
