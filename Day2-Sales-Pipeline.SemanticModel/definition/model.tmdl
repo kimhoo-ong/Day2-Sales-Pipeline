@@ -36,13 +36,13 @@ table FactPipeline
 
 	column deal_value
 		dataType: double
-		formatString: "$#,0.00"
+		formatString: $#,0.00
 		summarizeBy: sum
 		sourceColumn: deal_value
 
 	column probability_pct
 		dataType: int64
-		formatString: "0\\%"
+		formatString: 0%
 		summarizeBy: average
 		sourceColumn: probability_pct
 
@@ -53,12 +53,12 @@ table FactPipeline
 
 	column created_date
 		dataType: dateTime
-		formatString: "yyyy-mm-dd"
+		formatString: yyyy-mm-dd
 		sourceColumn: created_date
 
 	column expected_close_date
 		dataType: dateTime
-		formatString: "yyyy-mm-dd"
+		formatString: yyyy-mm-dd
 		sourceColumn: expected_close_date
 
 	column lead_source
@@ -73,19 +73,19 @@ table FactPipeline
 
 	column days_in_stage
 		dataType: int64
-		formatString: "#,0"
+		formatString: #,0
 		summarizeBy: average
 		sourceColumn: days_in_stage
 
 	column weighted_value
 		dataType: double
-		formatString: "$#,0.00"
+		formatString: $#,0.00
 		summarizeBy: sum
 		sourceColumn: weighted_value
 
 	column 'Expected Close Lag Days'
 		dataType: int64
-		formatString: "#,0"
+		formatString: #,0
 		summarizeBy: average
 		sourceColumn: 'Expected Close Lag Days'
 
@@ -117,13 +117,13 @@ table FactPipeline
 
 	column 'Created Month'
 		dataType: dateTime
-		formatString: "yyyy-mm"
+		formatString: yyyy-mm
 		summarizeBy: none
 		sourceColumn: 'Created Month'
 
 	column 'Expected Close Month'
 		dataType: dateTime
-		formatString: "yyyy-mm"
+		formatString: yyyy-mm
 		summarizeBy: none
 		sourceColumn: 'Expected Close Month'
 
@@ -134,67 +134,67 @@ table FactPipeline
 
 	measure 'Deal Count' =
 		COUNTROWS(FactPipeline)
-		formatString: "#,0"
+		formatString: #,0
 
 	measure 'Total Pipeline Value' =
 		SUM(FactPipeline[deal_value])
-		formatString: "$#,0.00"
+		formatString: $#,0.00
 
 	measure 'Weighted Pipeline Value' =
 		SUM(FactPipeline[weighted_value])
-		formatString: "$#,0.00"
+		formatString: $#,0.00
 
 	measure 'Average Deal Size' =
 		DIVIDE([Total Pipeline Value], [Deal Count])
-		formatString: "$#,0.00"
+		formatString: $#,0.00
 
 	measure 'Average Win Probability' =
 		AVERAGE(FactPipeline[probability_pct])
-		formatString: "0.00\\%"
+		formatString: 0.00%
 
 	measure 'Average Days In Stage' =
 		AVERAGE(FactPipeline[days_in_stage])
-		formatString: "0.00"
+		formatString: 0.00
 
 	measure 'Closed Won Count' =
 		CALCULATE([Deal Count], FactPipeline[stage] = "Closed Won")
-		formatString: "#,0"
+		formatString: #,0
 
 	measure 'Closed Lost Count' =
 		CALCULATE([Deal Count], FactPipeline[stage] = "Closed Lost")
-		formatString: "#,0"
+		formatString: #,0
 
 	measure 'Open Deal Count' =
 		CALCULATE([Deal Count], FactPipeline[Is Open Deal] = TRUE())
-		formatString: "#,0"
+		formatString: #,0
 
 	measure 'Open Pipeline Value' =
 		CALCULATE([Total Pipeline Value], FactPipeline[Is Open Deal] = TRUE())
-		formatString: "$#,0.00"
+		formatString: $#,0.00
 
 	measure 'Open Weighted Pipeline' =
 		CALCULATE([Weighted Pipeline Value], FactPipeline[Is Open Deal] = TRUE())
-		formatString: "$#,0.00"
+		formatString: $#,0.00
 
 	measure 'Win Rate' =
 		DIVIDE([Closed Won Count], [Closed Won Count] + [Closed Lost Count])
-		formatString: "0.00\\%"
+		formatString: 0.00%
 
 	measure 'Weighted Coverage Ratio' =
 		DIVIDE([Weighted Pipeline Value], [Total Pipeline Value])
-		formatString: "0.00\\%"
+		formatString: 0.00%
 
 	measure 'Stalled Deals Count' =
 		CALCULATE([Deal Count], FactPipeline[Is Stalled Deal] = TRUE())
-		formatString: "#,0"
+		formatString: #,0
 
 	measure 'Bad Expected Close Date Count' =
 		CALCULATE([Deal Count], FactPipeline[Is Bad Close Date] = TRUE())
-		formatString: "#,0"
+		formatString: #,0
 
 	measure 'Bad Expected Close Date Value' =
 		CALCULATE([Total Pipeline Value], FactPipeline[Is Bad Close Date] = TRUE())
-		formatString: "$#,0.00"
+		formatString: $#,0.00
 
 	measure 'Clean Forecast Value' =
 		CALCULATE(
@@ -202,7 +202,7 @@ table FactPipeline
 			FactPipeline[Is Bad Close Date] = FALSE(),
 			FactPipeline[Is Open Deal] = TRUE()
 		)
-		formatString: "$#,0.00"
+		formatString: $#,0.00
 
 	measure 'High Value Stalled Deals' =
 		CALCULATE(
@@ -210,7 +210,7 @@ table FactPipeline
 			FactPipeline[Is Stalled Deal] = TRUE(),
 			FactPipeline[deal_value] >= 250000
 		)
-		formatString: "#,0"
+		formatString: #,0
 
 	partition FactPipeline = m
 		mode: import
